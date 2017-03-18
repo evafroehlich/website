@@ -3,7 +3,7 @@
 // Nav menu
 
 @mixin icon-position($position) {
-	display: block;
+  display: block;
   position: fixed;
   top: 35px;
   #{$position}: 25px;
@@ -12,10 +12,10 @@
 }
 
 @mixin open($x) {
-	-webkit-transform: translateX($x);
-     -moz-transform: translateX($x);
-      -ms-transform: translateX($x);
-          transform: translateX($x);
+  -webkit-transform: translateX($x);
+  -moz-transform: translateX($x);
+  -ms-transform: translateX($x);
+  transform: translateX($x);
   width: 100%;
   @media (min-width: 940px) {
     width: 30%;
@@ -23,7 +23,7 @@
 }
 
 @mixin nav-position($position) {
-	width: 14rem;
+  width: 14rem;
   position: fixed;
   background-color: $background-color;
   top: 0;
@@ -32,9 +32,9 @@
   color: $background-color;
   opacity: 0.95;
   -webkit-transition: all 0.3s ease-in;
-     -moz-transition: all 0.3s ease-in;
-      -ms-transition: all 0.3s ease-in;
-          transition: all 0.3s ease-in;
+  -moz-transition: all 0.3s ease-in;
+  -ms-transition: all 0.3s ease-in;
+  transition: all 0.3s ease-in;
   z-index: 1;
   padding: 72px 0;
   text-align: center;
