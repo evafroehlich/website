@@ -58,8 +58,8 @@ body {
 
 /*- Link -*/
 a {
-  color: $text-color;
-  text-decoration: none;
+  color: $green;
+  text-decoration: underline;
   &:hover,
   &:focus {
     color: darken($green, 5%);

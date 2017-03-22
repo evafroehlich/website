@@ -108,7 +108,7 @@ title: About me
       03/2014
     </span>
 
-    <h3 class="experience__position">Student</h3>
+    <h3 class="experience__position">Master of Science</h3>
     <span class="experience__company">Carl von Ossietzky University of Oldenburg</span>
   </a>
 
@@ -139,7 +139,7 @@ title: About me
       &ndash;
       03/2012
     </span>
-    <h3 class="experience__position">Student</h3>
+    <h3 class="experience__position">Bachelor of Engineering</h3>
     <span class="experience__company">Jade University of Applied Science, Wilhelmshaven </span>
   </a>
 
@@ -181,7 +181,8 @@ title: About me
   </a>
 
   <div class="experience__description">
-    “Institute for Integrated Energy Systems”
+    
+    <a target="_blank" href="http://www.uvic.ca/research/centres/iesvic/">Institute for Integrated Energy Systems</a>
     <p>
       As a part of “West Coast Wave Initiative (WCWI)” I researched wave energy systems. In SimuLink I implemented a model of a single motion wave energy converter with a hydraulic power take-off system.
     </p>

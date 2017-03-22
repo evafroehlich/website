@@ -11,6 +11,8 @@
 .experience__teaser {
   width: 100%;
   display: flex;
+  text-decoration: none;
+  color: $text-color;
 }
 
 .experience__timerange,
@@ -27,8 +29,8 @@
 
 .experience__timerange {
   min-width: 8.5rem;
-  color: $text-light-color;
-  font-weight: lighter;
+  // color: $text-light-color;
+  // font-weight: lighter;
   font-size: .75rem;
 }
 
