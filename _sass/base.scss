@@ -32,6 +32,7 @@ img {
 
 /*- Base color -*/
 
+$green: #1f9951;
 $background-color: #fff;
 $text-color: #333;
 $text-light-color: rgba(0,0,0,0.6);
@@ -57,12 +58,11 @@ body {
 
 /*- Link -*/
 a {
-  color: $text-color;
-  text-decoration: none;
-  font-weight: 700;
+  color: $green;
+  text-decoration: underline;
   &:hover,
   &:focus {
-    color: darken($text-color, 5%);
+    color: darken($green, 5%);
   }
 }
 

@@ -13,7 +13,7 @@
       font-size: 1em;
     }
     &:hover {
-      background-color: lighten($text-light-color, 5%);
+      background-color: lighten($green, 5%);
     }
   }
   span {
@@ -203,10 +203,6 @@ img {
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
   border-radius: 4px;
-}
-
-img[title="Monochrome"] {
-  box-shadow: 0 2px 6px #ddd;
 }
 
 code {
