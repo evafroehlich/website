@@ -41,14 +41,14 @@ Finally, the meeting gave good incentives for further cooperation and made clear
 - Kateryna Babichok (Project Assistant at the [European-Ukrainian Energy Agency](http://euea-energyagency.org/en/))
 - Yulia Burmistenko (International Public Affairs Manager at the [DTEK](http://www.dtek.com/en/))
 
-*Dieser Blogeintrag ist auch auf deutsch verfügbar. Du findest ihn im Hypatia Blog. [Hier geht's lang.](http://www.hypatia-network.de)*
+<!-- *Dieser Blogeintrag ist auch auf deutsch verfügbar. Du findest ihn im Hypatia Blog. [Hier geht's lang.](http://www.hypatia-network.de)* -->
 
 **Do you have any questions concerning this blog post and our networks? Please feel free contact us:**
 
 *Contact Blogger*   
-blog-email: [blog[at]eva-ernst.me](mailto:blog@eva-ernst.me)  
+[blog[at]eva-ernst.me](mailto:blog@eva-ernst.me)  
 *Hypatia – Frauennetzwerk Erneuerbare Energien und Cleantech e.V.*    
-email: [kontakt[at]hypatia-network.de](mailto:kontakt@hypatia-network.de)  
-twitter: [@hypatia-network](https://twitter.com/HypatiaNetwork)  
+[kontakt[at]hypatia-network.de](mailto:kontakt@hypatia-network.de)  
+<a class="contact__social-link" href="https://twitter.com/HypatiaNetwork"><img src="{{ "/img/twitter.svg" | relative_url }}"></a>  
 *Women's Energy Club Ukraine*  
 email: [kateryna.babichok[at]euea-energyagency.org](mailto:kateryna.babichok@euea-energyagency.org)
