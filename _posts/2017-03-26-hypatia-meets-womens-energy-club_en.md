@@ -7,7 +7,7 @@ header: Hypatia e.V. meets Women's Energy Club Kyiv
 ![20170316_group_picture](/img/20170316_GroupPicture.jpg "20170316_grouppicture")
 **Women's Energy Club Ukraine** is a network of women working in energy-related sectors. It aims to empower women and provide professional support. The club unites members of the Parliament of Ukraine (Energy Committee), experts, international organizations representatives as well as women from energy production sector. Currently, the Club has about 30 members. The Club is supported by the European-Ukrainian Energy Agency & Heinrich Böll Foundation's Office in Ukraine.
 
-[**Hypatia Frauennetzwerk Erneuerbare Energien und Cleantech e.V.**](http://www.hypatia-network.de) is a non-profit organization for women working in the renewable energy sector. Similar to the Women's Energy Club it aims to empower women and provide professional support. Increasing the visibility of women in the networks is one of the major goals to reach for professional equity for women and men. As the time of writing Hypatia has about 30 members. The organization team works on a voluntary basis.
+**Hypatia Frauennetzwerk Erneuerbare Energien und Cleantech e.V.** is a non-profit organization for women working in the renewable energy sector. Similar to the Women's Energy Club it aims to empower women and provide professional support. Increasing the visibility of women in the networks is one of the major goals to reach for professional equity for women and men. As the time of writing Hypatia has about 30 members. The organization team works on a voluntary basis.
 
 ![20170315_hypatia_presentation](/img/20170315_Hypatia_PresentationKyiv.jpg "20170315_hypatia_presentation")
 
@@ -41,18 +41,14 @@ Finally, the meeting gave good incentives for further cooperation and made clear
 - Kateryna Babichok (Project Assistant at the [European-Ukrainian Energy Agency](http://euea-energyagency.org/en/))
 - Yulia Burmistenko (International Public Affairs Manager at the [DTEK](http://www.dtek.com/en/))
 
+<!-- *Dieser Blogeintrag ist auch auf deutsch verfügbar. Du findest ihn im Hypatia Blog. [Hier geht's lang.](http://www.hypatia-network.de)* -->
+
 **Do you have any questions concerning this blog post and our networks? Please feel free contact us:**
 
-This blog    
-blog-email: [blog@eva-ernst.me](blog@eva-ernst.me)  
-
-Hypatia – Frauennetzwerk Erneuerbare Energien und Cleantech e.V.  
-email: [kontakt[at]hypatia-network.de](kontakt@hypatia-network.de)  
-twitter: [@hypatia-network](https://twitter.com/HypatiaNetwork)
-
-Women's Energy Club Ukraine  
-email: [kateryna.babichok@euea-energyagency.org](kateryna.babichok@euea-energyagency.org)
-
-Dieser Blogeintrag ist auch auf deutsch verfügbar. Du findest ihn im Hypatia Blog. [Hier geht's lang.](Link)
-
-<!-- *Up next: "How to react to everyday sexism? A guide to witty responses in the heat of the moment."* -->
+*Contact Blogger*   
+[blog[at]eva-ernst.me](mailto:blog@eva-ernst.me)  
+*Hypatia – Frauennetzwerk Erneuerbare Energien und Cleantech e.V.*    
+[kontakt[at]hypatia-network.de](mailto:kontakt@hypatia-network.de)  
+<a class="contact__social-link" href="https://twitter.com/HypatiaNetwork"><img src="{{ "/img/twitter.svg" | relative_url }}"></a>  
+*Women's Energy Club Ukraine*  
+email: [kateryna.babichok[at]euea-energyagency.org](mailto:kateryna.babichok@euea-energyagency.org)
