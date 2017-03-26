@@ -34,6 +34,10 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - deploy.sh
+  - license.md
+  - README.md
+  - .gitignore
 
 # Options
 custom_header: false
