@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+permalink: /about/
 ---
 <h2 class="experience__headline">Work Experience</h2>
 
