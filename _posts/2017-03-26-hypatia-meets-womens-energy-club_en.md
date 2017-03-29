@@ -6,12 +6,12 @@ comments: true
 hypatia_url: http://www.hypatia-network.de/hypatia-ev-trifft-den-womens-energy-club-kyiv
 ---
 
-![20170316_group_picture](/img/20170316_GroupPicture.jpg "20170316_grouppicture")
+![20170316_group_picture](/img/20170316_GroupPicture.JPG "Group picture")
 **Women's Energy Club Ukraine** is a network of women working in energy-related sectors. It aims to empower women and provide professional support. The club unites members of the Parliament of Ukraine (Energy Committee), experts, international organizations representatives as well as women from energy production sector. Currently, the Club has about 30 members. The Club is supported by the European-Ukrainian Energy Agency & Heinrich Böll Foundation's Office in Ukraine.
 
 **Hypatia Frauennetzwerk Erneuerbare Energien und Cleantech e.V.** is a non-profit organization for women working in the renewable energy sector. Similar to the Women's Energy Club it aims to empower women and provide professional support. Increasing the visibility of women in the networks is one of the major goals to reach for professional equity for women and men. As the time of writing Hypatia has about 30 members. The organization team works on a voluntary basis.
 
-![20170315_hypatia_presentation](/img/20170315_Hypatia_PresentationKyiv.jpg "20170315_hypatia_presentation")
+![20170315_hypatia_presentation](/img/20170315_Hypatia_PresentationKyiv.jpg "Me holding the presentation")
 
 The same objectives led the Women's Energy Club to invite Hypatia in order to present our network and share our experiences.  
 As a representative of Hypatia, I traveled to the latest gathering of the Club in Kiev on 15th of March. During the meeting, it became clear that the general problems women face in professional life are the same in Ukraine and Germany.  
