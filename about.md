@@ -2,6 +2,7 @@
 layout: page
 title: About me
 permalink: /about/
+sitemap: false
 ---
 <h2 class="experience__headline">Work Experience</h2>
 
