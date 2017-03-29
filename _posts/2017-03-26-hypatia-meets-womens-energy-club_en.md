@@ -2,6 +2,7 @@
 title: Hypatia e.V. meets Women's Energy Club Kyiv
 description: Meeting on 15th / 16th of March
 header: Hypatia e.V. meets Women's Energy Club Kyiv
+comments: true
 ---
 
 ![20170316_group_picture](/img/20170316_GroupPicture.jpg "20170316_grouppicture")
