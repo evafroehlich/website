@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
+sitemap: false
 ---
 <h2 class="work-experience__headline">Contact me!</h2>
 <p class="contact__intro">
