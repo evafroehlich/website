@@ -4,14 +4,16 @@ layout: default
 <article id="post-page">
   <h2>{%if page.header %}{{ page.header }}{% else %}{{ page.title }}{% endif %}</h2>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+
+  {% if page.hypatia_url %}
+    {% include hypatia_infobox.html %}
+  {% endif %}
+
   <div class="content">
-
     {{ content }}
-
   </div>
   {% include comments.html %}
 </article>
 
-<br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-
+<p class="post__license">This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
