@@ -2,6 +2,8 @@
 title: Hypatia e.V. meets Women's Energy Club Kyiv
 description: Meeting on 15th / 16th of March
 header: Hypatia e.V. meets Women's Energy Club Kyiv
+comments: true
+hypatia_url: http://www.hypatia-network.de/hypatia-ev-trifft-den-womens-energy-club-kyiv
 ---
 
 ![20170316_group_picture](/img/20170316_GroupPicture.jpg "20170316_grouppicture")
@@ -41,7 +43,7 @@ Finally, the meeting gave good incentives for further cooperation and made clear
 - Kateryna Babichok (Project Assistant at the [European-Ukrainian Energy Agency](http://euea-energyagency.org/en/))
 - Yulia Burmistenko (International Public Affairs Manager at the [DTEK](http://www.dtek.com/en/))
 
-*Dieser Blogeintrag ist auch auf deutsch verfügbar. Du findest ihn im Hypatia Blog. [Hier geht's lang.](http://www.hypatia-network.de/hypatia-ev-trifft-den-womens-energy-club-kyiv)*
+
 
 **Do you have any questions concerning this blog post and our networks? Please feel free contact us:**
 

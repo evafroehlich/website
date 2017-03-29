@@ -210,6 +210,10 @@ code {
   background-color: lighten($background-color, 35%);
 }
 
+.content {
+  text-align: justify;
+}
+
 /* Set the vertical rhythm (and padding-left) for lists inside post content */
 
 .content ul, .content ol {
