@@ -25,6 +25,10 @@
   display: inline-block;
 }
 
+.content hr {
+  border-bottom: 0;
+}
+
 .post__infobox {
   background-color: #fdfdfd;
   padding: .75rem;

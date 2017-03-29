@@ -43,7 +43,7 @@ Finally, the meeting gave good incentives for further cooperation and made clear
 - Kateryna Babichok (Project Assistant at the [European-Ukrainian Energy Agency](http://euea-energyagency.org/en/))
 - Yulia Burmistenko (International Public Affairs Manager at the [DTEK](http://www.dtek.com/en/))
 
-
+---
 
 **Do you have any questions concerning this blog post and our networks? Please feel free contact us:**
 
