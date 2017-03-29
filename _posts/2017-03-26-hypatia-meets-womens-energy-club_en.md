@@ -2,6 +2,7 @@
 title: Hypatia e.V. meets Women's Energy Club Kyiv
 description: Meeting on 15th / 16th of March
 header: Hypatia e.V. meets Women's Energy Club Kyiv
+comments: true
 ---
 
 ![20170316_group_picture](/img/20170316_GroupPicture.jpg "20170316_grouppicture")
@@ -45,10 +46,7 @@ Finally, the meeting gave good incentives for further cooperation and made clear
 
 **Do you have any questions concerning this blog post and our networks? Please feel free contact us:**
 
-*Contact Blogger*   
-[blog[at]eva-ernst.me](mailto:blog@eva-ernst.me)  
 *Hypatia – Frauennetzwerk Erneuerbare Energien und Cleantech e.V.*    
 [kontakt[at]hypatia-network.de](mailto:kontakt@hypatia-network.de)  
-<a class="contact__social-link" href="https://twitter.com/HypatiaNetwork"><img src="{{ "/img/twitter.svg" | relative_url }}"></a>  
 *Women's Energy Club Ukraine*  
-email: [kateryna.babichok[at]euea-energyagency.org](mailto:kateryna.babichok@euea-energyagency.org)
+[kateryna.babichok[at]euea-energyagency.org](mailto:kateryna.babichok@euea-energyagency.org)
