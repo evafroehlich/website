@@ -4,33 +4,11 @@
 @import 'experience';
 
 .home {
-  display: -webkit-flex;
-  display:    -moz-flex;
-  display:     -ms-flex;
-  display:      -o-flex;
-  display:         flex;
   border-bottom: 1px solid rgba(0,0,0,0.14);
 }
 
-.home__text {
-  width: 70%;
-}
-
-.home__portrait {
-  align-self: flex-end;
-}
-
-@media (max-width: 700px) {
-  .home {
-    flex-direction: column;
-  }
-  .home__text {
-    width: 100%;
-  }
-
-  .home__portrait {
-    align-self: center;
-  }
+.home__headline {
+  font-size: 2rem;
 }
 
 .home__portrait-photo {
