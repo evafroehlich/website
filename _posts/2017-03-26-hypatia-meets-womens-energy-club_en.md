@@ -52,6 +52,3 @@ Finally, the meeting gave good incentives for further cooperation and made clear
 <a class="contact__social-link" href="https://twitter.com/HypatiaNetwork"><img src="{{ "/img/twitter.svg" | relative_url }}"></a>  
 *Women's Energy Club Ukraine*  
 email: [kateryna.babichok[at]euea-energyagency.org](mailto:kateryna.babichok@euea-energyagency.org)
-
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
