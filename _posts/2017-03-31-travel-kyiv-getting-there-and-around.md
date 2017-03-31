@@ -5,7 +5,7 @@ header: Travel Kyiv, Ukraine - Short Trip Tips - Getting There And Around
 comments: true
 ---
 
-![Cover_Picture](/img/20170330_cover.jpg "Sofiyskaya Square")
+![Cover_Picture](/img/20170331_cover.jpg "Sofiyskaya Square")
 
 Have you ever planned to travel to Kyiv or Ukraine? Well, at least it hasn't been on my bucket list.
 After I have been invited by the Women's Energy Club to Kyiv, I wondered why Kyiv never occurred to me as a travel location.
@@ -17,7 +17,7 @@ Since I neither speak Ukrainian nor Russian or read Cyrillic the following revie
 Here you find some tips for your trip Getting to Kyiv and around:
 
 ### How to get there? 
-![Cover_Picture](/img/20170330_cover4.jpg "Berlin from Airplane")
+![Cover_Picture](/img/20170331_cover4.jpg "Berlin from Airplane")
 #### Air
 [Ukraine International Airlines](http://www.flyuia.com/) flies directly from almost every airport hub in Europe as well from e.g. Bangkok, Dubai or New York. Travel time from Berlin to Kyiv takes about 2 hours.
 #### Bus
@@ -33,11 +33,11 @@ Luckily, I have only experienced these touristy things on the main shopping stre
 To cross some of the main streets you have to go underground. Once submerged you find unexpected underground markets. Charming, but quite confusing because there are no obvious (readable) signs to the exits. But no worries: the Worst thing that can happen is that you find yourself emerging where you started.
 
 #### Metro  
-![Metro_Station_Kyiv](/img/20170330_metrostationkyiv.jpg "Metro Station")
+![Metro_Station_Kyiv](/img/20170331_metrostationkyiv.jpg "Metro Station")
 Kyiv has [3 metro lines](http://www.urbanrail.net/eu/ua/kiev/kyiv.htm). You can buy the tickets at the entrance (ticket kiosk or automat), Price will be 4 UAH (15 Eurocents) wherever you go. The station and metros are very busy so be aware of pickpocketing. **Go to** the deepest metro station in the world: Arsenalna Metro Station.
 
 #### Funicular  
-![Funicular_Kyiv](/img/20170330_funicular.jpg "Funicular")
+![Funicular_Kyiv](/img/20170331_funicular.jpg "Funicular")
 My favorite transport. The cable cars are from 1905 and connect the lower district Podol with the upper part of Kyiv. Price ist 3 UAH (10 Eurocents) per ride.
 
 #### Bus  
