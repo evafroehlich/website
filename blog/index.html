@@ -2,14 +2,14 @@
 title: Blog
 layout: default
 ---
-<div class="categories">
+<aside class="categories">
   <h3>Categories</h3>
   {% for category in site.categories %}
-    <a href="/category/{{ category[0] }}/" class="category__link">{% if category[0] == 'aws' %}{{ category[0] | upcase }}{% else %}{{ category[0] | capitalize }}{% endif %}</a>
+    <a href="/category/{{ category[0] }}/" class="category__link">
+    {% if category[0] == 'aws' %}{{ category[0] | upcase }}{% else %}
+    {{ category[0] | capitalize }}{% endif %}</a>
   {% endfor %}
-</div>
-
-<hr>
+</aside>
 
 <ul id="posts">
   {% for post in paginator.posts %}

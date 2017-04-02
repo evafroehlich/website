@@ -1,5 +1,5 @@
 ---
-title: Travel Kyiv, Ukraine - STT - Eat Sleep Get Inspired
+title: Travel Kyiv, Ukraine - Short Trip Tips - Eat Sleep Get Inspired
 description: Kyiv, getting there and around
 header: Travel Kyiv, Ukraine - Short Trip Tips - Eat Sleep Get Inspired
 comments: true

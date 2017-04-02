@@ -1,5 +1,5 @@
 ---
-title: Travel Kyiv, Ukraine - STT - Getting There And Around
+title: Travel Kyiv, Ukraine - Short Trip Tips - Getting There And Around
 description: Kyiv, getting there and around
 header: Travel Kyiv, Ukraine - Short Trip Tips - Getting There And Around
 comments: true
