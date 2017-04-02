@@ -4,6 +4,7 @@ description: Meeting on 15th / 16th of March
 header: Hypatia e.V. meets Women's Energy Club Kyiv
 comments: true
 hypatia_url: http://www.hypatia-network.de/hypatia-ev-trifft-den-womens-energy-club-kyiv
+category: WomenInTech
 ---
 
 ![20170316_group_picture](/img/20170316_GroupPicture.jpg "Group picture")

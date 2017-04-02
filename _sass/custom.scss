@@ -40,3 +40,19 @@
 .post__license {
   font-size: 80%;
 }
+
+.category__link {
+  font-size: 1rem;
+  text-decoration: none;
+  background-color: #fdfdfd;
+  display: inline-block;  
+  padding: .15rem;
+  margin: 0.5rem 0.5rem;
+  border: 1px solid $green;
+  border-radius: .25rem;
+
+  
+}
+.categories {
+  text-align: center;
+}
