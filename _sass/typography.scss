@@ -28,7 +28,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.5em; /* 24px/16px */
+  font-size: 2em; /* 24px/16px */
   line-height: 1em; /* 24px/24px */
   padding: 1em 0 0 0; /* 12px/24px * 2, only top (Use padding instead of margin to maintain proximity with paragwithph) */
 }
@@ -83,11 +83,19 @@ blockquote {
     padding: 0.66667em 0 0 0; /* 12px/36px * 2, pnly top (Use padding instead of margin to maintain proximity with paragraph) */
   }
 
-  h3,
-  h4,
+  h3  {
+  font-size: 1.5em; /* 18px/16px */
+  line-height: 1em; /* 24px/18px */
+  padding: 0.66667em 0; /* 12px/18px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
+  }
+  h4  {
+  font-size: 1.25em; /* 18px/16px */
+  line-height: .5em; /* 24px/18px */
+  padding: 0.66667em 0; /* 12px/18px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
+  }
   h5,
   h6 {
-    font-size: 1.3334em; /* 24px/18px */
+    font-size: 1em; /* 24px/18px */
     line-height: 1em; /* 24px/24px */
     padding: 0.5em 0; /* 12px/24px * 2 (Use padding instead of margin to maintain proximity with paragraph) */
   }
