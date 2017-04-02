@@ -8,7 +8,7 @@ category: travel
 
 ![Cover_Picture](/img/20170401_opera_kyiv.jpg "National Opera of Ukraine")
 
-In my last post, I gave you some tips getting to Kyiv and around. Now I will come to the essential questions of traveling: where to eat and sleep? During my short stay, I mostly followed recommendations of locals. You can also use the common rating platforms for hotels and restaurants.
+[In my last post](http://eva-ernst.me/blog/travel-kyiv-getting-there-and-around/), I gave you some tips getting to Kyiv and around. Now I will come to the essential questions of traveling: where to eat and sleep? During my short stay, I mostly followed recommendations of locals. You can also use the common rating platforms for hotels and restaurants.
 Finally, I prefer to inspire you with some pictures of the city rather than telling you what sights there are - every travel guide lists them.
 
 ### Where to eat?
