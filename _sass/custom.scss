@@ -9,6 +9,7 @@
 
 .home__headline {
   font-size: 2rem;
+  margin-top: 1rem;
 }
 
 .home__portrait-photo {
@@ -19,7 +20,7 @@
   text-decoration: none;
 }
 
-.contact__social-link>img {
+.contact__social-link > img {
   width: 1.5rem;
   height: 1.5rem;
   display: inline-block;
@@ -39,4 +40,24 @@
 
 .post__license {
   font-size: 80%;
+}
+
+.category__link {
+  font-size: 1rem;
+  text-decoration: none;
+  background-color: #fdfdfd;
+  display: inline-block;
+  padding: .15rem;
+  margin: 0.5rem 0.5rem;
+  border: 1px solid $green;
+  border-radius: .25rem;
+
+  &:hover {
+    background-color: #eee;
+  }
+}
+
+.categories {
+  text-align: center;
+  border-bottom: 1px solid #ddd;
 }
