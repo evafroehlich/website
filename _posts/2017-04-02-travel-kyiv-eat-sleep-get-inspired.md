@@ -3,7 +3,7 @@ title: Travel Kyiv, Ukraine - Short Trip Tips - Eat Sleep Get Inspired
 description: Kyiv, getting there and around
 header: Travel Kyiv, Ukraine - Short Trip Tips - Eat Sleep Get Inspired
 comments: true
-category: travel
+category: Travel
 ---
 
 ![Cover_Picture](/img/20170401_opera_kyiv.jpg "National Opera of Ukraine")

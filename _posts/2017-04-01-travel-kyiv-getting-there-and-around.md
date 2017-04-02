@@ -3,7 +3,7 @@ title: Travel Kyiv, Ukraine - Short Trip Tips - Getting There And Around
 description: Kyiv, getting there and around
 header: Travel Kyiv, Ukraine - Short Trip Tips - Getting There And Around
 comments: true
-category: travel
+category: Travel
 ---
 
 ![Cover_Picture](/img/20170331_cover.jpg "Sofiyskaya Square")
