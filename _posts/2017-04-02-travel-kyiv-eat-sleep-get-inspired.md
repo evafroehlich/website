@@ -8,7 +8,7 @@ comments: true
 ![Cover_Picture](/img/20170401_opera_kyiv.jpg "National Opera of Ukraine")
 
 In my last post, I gave you some tips getting to Kyiv and around. Now I will come to the essential questions of traveling: where to eat and sleep? During my short stay, I mostly followed recommendations of locals. You can also use the common rating platforms for hotels and restaurants.
-Finally, I prefer to inspire you by some pictures of the city rather than telling you what sights there are - every travel guide lists them.
+Finally, I prefer to inspire you with some pictures of the city rather than telling you what sights there are - every travel guide lists them.
 
 ### Where to eat?
 *Note: In Kyiv, you will find a (mobile) coffee bar on almost every corner. I don't know which can be recommended - I'd just follow the crowds.*
@@ -31,10 +31,15 @@ At O'Panas you will get traditional Ukrainian food. It's located in the Taras Sh
 Attention: The honey cake is to die for!  
 ![Opanas](/img/20170401_opanas_1.jpg "Dinner at O'Panas")
 
-##### Krym, Shevchenka prov. 1 
+#### Krym, Shevchenka prov. 1 
 
 Krym restaurant is a very cozy place with a wide range of traditional food (and honey cake!). It's located near Independence Square. Find our more [here](https://www.tripadvisor.co.uk/Restaurant_Review-g294474-d1644107-Reviews-Krym-Kiev.html).
 ![Krym](/img/20170401_krim_restaurant_02.jpg "Dinner at Krym")
+
+#### Puzata Hata, various locations 
+
+[Puzata Hata](http://www.puzatahata.com.ua/eng/) is a canteen-like restaurant which you find at different locations in Kyiv. It offers a wide range of Ukrainian and international dishes. It's a really good option if you travel on a budget and still want to taste all kinds of local food. 
+![Puzata_Haza](/img/20170401_puzatahata.jpg "Puzata Hata Canteens - Yes, this one is closed due to construction")
 
 ### Where to stay?
 #### CITYHOTEL, Bohdana Khmelnytskoho str. 56A 
@@ -54,6 +59,7 @@ The location of the hotel is also very central. From you room you look over the 
 ### Kyiv Inspirations
 
 There is a lot to do in Kyiv. I skipped the museums and took advantage of the good weather.  
+
 Andriyivskyy Descent
 ![Andriyivskyy_descebt](/img/20170401_andriyivskyydescent.jpg "Andriyivskyy Descent")
 Arkhitektora Horodetskoho St
@@ -74,4 +80,4 @@ Street Art
 ![Euromaidan](/img/20170401_independence_square.jpg "In Memoriam to the victims of Euromaidan")
 
 ---
-Have you ever been to Kyiv? Let me know about your experiences!
+Do you have some recommendations for Kyiv which are off the beaten track? Do not hesitate to comment!
