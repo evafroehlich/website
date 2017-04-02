@@ -7,22 +7,8 @@ layout: page
   <p>{{ page.content }}</p>
 {% endunless %}
 
-{% for post in site.categories[page.category] %}
-<div class="post-preview">
-  <a href="{{ post.url | prepend: site.baseurl }}">
-    <h2 class="post-title">
-      {{ post.title }}
-    </h2>
-  </a>
-  <p class="post-meta">
-    Posted by
-    {% if post.author %}
-      {{ post.author }}
-    {% else %}
-      {{ site.title }}
-    {% endif %}
-    on {{ post.date | date_to_string }}
-  </p>
-</div>
-<hr>
-{% endfor %}
+<ul id="posts">
+  {% for post in site.categories[page.category] %}
+    {% include post-preview.html %}
+  {% endfor %}
+</ul>
