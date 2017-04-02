@@ -35,7 +35,8 @@ To cross some of the main streets you have to go underground. Once submerged you
 
 #### Metro  
 ![Metro_Station_Kyiv](/img/20170331_metrostationkyiv.jpg "Metro Station")
-Kyiv has [3 metro lines](http://www.urbanrail.net/eu/ua/kiev/kyiv.htm). You can buy the tickets at the entrance (ticket kiosk or automat), Price will be 4 UAH (15 Eurocents) wherever you go. The station and metros are very busy so be aware of pickpocketing. **Go to** the deepest metro station in the world: Arsenalna Metro Station.
+Kyiv has [3 metro lines](http://www.urbanrail.net/eu/ua/kiev/kyiv.htm). You can buy the tickets at the entrance (ticket kiosk or automat), Price will be 4 UAH (15 Eurocents) wherever you go. The station and metros are very busy so be aware of pickpocketing.  
+**Go to** the deepest metro station in the world: Arsenalna Metro Station - it's 105.5m deep.
 
 #### Funicular  
 ![Funicular_Kyiv](/img/20170331_funicular.jpg "Funicular")
