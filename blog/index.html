@@ -6,7 +6,7 @@ layout: default
   <h3>Categories</h3>
   {% for category in site.categories %}
     <a href="/category/{{ category[0] }}/" class="category__link">
-      {{ category[0] | capitalize }}
+      {{ category[0] | simple_humanize | titleize }}
     </a>
   {% endfor %}
 </aside>
