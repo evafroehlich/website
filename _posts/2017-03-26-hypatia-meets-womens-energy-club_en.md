@@ -1,6 +1,6 @@
 ---
-title: Hypatia e.V. meets Women's Energy Club Kyiv
-description: Meeting on 15th / 16th of March
+title: Women working in Energy Sector meeting up in Kyiv - Hypatia e.V. meets Women's Energy Club Kyiv
+description: Summary of Hypatia meeting Women's Energy Club in Kyiv - Women in Tech
 header: Hypatia e.V. meets Women's Energy Club Kyiv
 comments: true
 hypatia_url: http://www.hypatia-network.de/hypatia-ev-trifft-den-womens-energy-club-kyiv
