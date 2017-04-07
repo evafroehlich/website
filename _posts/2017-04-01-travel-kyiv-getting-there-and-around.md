@@ -1,7 +1,7 @@
 ---
-title: Travel Kyiv, Ukraine - Short Trip Tips - Getting There And Around
-description: Kyiv, getting there and around
-header: Travel Kyiv, Ukraine - Short Trip Tips - Getting There And Around
+title: Travel to Kyiv, Ukraine - Getting There And Around - Short Trip Tips
+description: A short guide about traveling to Kyiv, Ukraine. Kyiv, getting there and around.
+header: Travel Kyiv, Ukraine - Getting There And Around - Short Trip Tips
 comments: true
 category: travel
 ---
