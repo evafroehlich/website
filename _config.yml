@@ -1,11 +1,14 @@
 # Site settings
-title: Eva-Christin Ernst
-description: "An informal vita about Eva-Christin Ernst."
+title: Eva-Christin Ernst Blog About Travel and WomenInTech
+description: "An informal vita and a blog about and by Eva-Christin Ernst."
 url: "http://eva-ernst.me"
 author:
   name: "Eva-Christin Ernst"
   email: "hello@eva-ernst.me"
   url: "http://eva-ernst.me"
+
+twitter:
+  username: EvaCErnst
 
 # Build settings
 baseurl: '' # Change this to your relative path (ex: /blog/), or leave just a /
