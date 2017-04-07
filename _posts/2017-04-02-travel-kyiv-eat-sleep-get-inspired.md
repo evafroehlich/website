@@ -1,7 +1,7 @@
 ---
-title: Travel Kyiv, Ukraine - Eat Sleep Get Inspired - Short Trip Tips
+title: Travel Kyiv, Ukraine - Eat, Sleep, Get Inspired - Short Trip Tips
 description: A short guide about traveling to Kyiv, Ukraine. Tips for restaurants, café and hotels in Kyiv.
-header: Travel Kyiv, Ukraine - Eat Sleep Get Inspired - Short Trip Tips
+header: Travel Kyiv, Ukraine - Eat, Sleep, Get Inspired - Short Trip Tips
 comments: true
 category: travel
 ---
