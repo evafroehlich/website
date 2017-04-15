@@ -5,6 +5,7 @@ url: "http://eva-ernst.me"
 
 twitter:
   username: EvaCErnst
+google_analytics: UA-97397300-1
 
 # Build settings
 baseurl: '' # Change this to your relative path (ex: /blog/), or leave just a /
