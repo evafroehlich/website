@@ -26,13 +26,15 @@ sitemap: false
   <a class="contact__social-link" href="https://www.linkedin.com/in/eva-christin-ernst-61598abb/">
     <img src="{{ '/img/linkedin.svg' | relative_url }}">
   </a>
-  <a class="contact__social-link" href="https://www.instagram.com/evafroehlich/">
-    <img src="{{ '/img/instagram.svg' | relative_url }}">
-  </a>
   <a class="contact__social-link" href="https://github.com/evafroehlich/">
     <img src="{{ '/img/github.svg' | relative_url }}">
   </a>
 
 </div>
+
+<h2 class="work-experience__headline">Privacy</h2>
+<p>By visiting my site, information about the access is stored in logfiles on the server. These information are required to deliver this website.
+No other information is stored, no other service being used, no cookies set.
+</p>
 
 

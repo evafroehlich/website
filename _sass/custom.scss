@@ -38,6 +38,20 @@
   border-radius: .25rem;
 }
 
+.post__scopebubble {
+  background-color: #fdfdfd;
+  padding: .75rem;
+  margin: 1rem 0;
+  border: 1px solid #0A5a78;
+  border-radius: .25rem;
+  text-align: center;
+  font-weight: 500;
+
+  &:hover {
+  background-color: #eee;
+  }
+}
+
 .post__license {
   font-size: 80%;
 }

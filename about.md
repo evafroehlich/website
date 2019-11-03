@@ -5,13 +5,51 @@ permalink: /about/
 sitemap: false
 ---
 <h2 class="experience__headline">Work Experience</h2>
+<article class="experience">
+  <a class="experience__teaser" href="#">
+    <span class="experience__timerange">
+      04/2019
+      &ndash;
+      today
+    </span>
+    <h3 class="experience__position">Project Lead</h3>
+    <span class="experience__company">Berliner Stadtwerke KP  GmbH, Berlin</span>
+  </a>
+
+  <div class="experience__description">
+    <p>
+      As the Project Lead of Heat Production Plants I manage the renewal of heating systems in the city of Berlin. We use current technologies in combination with CHP, heat pumps, solar heating or other renewable systems. 
+      I am involved in planing and executing new projects, overvieweing the construction site and manage the projects overall success.
+    </p>
+  </div>
+</article>
+
+<article class="experience">
+  <a class="experience__teaser" href="#">
+    <span class="experience__timerange">
+      11/2017
+      &ndash;
+      03/2019
+    </span>
+    <h3 class="experience__position">Project Lead</h3>
+    <span class="experience__company">beta GmbH, Berlin</span>
+  </a>
+
+  <div class="experience__description">
+    <p>
+      I manage a small team of engineers and clerks. Together with our Lead of Accounting we introduce new management methods optimizing workflows and reducing project costs.
+      In addition I obtain the representation power of attorny (Vertraungsvollmacht) concerning decisions within our projects.
+      In 2018 my team and I already realized two CHP-plant projects for which I am fully responsible. It supplies 30 to 50 terraced houses with heat and electrity.
+    </p>
+  </div>
+</article>
 
 <article class="experience">
   <a class="experience__teaser" href="#">
     <span class="experience__timerange">
       12/2015
       &ndash;
-      today
+      10/2017
     </span>
     <h3 class="experience__position">Project Engineer</h3>
     <span class="experience__company">beta GmbH, Berlin</span>

@@ -9,6 +9,10 @@ layout: default
     {% include hypatia_infobox.html %}
   {% endif %}
 
+  {% if page.scope_bubble %}
+    {% include scope_bubble.html %}
+  {% endif %}
+
   <div class="content">
     {{ content }}
   </div>
