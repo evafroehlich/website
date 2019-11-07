@@ -19,7 +19,7 @@ sitemap: false
   <div class="experience__description">
     <p>
       As the Project Lead of Heat Production Plants I manage the renewal of heating systems in the city of Berlin. We use current technologies in combination with CHP, heat pumps, solar heating or other renewable systems. 
-      I am involved in planing and executing new projects, overvieweing the construction site and manage the projects overall success.
+      I am involved in planning and executing new projects, overvieweing the construction site and manage the projects overall success.
     </p>
   </div>
 </article>
