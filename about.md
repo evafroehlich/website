@@ -4,6 +4,7 @@ title: About me
 permalink: /about/
 sitemap: false
 ---
+
 <h2 class="experience__headline">Work Experience</h2>
 <article class="experience">
   <a class="experience__teaser" href="#">
@@ -150,6 +151,7 @@ sitemap: false
 
     <h3 class="experience__position">Master of Science</h3>
     <span class="experience__company">Carl von Ossietzky University of Oldenburg</span>
+
   </a>
 
   <div class="experience__description">
@@ -204,6 +206,7 @@ sitemap: false
     <p>
       <strong>Overall B.&nbsp;Eng. grade:</strong> 1.83
     </p>
+
   </div>
 </article>
 

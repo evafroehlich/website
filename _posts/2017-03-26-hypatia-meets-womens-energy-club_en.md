@@ -19,13 +19,15 @@ As a representative of Hypatia, I traveled to the latest gathering of the Club i
 Many women are not aware of being discriminated in the professional context. Our networks want to increase awareness and change the established paradigms. This led to the conclusion of giving the majority of women the opportunity of choice without facing any disadvantages in the professional context.  
 To keep it short here is a summing-up of our discussion topics:
 
-*General Problems*
+_General Problems_
+
 - Visibility of women in profession
 - Lack of female role models
 - Inefficient knowledge exchange between women concerning career issues (salary, work conditions...)
-- Equity of men and women in work (acceptance, opportunity, salary...) 
+- Equity of men and women in work (acceptance, opportunity, salary...)
 
-*Methods for a successful Network-Environment*  
+_Methods for a successful Network-Environment_
+
 - Knowledge exchange concerning career & work-life-balance
 - Support for women in male-dominated sectors
 - Open table discussions concerning career and/or related technology topics
@@ -36,11 +38,12 @@ The focus of both networks lies in the professional support of women to enhance 
 Hypatia focuses on established events in order to support female experts and increase the visibility of women in public events. Most members work full-time and the organization of events is fully voluntary therefore the time to conduct events is limited. To raise the number of active members Hypatia wants to share the regular tasks with more members.  
 Women's Energy Club, on the other hand, is at its launch period and so far supported by the European-Ukrainian Energy Agency and the Heinrich Böll Foundation's Office in Ukraine. Both organizations are already involved in energy policy formation in Ukraine.  
 The open discussion culture within both networks helps members to learn about their career options and possible strategies to improve the quality of work and life.  
-Finally, the meeting gave good incentives for further cooperation and made clear that networking is as important as ever. 
+Finally, the meeting gave good incentives for further cooperation and made clear that networking is as important as ever.
 
-**Special thanks** goes to the amazing women who founded the **Women's Energy Club Kyiv**:  
-- Oksana Aliieva (Program Coordinator "Climate Change and Energy Policy Program" at the [Heinrich Boell Foundation Ukraine](http://ua.boell.org/en))  
-- Valentyna Beliakova (Director of the [European-Ukrainian Energy Agency](http://euea-energyagency.org/en/))  
+**Special thanks** goes to the amazing women who founded the **Women's Energy Club Kyiv**:
+
+- Oksana Aliieva (Program Coordinator "Climate Change and Energy Policy Program" at the [Heinrich Boell Foundation Ukraine](http://ua.boell.org/en))
+- Valentyna Beliakova (Director of the [European-Ukrainian Energy Agency](http://euea-energyagency.org/en/))
 - Kateryna Babichok (Project Assistant at the [European-Ukrainian Energy Agency](http://euea-energyagency.org/en/))
 - Yulia Burmistenko (International Public Affairs Manager at the [DTEK](http://www.dtek.com/en/))
 
@@ -48,7 +51,7 @@ Finally, the meeting gave good incentives for further cooperation and made clear
 
 **Do you have any questions concerning this blog post and our networks? Please feel free contact us:**
 
-*Hypatia – Frauennetzwerk Erneuerbare Energien und Cleantech e.V.*    
+_Hypatia – Frauennetzwerk Erneuerbare Energien und Cleantech e.V._  
 [kontakt[at]hypatia-network.de](mailto:kontakt@hypatia-network.de)  
-*Women's Energy Club Ukraine*  
+_Women's Energy Club Ukraine_  
 [kateryna.babichok[at]euea-energyagency.org](mailto:kateryna.babichok@euea-energyagency.org)

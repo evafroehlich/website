@@ -4,6 +4,7 @@ title: Contact
 permalink: /contact/
 sitemap: false
 ---
+
 <h2 class="work-experience__headline">Contact me!</h2>
 <p class="contact__intro">
   These are my prefered ways:
@@ -33,5 +34,3 @@ sitemap: false
 <p>By visiting my site, information about the access is stored in logfiles on the server. These information are required to deliver this website.
 No other information is stored, no other service being used, no cookies set.
 </p>
-
-

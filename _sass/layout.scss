@@ -2,7 +2,8 @@
 
 /* Navigation */
 
-#nav, #nav-left {
+#nav,
+#nav-left {
   a {
     display: block;
     color: $text-color;
@@ -41,12 +42,12 @@
 
 #nav-links {
   @media (max-width: 940px) {
-    display:none;
+    display: none;
   }
   a {
     padding-left: 10px;
     color: $text-color;
-    font-weight: 300
+    font-weight: 300;
   }
 }
 
@@ -54,7 +55,7 @@
 
 #nav-list:after {
   display: block;
-  content: '';
+  content: "";
   width: 5rem;
   height: 1px;
   margin: 23px auto;
@@ -66,14 +67,14 @@
 #nav-menu {
   @include icon-position(right);
   @media (min-width: 940px) {
-    display:none;
+    display: none;
   }
 }
 
 #nav-menu-left {
   @include icon-position(left);
   @media (min-width: 940px) {
-    display:none;
+    display: none;
   }
 }
 
@@ -82,7 +83,8 @@
   width: 1.5em;
   background-color: $text-color;
   margin-top: 8px;
-  &:after, &:before {
+  &:after,
+  &:before {
     content: "";
     display: block;
     position: relative;
@@ -129,11 +131,11 @@
 }
 
 #container {
-  margin:0 auto;
+  margin: 0 auto;
 }
 
 #header {
-  border-bottom:  1px solid rgba(0,0,0,0.14);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.14);
   text-align: center;
   height: 5em;
   position: relative;
@@ -169,9 +171,9 @@
   }
 }
 
-.post+.post:before {
+.post + .post:before {
   display: block;
-  content: '';
+  content: "";
   width: 5rem;
   height: 1px;
   margin: 23px auto;
@@ -215,7 +217,8 @@ code {
 
 /* Set the vertical rhythm (and padding-left) for lists inside post content */
 
-.content ul, .content ol {
+.content ul,
+.content ol {
   line-height: 1.5em; /* 24px/16px */
   padding-left: 1.5em;
   @media (min-width: 940px) {

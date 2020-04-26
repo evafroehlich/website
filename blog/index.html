@@ -2,19 +2,18 @@
 title: Blog
 layout: default
 ---
+
 <aside class="categories">
   <h3>Categories</h3>
   {% for category in site.categories %}
-    <a href="/category/{{ category[0] | downcase }}/" class="category__link">
-      {{ category[0] | simple_humanize | titleize }}
-    </a>
+  <a href="/category/{{ category[0] | downcase }}/" class="category__link">
+    {{ category[0] | simple_humanize | titleize }}
+  </a>
   {% endfor %}
 </aside>
 
 <ul id="posts">
-  {% for post in paginator.posts %}
-    {% include post-preview.html %}
-  {% endfor %}
+  {% for post in paginator.posts %} {% include post-preview.html %} {% endfor %}
 </ul>
 
 <!-- Pagination links -->

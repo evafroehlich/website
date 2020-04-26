@@ -1,10 +1,10 @@
 /*- Custom style -*/
 
 // -- Put custom style under this point -- //
-@import 'experience';
+@import "experience";
 
 .home {
-  border-bottom: 1px solid rgba(0,0,0,0.14);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.14);
 }
 
 .home__headline {
@@ -32,23 +32,23 @@
 
 .post__infobox {
   background-color: #fdfdfd;
-  padding: .75rem;
+  padding: 0.75rem;
   margin: 1rem 0;
   border: 1px solid $green;
-  border-radius: .25rem;
+  border-radius: 0.25rem;
 }
 
 .post__scopebubble {
   background-color: #fdfdfd;
-  padding: .75rem;
+  padding: 0.75rem;
   margin: 1rem 0;
-  border: 1px solid #0A5a78;
-  border-radius: .25rem;
+  border: 1px solid #0a5a78;
+  border-radius: 0.25rem;
   text-align: center;
   font-weight: 500;
 
   &:hover {
-  background-color: #eee;
+    background-color: #eee;
   }
 }
 
@@ -61,10 +61,10 @@
   text-decoration: none;
   background-color: #fdfdfd;
   display: inline-block;
-  padding: .15rem;
+  padding: 0.15rem;
   margin: 0.5rem 0.5rem;
   border: 1px solid $green;
-  border-radius: .25rem;
+  border-radius: 0.25rem;
 
   &:hover {
     background-color: #eee;

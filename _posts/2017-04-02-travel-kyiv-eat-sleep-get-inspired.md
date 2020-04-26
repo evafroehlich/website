@@ -12,7 +12,8 @@ category: travel
 Closing this post, I would like to inspire you with some pictures of the city rather than telling you what sights you can visit - since every travel guide lists them.
 
 ### Where to eat?
-*Note: In Kyiv, you will find a (mobile) coffee bar on almost every corner. It's hard to give a recommendation so I suggest to follow the crowds.*
+
+_Note: In Kyiv, you will find a (mobile) coffee bar on almost every corner. It's hard to give a recommendation so I suggest to follow the crowds._
 
 #### Milk Bar, Shota Rustaveli St, 16
 
@@ -32,26 +33,27 @@ At O'Panas you will get traditional Ukrainian food. It's located in the Taras Sh
 Attention: The honey cake is to die for!  
 ![Opanas](/img/20170401_opanas_1.jpg "Dinner at O'Panas")
 
-#### Krym, Shevchenka prov. 1 
+#### Krym, Shevchenka prov. 1
 
 Krym restaurant is a very cozy place with a wide range of traditional food (and honey cake!). It's located near Independence Square. Find our more [here](https://www.tripadvisor.co.uk/Restaurant_Review-g294474-d1644107-Reviews-Krym-Kiev.html).
 ![Krym](/img/20170401_krim_restaurant_02.jpg "Dinner at Krym")
 
-#### Puzata Hata, various locations 
+#### Puzata Hata, various locations
 
-[Puzata Hata](http://www.puzatahata.com.ua/eng/) is a canteen-like restaurant which you find at different locations in Kyiv. It offers a wide range of Ukrainian and international dishes. It's a really good option if you travel on a budget and still want to taste all kinds of local food. 
+[Puzata Hata](http://www.puzatahata.com.ua/eng/) is a canteen-like restaurant which you find at different locations in Kyiv. It offers a wide range of Ukrainian and international dishes. It's a really good option if you travel on a budget and still want to taste all kinds of local food.
 ![Puzata_Haza](/img/20170401_puzatahata.jpg "Puzata Hata Canteens - Yes, this one is closed due to construction")
 
 ### Where to stay?
-#### CITYHOTEL, Bohdana Khmelnytskoho str. 56A 
 
-The [CITYHOTEL](http://cityhotel.ua/en) is a 4*-hotel located in the historic city center of Kyiv. It's in walking distance to all major sights. The hotel has a very high standard with spacious rooms and beautiful décor. I can't rate the restaurant since I only had breakfast. Which not only was delicious but also offered an amazing view over the city (it's on th 14th floor!). The staff is very friendly and I enjoyed staying there.
+#### CITYHOTEL, Bohdana Khmelnytskoho str. 56A
+
+The [CITYHOTEL](http://cityhotel.ua/en) is a 4\*-hotel located in the historic city center of Kyiv. It's in walking distance to all major sights. The hotel has a very high standard with spacious rooms and beautiful décor. I can't rate the restaurant since I only had breakfast. Which not only was delicious but also offered an amazing view over the city (it's on th 14th floor!). The staff is very friendly and I enjoyed staying there.
 ![City_Hotel](/img/20170401_cityhotel_1.jpg "City Hotel Room")
 ![City_Hotel](/img/20170401_cityhotel_2.jpg "City Hotel View")
 
 #### Hotel Ukraine, Instytutska Str. 4
 
-The [Hotel Ukraine](http://www.ukraine-hotel.kiev.ua/en/) is another 4*-hotel but it's not the same category as the CITYHOTEL. It is an old hotel (1912) and all rooms have been renovated (not too recently, though). The room comes without a safe.  
+The [Hotel Ukraine](http://www.ukraine-hotel.kiev.ua/en/) is another 4\*-hotel but it's not the same category as the CITYHOTEL. It is an old hotel (1912) and all rooms have been renovated (not too recently, though). The room comes without a safe.  
 The location of the hotel is central and most sights are close by. From you room you look over the Independence Square where the revolution took place.
 ![Hotel_Ukraine](/img/20170401_hotel_ukraine_1.jpg "Hotel Ukraine Room")
 ![Hotel_Ukraine](/img/20170401_hotel_ukraine_2.jpg "Hotel Ukraine View")
@@ -59,14 +61,14 @@ The location of the hotel is central and most sights are close by. From you room
 
 ### Kyiv Inspirations
 
-There is a lot to do in Kyiv. I skipped the museums and took advantage of the good weather.  
+There is a lot to do in Kyiv. I skipped the museums and took advantage of the good weather.
 
 Andriyivskyy Descent
 ![Andriyivskyy_descebt](/img/20170401_andriyivskyydescent.jpg "Andriyivskyy Descent")
 Arkhitektora Horodetskoho St
 ![Arkhitektora_Horodetskoho_St](/img/20170401_arkhitektora_horodetskoho_st.jpg "Arkhitektora_Horodetskoho_St")
 St. Sophia's Cathedral
-![St_Sophias_Cathedral](/img/20170401_cathedralkyiv.jpg "St. Sophia's Cathedral") 
+![St_Sophias_Cathedral](/img/20170401_cathedralkyiv.jpg "St. Sophia's Cathedral")
 St. Andrew's Church
 ![St_Andrews_Church](/img/20170401_standrews_church.jpg "St. Andrew's Church")
 Hotel Kyiv
@@ -76,9 +78,10 @@ Taras Shevchenko University "Yellow Building"
 Street Art
 ![Street_Art](/img/20170401_streetart.jpg "Street Art")
 
-### In memoriam to the victims of Euromaidan 
+### In memoriam to the victims of Euromaidan
 
 ![Euromaidan](/img/20170401_independence_square.jpg "In Memoriam to the victims of Euromaidan")
 
 ---
+
 Do you have some recommendations for Kyiv which are off the beaten track? Do not hesitate to comment!
