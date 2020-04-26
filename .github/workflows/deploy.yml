@@ -39,4 +39,4 @@ jobs:
           options: "--exclude *.scss"
           ssh_options: ""
           src: "_site/"
-          dest: "eva256@schedar.uberspace.de:/home/eva256/www/eva-ernst.me"
+          dest: "eva231@albiorix.uberspace.de:/home/eva231/www/eva-ernst.me"
