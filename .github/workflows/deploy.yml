@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Set up Ruby 2.6
-        uses: actions/setup-ruby@v1
+      - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.6.x
+          ruby-version: '3.0'
+          bundler-cache: true
       - name: Cache gems
         uses: actions/cache@preview
         with:
@@ -24,11 +24,7 @@ jobs:
       - name: Build the site
         env:
           JEKYLL_ENV: production
-        run: |
-          bundle config path vendor/bundle
-          bundle config --global frozen 1
-          bundle install --jobs 4 --retry 3
-          bundle exec jekyll build
+        run: bundle exec jekyll build
       - name: Deploy to server
         id: deploy
         uses: Pendect/action-rsyncer@v1.1.0
