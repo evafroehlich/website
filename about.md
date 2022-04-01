@@ -9,9 +9,28 @@ sitemap: false
 <article class="experience">
   <a class="experience__teaser" href="#">
     <span class="experience__timerange">
-      04/2019
+      01/2022
       &ndash;
       today
+    </span>
+    <h3 class="experience__position">Group Lead & Project Lead</h3>
+    <span class="experience__company">Berliner Stadtwerke KP  GmbH, Berlin</span>
+  </a>
+
+  <div class="experience__description">
+    <p>
+      Since beginning of 2022 I am the Group Lead of our Heat Supply Team. Together we keep on managing the renewal of heating and cooling systems in the city of Berlin. We use current technologies in combination with CHP, heat pumps, solar heating or other renewable systems. 
+      I am involved in planning and executing new projects, overvieweing the construction site and manage the projects overall success.
+    </p>
+  </div>
+</article>
+
+<article class="experience">
+  <a class="experience__teaser" href="#">
+    <span class="experience__timerange">
+      04/2019
+      &ndash;
+      12/2021
     </span>
     <h3 class="experience__position">Project Lead</h3>
     <span class="experience__company">Berliner Stadtwerke KP  GmbH, Berlin</span>
