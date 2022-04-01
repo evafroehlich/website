@@ -201,7 +201,7 @@ sitemap: false
       03/2012
     </span>
     <h3 class="experience__position">Bachelor of Engineering</h3>
-    <span class="experience__company">Jade University of Applied Science, Wilhelmshaven </span>
+    <span class="experience__company">Jade University of Applied Science, Wilhelmshaven</span>
   </a>
 
   <div class="experience__description">
