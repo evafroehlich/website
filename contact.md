@@ -27,6 +27,9 @@ sitemap: false
   <a class="contact__social-link" href="https://github.com/evafroehlich/">
     <img src="{{ '/img/github.svg' | relative_url }}">
   </a>
+  <a class="contact__social-link" href="https://twitter.com/EvaC2022/">
+    <img src="{{ '/img/twitter.svg' | relative_url }}">
+  </a>
 
 </div>
 

@@ -13,7 +13,7 @@ sitemap: false
       &ndash;
       today
     </span>
-    <h3 class="experience__position">Group Lead & Project Lead</h3>
+    <h3 class="experience__position">Group & Project Lead</h3>
     <span class="experience__company">Berliner Stadtwerke KP  GmbH, Berlin</span>
   </a>
 
