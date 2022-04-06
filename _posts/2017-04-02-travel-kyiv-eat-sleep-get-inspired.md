@@ -2,7 +2,7 @@
 title: Travel to Kyiv, Ukraine - Where to Eat, Sleep & Get Inspired
 description: A short guide about traveling to Kyiv, Ukraine. Tips for restaurants, café and hotels in Kyiv.
 header: Travel Kyiv, Ukraine - Eat, Sleep, Get Inspired - Short Trip Tips
-category: travel Ukraine
+category: Travel, Ukraine
 ---
 
 ![Cover_Picture](/img/20170401_opera_kyiv.jpg "National Opera of Ukraine")
