@@ -43,6 +43,7 @@ I will share the info with the WECU organizers, who then will share them within 
 
 ---
 
-### Privacy Notice
+#### Privacy Notice
 If you do not wish that your personal contact data is shared in the WECU network, please let me know in your mail. We will find a way to establish direct contact.
+
 
