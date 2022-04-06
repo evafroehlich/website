@@ -22,7 +22,7 @@ sitemap: false
       Since beginning of 2022 I am the Group Lead of our Heat Supply Team. Together we keep on managing the renewal of heating and cooling systems in the city of Berlin. 
     </p>
     <p>
-      Here you find a few press releases of our projects: 
+      Here you find a few german press releases about our projects: 
     </p>
     <p>
       <a target="_blank" href="https://berlinerstadtwerke.de/presse/aufm-rollberg-und-drunter-zirkulaer-erzeugen-speichern-nutzen/">Rollberg Quarters, Berlin</a>
