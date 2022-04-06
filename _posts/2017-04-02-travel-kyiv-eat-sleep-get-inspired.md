@@ -73,7 +73,7 @@ St. Andrew's Church
 Hotel Kyiv
 ![Hotel_Kyiv](/img/20170401_hotel_kyiv.jpg "Hotel Kyiv")
 Taras Shevchenko University "Yellow Building"
-![Taras_Shevchenko_University_Yellow](/img/20170401_university_yellow_building.jpg "Taras Shevchenko University "Yellow Building"")
+![Taras_Shevchenko_University_Yellow](/img/20170401_university_yellow_building.jpg "Taras Shevchenko University "Yellow_Building"")
 Street Art
 ![Street_Art](/img/20170401_streetart.jpg "Street Art")
 
