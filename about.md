@@ -70,7 +70,7 @@ sitemap: false
   <div class="experience__description">
     <p>
       I manage a small team of engineers and clerks. Together with our Lead of Accounting we introduce new management methods optimizing workflows and reducing project costs.
-      In addition I obtain the representation power of attorny (Vertraungsvollmacht) concerning decisions within our projects.
+      In addition I obtain the representation power of attorny (Vertrauensvollmacht) concerning decisions within our projects.
       In 2018 my team and I already realized two CHP-plant projects for which I am fully responsible. It supplies 30 to 50 terraced houses with heat and electrity.
     </p>
   </div>
