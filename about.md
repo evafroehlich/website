@@ -19,7 +19,7 @@ sitemap: false
 
   <div class="experience__description">
     <p>
-      Since beginning of 2022 I am the Group Lead of our Heat Supply Team. Together we keep on managing the renewal of heating and cooling systems in the city of Berlin. 
+      Since the beginning of 2022 I am the Group Lead of our Heat Supply Team. Together we keep on managing the renewal of heating and cooling systems in the city of Berlin. 
     </p>
     <p>
       Here you find a few german press releases about our projects: 
