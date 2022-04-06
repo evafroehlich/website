@@ -20,15 +20,20 @@ sitemap: false
   <div class="experience__description">
     <p>
       Since beginning of 2022 I am the Group Lead of our Heat Supply Team. Together we keep on managing the renewal of heating and cooling systems in the city of Berlin. 
-
     </p>
     <p>
       Here you find a few press releases of our projects: 
+    </p>
+    <p>
       <a target="_blank" href="https://berlinerstadtwerke.de/presse/aufm-rollberg-und-drunter-zirkulaer-erzeugen-speichern-nutzen/">Rollberg Quarters, Berlin</a>
     </p>
     <p>
       <a target="_blank" href="https://berlinerstadtwerke.de/presse/b-e-m-und-stadtwerke-modernisieren-polizeiwache/">Police Department Friesenstraße, Berlin</a>
     </p>
+    <p>
+      <a target="_blank" href="https://berlinerstadtwerke.de/presse/sonne-wind-und-waerme/">CHP plants in Berlin</a>
+    </p>
+  
   </div>
 </article>
 
