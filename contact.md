@@ -12,8 +12,8 @@ sitemap: false
 <div class="row">
   <div class="six columns">
     <div class="contact__methods">
-      eMail: <a href="mailto:hello@eva-ernst.me">hello@eva-ernst.me</a>
-      <br> Tel.: <a href="tel:+4915161216699">0151 61 21 66 99</a>
+      eMail: <a href="mailto:hello@eva-ernst.me">hello[@]eva-ernst.me</a>
+      <br> Tel.: <a href="tel:+493062934812">030 - 629 348 12</a>
     </div>
   </div>
 
