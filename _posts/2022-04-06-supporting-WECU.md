@@ -15,6 +15,7 @@ I am gathering up-to-date information on employment opportunities for Ukrainian 
 
 ### Locations
 WECU members have found refuge in the following countries:
+
 Austria, Czech Republic, France, Germany, Italy, Latvia, Lithuania, The Netherlands, Poland, Romania, Slovakia, Spain, Sweden, Switzerland, Ukraine 
 
 Do you know any women's energy network in these countries? The WECU and I would be happy if you can share our inquiry in your respective network. 
@@ -23,7 +24,7 @@ Do you know any women's energy network in these countries? The WECU and I would 
 If yes, please feel free to contact me with the following profile:
 
 - Company Name
-- Offered position (+Link)
+- Offered position (+ weblink)
 - Trusted Contact Person in the Company
 - Skill requirements
 - Language requirements
@@ -34,9 +35,13 @@ If yes, please feel free to contact me with the following profile:
 One of the first things they need is reliable information about registration and residence. 
 
 ### How to proceed?
-I currently take the role as a “middle-woman” or network connector if you may say. Please send all job offers and support offers to the following address: wecu-backup-network@mailbox.org
+I currently take the role as a “middle-woman” or network connector if you may say. Please send all job offers and support offers to this [address](mailto:
+wecu-backup-network@mailbox.org).
+
 
 I will share the info with the WECU organizers, who then will share them within their network. As soon as we have a match the WECU will get in touch with the contact person in the company and/or the person offering further support.
+
+---
 
 ### Privacy Notice
 If you do not wish that your personal contact data is shared in the WECU network, please let me know in your mail. We will find a way to establish direct contact.
