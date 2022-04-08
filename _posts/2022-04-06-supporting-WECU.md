@@ -53,10 +53,10 @@ If you do not wish that your personal contact data is shared in the WECU network
 ---
 ### Other Initiatives - Linklist
 
-## JobAidUkraine e.V.
+#### JobAidUkraine e.V.
 [JobAidUkraine](https://www.jobaidukraine.com/uk) is powered by "Händler helfen Händler". It supports people who had to leave their country. They goal is to bring jobseekers and employers together to support the integration into the European labor market and to bring back financial security.
 
-## UAtalents UG
+#### UAtalents UG
 [UAtalents](https://www.uatalents.com/about) is a job platform for displaced persons from and within Ukraine. On UA Talents, companies from all over Europe can advertise their job openings to people from Ukraine who have lost their employment due to the war.
 
-## tbc
+#### tbc
