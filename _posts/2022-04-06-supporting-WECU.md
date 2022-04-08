@@ -5,7 +5,7 @@ header: Suporting Women's Energy Club Ukraine
 category: [WomenInTech, Ukraine] 
 ---
 
-_2022-04-08 Updated Information_
+_Updated on 2022-04-08_
 
 ### What is the Women's Energy Club of Ukraine?
 [WECU](http://www.wecu.com.ua/en/) is a non-governmental organization founded to unite women professionals working in the energy sector for mutually beneficial cooperation and empowerment, to create a platform for dialogue and increase the percentage of women employed in this sector.
@@ -54,9 +54,10 @@ If you do not wish that your personal contact data is shared in the WECU network
 ### Other Initiatives - Linklist
 
 #### JobAidUkraine e.V.
-[JobAidUkraine](https://www.jobaidukraine.com/uk) is powered by "Händler helfen Händler". It supports people who had to leave their country. They goal is to bring jobseekers and employers together to support the integration into the European labor market and to bring back financial security.
+[JobAidUkraine](https://www.jobaidukraine.com/uk) is powered by "Händler helfen Händler". It supports people who had to leave their country. Their goal is to bring jobseekers and employers together to support the integration into the European labor market and to bring back financial security.
 
 #### UAtalents UG
 [UAtalents](https://www.uatalents.com/about) is a job platform for displaced persons from and within Ukraine. On UA Talents, companies from all over Europe can advertise their job openings to people from Ukraine who have lost their employment due to the war.
 
 #### tbc
+Let me know about other initiatives! I am happy to add them
