@@ -5,7 +5,7 @@ header: Suporting Women's Energy Club Ukraine
 category: [WomenInTech, Ukraine] 
 ---
 
-_2022-04-08 Updated Information_
+_Updated on 2022-04-08_
 
 ### What is the Women's Energy Club of Ukraine?
 [WECU](http://www.wecu.com.ua/en/) is a non-governmental organization founded to unite women professionals working in the energy sector for mutually beneficial cooperation and empowerment, to create a platform for dialogue and increase the percentage of women employed in this sector.
