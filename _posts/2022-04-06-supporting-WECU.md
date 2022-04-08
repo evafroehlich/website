@@ -20,6 +20,8 @@ WECU members have found refuge in the following countries:
 
 Austria, Czech Republic, France, Germany, Italy, Latvia, Lithuania, The Netherlands, Poland, Romania, Slovakia, Spain, Sweden, Switzerland, Ukraine 
 
+[Here you find a list of women professionals looking for a job placement](https://docs.google.com/spreadsheets/d/1sIX-FphUY94Wd7rJeY0DXj1J1yqyFgld0V1xg6jHqz4/edit?usp=sharing)
+
 Do you know any women's energy network in these countries? The WECU and I would be happy if you can share our inquiry in your respective network. 
 
 ### Do you have any employment opportunities to offer?  
