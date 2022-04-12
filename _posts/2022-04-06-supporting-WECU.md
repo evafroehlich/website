@@ -68,6 +68,14 @@ If you do not want your personal contact information shared in the WECU network,
 
 [UAtalents](https://www.uatalents.com/about) is a job platform for displaced persons from and within Ukraine. On UA Talents, companies from all over Europe can advertise their job openings to people from Ukraine who have lost their employment due to the war.
 
+#### FDEF Research Fellowships - Solidarity with Ukraine
+[FDEF Research Fellowships - Solidarity with Ukraine](https://wwwen.uni.lu/fdef/fdef_research_fellowships_solidarity_with_ukraine) has been established in response to the war in Ukraine and assuming their responsibility for urgent support of Ukraine’s academic community, the Faculty of Law, Economics and Finance (FDEF) at the University of Luxembourg (Uni.lu). It is dedicated to Ukrainian researchers and researchers of other nationalities, who are affected by the invasion of Ukraine and intend to pursue joint research projects in collaboration with a member of the FDEF academic staff.
+
+#### Adecco Group AG - Jobs for Ukraine
+[Adecco Group](https://www.adeccojobsforukraine.com/) is a leading talent advisory and solutions company. For more than a decade, they have worked to enable people displaced by conflict to re-enter the world of work in their host countries.
+
+
+
 #### tbc
 
 [Let me know](mailto:
