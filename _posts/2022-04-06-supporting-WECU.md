@@ -5,7 +5,7 @@ header: Supporting Women's Energy Club Ukraine
 category: [WomenInTech, Ukraine]
 ---
 
-_Updated on 2022-04-12_
+_Updated on 2022-04-19_
 
 ### What is the Women's Energy Club of Ukraine (WECU)?
 
