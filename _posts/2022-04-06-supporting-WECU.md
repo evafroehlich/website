@@ -5,7 +5,7 @@ header: Supporting Women's Energy Club Ukraine
 category: [WomenInTech, Ukraine]
 ---
 
-_Updated on 2022-04-12_
+_Updated on 2022-04-19_
 
 ### What is the Women's Energy Club of Ukraine (WECU)?
 
@@ -55,28 +55,3 @@ I will pass the information on to the WECU organizers who will then disseminate 
 ### Privacy
 
 If you do not want your personal contact information shared in the WECU network, please let me know in your email. We will find a way to establish direct contact.
-
----
-
-### Other Initiatives - Link list
-
-#### JobAidUkraine e.V.
-
-[JobAidUkraine](https://www.jobaidukraine.com/uk) is powered by "Händler helfen Händler". It supports people who had to leave their country. Their goal is to bring jobseekers and employers together to support the integration into the European labor market and to bring back financial security.
-
-#### UAtalents UG
-
-[UAtalents](https://www.uatalents.com/about) is a job platform for displaced persons from and within Ukraine. On UA Talents, companies from all over Europe can advertise their job openings to people from Ukraine who have lost their employment due to the war.
-
-#### FDEF Research Fellowships - Solidarity with Ukraine
-[FDEF Research Fellowships - Solidarity with Ukraine](https://wwwen.uni.lu/fdef/fdef_research_fellowships_solidarity_with_ukraine) has been established in response to the war in Ukraine and assuming their responsibility for urgent support of Ukraine’s academic community, the Faculty of Law, Economics and Finance (FDEF) at the University of Luxembourg (Uni.lu). It is dedicated to Ukrainian researchers and researchers of other nationalities, who are affected by the invasion of Ukraine and intend to pursue joint research projects in collaboration with a member of the FDEF academic staff.
-
-#### Adecco Group AG - Jobs for Ukraine
-[Adecco Group](https://www.adeccojobsforukraine.com/) is a leading talent advisory and solutions company. For more than a decade, they have worked to enable people displaced by conflict to re-enter the world of work in their host countries.
-
-
-
-#### tbc
-
-[Let me know](mailto:
-wecu-backup-network@mailbox.org) about other initiatives! I am happy to add them.
