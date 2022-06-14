@@ -27,6 +27,10 @@ The platform brings together the companies and jobseekers to facilitate refugees
 
 ### Germany
 
+#### WE United for Ukraine
+
+[WE United for Ukraine](https://www.energypartnership.org.ua/tr/home/we-united-for-ukraine/) is an initiative with the aim of identifying and strengthening the potential of the role of female experts in the German and Ukrainian energy transition and in the reconstruction of the Ukrainian energy sector after the war. In the long term, the initiative aims to intensify the exchange of female energy experts from Germany and Ukraine and to help accelerate the energy transition in both countries.
+
 #### JobAidUkraine e.V.
 
 [JobAidUkraine](https://www.jobaidukraine.com/uk) is powered by "Händler helfen Händler". It supports people who had to leave their country. Their goal is to bring jobseekers and employers together to support the integration into the European labor market and to bring back financial security.

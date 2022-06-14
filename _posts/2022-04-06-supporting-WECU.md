@@ -39,6 +39,10 @@ If yes, please feel free to contact me with the following profile:
 - Location
 - Additional Information
 
+### Are you working with a german-based company that wants to expand their support?
+
+If yes, please get in touch with the initiative [WE United for Ukraine](https://www.energypartnership.org.ua/tr/home/we-united-for-ukraine/) which is part of the [German-Ukrainian Energy Partnership][https://www.energypartnership.org.ua/home/about/].
+
 ### Would you like to get involved and support local women?
 
 One of the first things they need is reliable information about registration and residency.
