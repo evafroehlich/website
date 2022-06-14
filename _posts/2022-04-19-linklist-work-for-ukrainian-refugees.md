@@ -5,6 +5,8 @@ header: Link List - Employment Websites for Ukrainian Refugees
 category: [Ukraine]
 ---
 
+_Updated on 2022-06-14_
+
 While I was searching for job opportunities for [WECU members](https://eva-ernst.me/blog/supporting-WECU/), I found some great initiatives that created Job placement portals for Ukrainian refugees. 
 
 ### Europe
