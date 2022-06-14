@@ -5,7 +5,7 @@ header: Supporting Women's Energy Club Ukraine
 category: [WomenInTech, Ukraine]
 ---
 
-_Updated on 2022-04-19_
+_Updated on 2022-06-14_
 
 ### What is the Women's Energy Club of Ukraine (WECU)?
 
@@ -38,6 +38,10 @@ If yes, please feel free to contact me with the following profile:
 - Language requirements
 - Location
 - Additional Information
+
+### Are you working with a german-based company that wants to expand their support?
+
+If yes, please get in touch with the initiative [WE United for Ukraine](https://www.energypartnership.org.ua/tr/home/we-united-for-ukraine/) which is part of the [German-Ukrainian Energy Partnership](https://www.energypartnership.org.ua/home/about/).
 
 ### Would you like to get involved and support local women?
 

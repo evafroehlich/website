@@ -5,6 +5,8 @@ header: Link List - Employment Websites for Ukrainian Refugees
 category: [Ukraine]
 ---
 
+_Updated on 2022-06-14_
+
 While I was searching for job opportunities for [WECU members](https://eva-ernst.me/blog/supporting-WECU/), I found some great initiatives that created Job placement portals for Ukrainian refugees. 
 
 ### Europe
@@ -26,6 +28,10 @@ The platform brings together the companies and jobseekers to facilitate refugees
 [Ukrainejobs.at](https://www.ukrainejobs.at/) aims at bringing Ukrainian refugees and Austrian employers together. The platform is free of charge for both parties and has the purpose of instantly helping jobseekers with their demand as well as support integration into the Austrian labour market. 
 
 ### Germany
+
+#### WE United for Ukraine
+
+[WE United for Ukraine](https://www.energypartnership.org.ua/tr/home/we-united-for-ukraine/) is an initiative with the aim of identifying and strengthening the potential of the role of female experts in the German and Ukrainian energy transition and in the reconstruction of the Ukrainian energy sector after the war. In the long term, the initiative aims to intensify the exchange of female energy experts from Germany and Ukraine and to help accelerate the energy transition in both countries.
 
 #### JobAidUkraine e.V.
 
