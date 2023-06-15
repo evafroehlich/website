@@ -293,21 +293,21 @@ sitemap: false
     <span class="experience__timerange">
       11/2018
     </span>
-    <h2 class="experience__position">Professional Seminar Leadership (german)</h2>
+    <h2 class="experience__position">Professional Seminar Leadership</h2>
     <span class="experience__company">Kommunales Bildungswerk e.V.</span>
   </a>
 
   <div class="experience__description">
-    <h4 class="experience__thesis-header">Erfolgreich handeln als (Nachwuchs-)Führungskraft</h4>
+    <p>translated from german to english</p>
+    <h4 class="experience__thesis-header">Acting successfully as a (junior) manager</h4>
     <p>
      Folgende Schwerpunkte wurden behandelt und anhand praktischer Beispiele erläutert:
-    <li>
-     Was für Erwartungen werden an mich als Führungskraft gestellt?</li>
-     <li>Wie motiviere ich Mitarbeiter durch Kommunikation?</li>
-     <li>Das Werkzeug der Führung schlechthin: das Mitarbeitergespräch</li>
-     <li>Fordern und Fördern von Mitarbeitern durch Delegieren</li>
-     <li>Motivierende Ziele setzen</li>
-     <li>Überblick über besondere Führungsherausforderungen im Zeitalter von Arbeit 4.0</li>
+    <li>What expectations are placed on me as a manager?</li>
+     <li>How do I motivate employees through communication?</li>
+     <li>The tool of leadership par excellence: the appraisal interview</li>
+     <li>Challenging and encouraging employees through delegation</li>
+     <li>Setting motivating goals</li>
+     <li>Overview of special leadership challenges in the age of Work 4.0</li>
     </p>
   </div>
 </article>
