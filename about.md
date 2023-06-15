@@ -50,13 +50,13 @@ sitemap: false
       &ndash;
       12/2021
     </span>
-    <h3 class="experience__position">Project Lead</h3>
+    <h3 class="experience__position">Project Manager</h3>
     <span class="experience__company">Berliner Stadtwerke KP  GmbH, Berlin</span>
   </a>
 
   <div class="experience__description">
     <p>
-      As the Project Lead of Heat Production Plants I manage the renewal of heating systems in the city of Berlin. We use current technologies in combination with CHP, heat pumps, solar heating or other renewable systems. 
+      As the Project Manager of Heat Production Plants I manage the renewal of heating systems in the city of Berlin. We use current technologies in combination with CHP, heat pumps, solar heating or other renewable systems. 
       I am involved in planning and executing new projects, overvieweing the construction site and manage the projects overall success.
     </p>
   </div>
@@ -69,7 +69,7 @@ sitemap: false
       &ndash;
       03/2019
     </span>
-    <h3 class="experience__position">Project Lead</h3>
+    <h3 class="experience__position">Project Leader</h3>
     <span class="experience__company">beta GmbH, Berlin</span>
   </a>
 
@@ -283,6 +283,60 @@ sitemap: false
   <div class="experience__description">
     <p>
       Working, traveling and living in another country broadened my view.
+    </p>
+  </div>
+</article>
+
+<h2 class="experience__headline">Further Education</h2>
+<article class="experience">
+  <a class="experience__teaser" href="#">
+    <span class="experience__timerange">
+      11/2018
+    </span>
+    <h2 class="experience__position">Professional Seminar Leadership</h2>
+    <span class="experience__company">Kommunales Bildungswerk e.V.</span>
+  </a>
+  <div class="experience__description">
+    <p><i>translated from german to english</i></p>
+    <h4 class="experience__thesis-header">Acting successfully as a (junior) manager</h4>
+    <p>
+     The following focal points were covered and explained using practical examples:
+    <li>What expectations are placed on me as a manager?</li>
+     <li>How do I motivate employees through communication?</li>
+     <li>The tool of leadership par excellence: the appraisal interview</li>
+     <li>Challenging and encouraging employees through delegation</li>
+     <li>Setting motivating goals</li>
+     <li>Overview of special leadership challenges in the age of Work 4.0</li>
+    </p>
+  </div>
+</article>
+<article class="experience">
+  <a class="experience__teaser" href="#">
+    <span class="experience__timerange">
+      11/2018
+    </span>
+    <h2 class="experience__position">Professional Seminar Project Management</h2>
+    <span class="experience__company">Kommunales Bildungswerk e.V.</span>
+  </a>
+  <div class="experience__description">
+    <p><i>translated from german to english</i></p>
+    <h4 class="experience__thesis-header">Introduction to Project Management - Basic Course</h4>
+    <p>
+     The following focal points were covered and explained using practical examples:
+    <li>Definition and life cycle of projects, conflict potentials.</li>
+     <li>Project planning I: SMART analysis; GANTT; work packages; milestones.</li>
+     <li>Line/project competition</li>
+     <li>Project team I: composition; control; motivation</li>
+     <li>Communication I: Common language; platforms; work instructions</li>
+     <li>The magic triangle</li>
+     <li>Risk management: SWOT analysis; risk factors and risk profile; counter strategy</li>
+     <li>Time management: Pareto; prioritizing; "procrastination"; disruptions</li>
+     <li>Avoiding classic mistakes</li>
+     <li>Projects in everyday work: project rules; responsibilities</li>
+     <li>Meetings and documentation</li>
+     <li>Monitoring and control</li>
+     <li>Problem solving</li>
+     <li>Project end I: "Lessons learned"; project review</li>
     </p>
   </div>
 </article>
