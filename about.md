@@ -298,52 +298,16 @@ sitemap: false
   </a>
 
   <div class="experience__description">
-    <div class="experience__type">Erfolgreich handeln als (Nachwuchs-)Führungskraft</div>
+    <h4 class="experience__thesis-header">Erfolgreich handeln als (Nachwuchs-)Führungskraft</h4>
     <p>
      Folgende Schwerpunkte wurden behandelt und anhand praktischer Beispiele erläutert:
     <li>
-     Was für Erwartungen werden an mich als Führungskraft gestellt?
-     Wie motiviere ich Mitarbeiter durch Kommunikation?
-     Das Werkzeug der Führung schlechthin: das Mitarbeitergespräch
-     Fordern und Fördern von Mitarbeitern durch Delegieren
-     Motivierende Ziele setzen
-     Überblick über besondere Führungsherausforderungen im Zeitalter von Arbeit 4.0
-    </li>
+     Was für Erwartungen werden an mich als Führungskraft gestellt?</li>
+     <li>Wie motiviere ich Mitarbeiter durch Kommunikation?</li>
+     <li>Das Werkzeug der Führung schlechthin: das Mitarbeitergespräch</li>
+     <li>Fordern und Fördern von Mitarbeitern durch Delegieren</li>
+     <li>Motivierende Ziele setzen</li>
+     <li>Überblick über besondere Führungsherausforderungen im Zeitalter von Arbeit 4.0</li>
     </p>
-    </div>
-  </div>
-</article>
-<article class="experience">
-  <a class="experience__teaser" href="#">
-    <span class="experience__timerange">
-      11/2018
-    </span>
-    <h2 class="experience__position">Professional Seminar: Project Management (german)</h2>
-    <span class="experience__company">Kommunales Bildungswerk e.V. </span>
-  </a>
-
-  <div class="experience__description">
-    <div class="experience__type">Einführung in das Projektmanagement - Grundkurs</div>
-    <p>
-     Folgende Schwerpunkte wurden behandelt und anhand praktischer Beispiele erläutert:
-     <li>
-      Definition und Lebenszyklus von Projekten, Konfliktpotenziale
-      Projektplanung I: SMART-Analyse; GANTT; Arbeitspakete; Meilensteine
-      Linie/Projekt-Konkurrenz
-      Projektteam I: Zusammenstellung; Kontrolle; Motivation
-      Kommunikation I: Gemeinsame Sprache; Plattformen; Arbeitsanleitungen
-      Das magische Dreieck
-      Risikomanagement: SWOT-Analyse; Risikofaktoren und Risikoprofil; Gegenstrategie
-      Zeitmanagement: Pareto; Priorisieren; „Aufschieberitis“; Störungen
-      Vermeiden klassischer Fehler
-      Projekte im Arbeitsalltag: Projektregeln; Verantwortlichkeiten
-      Besprechungen und Dokumentation
-      Überwachung und Kontrolle
-      Problemlösungen
-      Projektende I: „Lessons learned“; Projektrückschau
-      Zehn Umsetzungsschritte am Arbeitsplatz
-   </li>
-      </p>
-    </div>
   </div>
 </article>
