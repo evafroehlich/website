@@ -13,16 +13,22 @@ sitemap: false
       &ndash;
       today
     </span>
-    <h3 class="experience__position">Teamlead & Project Lead</h3>
+    <h3 class="experience__position">Team Leader & Project Manager</h3>
     <span class="experience__company">Berliner Stadtwerke KP  GmbH, Berlin</span>
   </a>
 
   <div class="experience__description">
     <p>
-      Since the beginning of 2022 I am the Group Lead of our Heat Supply Team. Together we keep on managing the renewal of heating and cooling systems in the city of Berlin. 
+     Since 2022, I have been in the hybrid role of team leader and project manager in our "Implementation of heating and cooling systems" team. Together we realize renewable projects in the city of Berlin. 
+     My team currently consists of 8 employees. 
+     In our team we live the values of trust, cooperation and being able to fully rely on each other. We benefit from our different backgrounds, professional experiences and expertise. 
+     Together, we are driving the heat turnaround in Berlin. 
     </p>
     <p>
       Here you find a few german press releases about our projects: 
+    </p>
+    <p>
+      <a target="_blank" href="https://berlinerstadtwerke.de/energieprojekte/quartier-haus-der-statistik/">Haus der Statistik, Berlin</a>
     </p>
     <p>
       <a target="_blank" href="https://berlinerstadtwerke.de/presse/aufm-rollberg-und-drunter-zirkulaer-erzeugen-speichern-nutzen/">Rollberg Quarters, Berlin</a>
