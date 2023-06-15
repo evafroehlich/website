@@ -50,13 +50,13 @@ sitemap: false
       &ndash;
       12/2021
     </span>
-    <h3 class="experience__position">Project Lead</h3>
+    <h3 class="experience__position">Project Manager</h3>
     <span class="experience__company">Berliner Stadtwerke KP  GmbH, Berlin</span>
   </a>
 
   <div class="experience__description">
     <p>
-      As the Project Lead of Heat Production Plants I manage the renewal of heating systems in the city of Berlin. We use current technologies in combination with CHP, heat pumps, solar heating or other renewable systems. 
+      As the Project Manager of Heat Production Plants I manage the renewal of heating systems in the city of Berlin. We use current technologies in combination with CHP, heat pumps, solar heating or other renewable systems. 
       I am involved in planning and executing new projects, overvieweing the construction site and manage the projects overall success.
     </p>
   </div>
@@ -69,7 +69,7 @@ sitemap: false
       &ndash;
       03/2019
     </span>
-    <h3 class="experience__position">Project Lead</h3>
+    <h3 class="experience__position">Project Leader</h3>
     <span class="experience__company">beta GmbH, Berlin</span>
   </a>
 
@@ -284,5 +284,67 @@ sitemap: false
     <p>
       Working, traveling and living in another country broadened my view.
     </p>
+  </div>
+</article>
+
+<h2 class="experience__headline">Further Education</h2>
+<article class="experience">
+  <a class="experience__teaser" href="#">
+    <span class="experience__timerange">
+      11/2018
+    </span>
+
+    <h3 class="experience__position">Professional Seminar Leadership (german)</h3>
+    <span class="experience__company">Kommunales Bildungswerk e.V.
+  </a>
+
+  <div class="experience__description">
+    <div class="experience__type">Erfolgreich handeln als (Nachwuchs-)Führungskraft</div>
+    <p>
+     Folgende Schwerpunkte wurden behandelt und anhand praktischer Beispiele erläutert:
+     <li>Was für Erwartungen werden an mich als Führungskraft gestellt?
+     Wie motiviere ich Mitarbeiter durch Kommunikation?
+     Das Werkzeug der Führung schlechthin: das Mitarbeitergespräch
+     Fordern und Fördern von Mitarbeitern durch Delegieren
+     Motivierende Ziele setzen
+     Überblick über besondere Führungsherausforderungen im Zeitalter von Arbeit 4.0
+   </li>
+      </p>
+    </div>
+  </div>
+</article>
+<article class="experience">
+  <a class="experience__teaser" href="#">
+    <span class="experience__timerange">
+      11/2018
+    </span>
+
+    <h3 class="experience__position">Professional Seminar project management (german)</h3>
+    <span class="experience__company">Kommunales Bildungswerk e.V.
+  </a>
+
+  <div class="experience__description">
+    <div class="experience__type">Einführung in das Projektmanagement - Grundkurs</div>
+    <p>
+     Folgende Schwerpunkte wurden behandelt und anhand praktischer Beispiele erläutert:
+     <li>
+      Definition und Lebenszyklus von Projekten, Konfliktpotenziale
+      Projektplanung I: SMART-Analyse; GANTT; Arbeitspakete; Meilensteine
+      Linie/Projekt-Konkurrenz
+      Projektteam I: Zusammenstellung; Kontrolle; Motivation
+      Kommunikation I: Gemeinsame Sprache; Plattformen; Arbeitsanleitungen
+      Das magische Dreieck
+      Risikomanagement: SWOT-Analyse; Risikofaktoren und Risikoprofil; Gegenstrategie
+      Zeitmanagement: Pareto; Priorisieren; „Aufschieberitis“; Störungen
+      Vermeiden klassischer Fehler
+      Projekte im Arbeitsalltag: Projektregeln; Verantwortlichkeiten
+      Besprechungen und Dokumentation
+      Überwachung und Kontrolle
+      Problemlösungen
+      Projektende I: „Lessons learned“; Projektrückschau
+      Zehn Umsetzungsschritte am Arbeitsplatz
+   </li>
+      </p>
+    </div>
   </div>
 </article>
