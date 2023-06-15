@@ -296,18 +296,47 @@ sitemap: false
     <h2 class="experience__position">Professional Seminar Leadership</h2>
     <span class="experience__company">Kommunales Bildungswerk e.V.</span>
   </a>
-
   <div class="experience__description">
-    <p>translated from german to english</p>
+    <p><i>translated from german to english</i></p>
     <h4 class="experience__thesis-header">Acting successfully as a (junior) manager</h4>
     <p>
-     Folgende Schwerpunkte wurden behandelt und anhand praktischer Beispiele erläutert:
+     The following focal points were covered and explained using practical examples:
     <li>What expectations are placed on me as a manager?</li>
      <li>How do I motivate employees through communication?</li>
      <li>The tool of leadership par excellence: the appraisal interview</li>
      <li>Challenging and encouraging employees through delegation</li>
      <li>Setting motivating goals</li>
      <li>Overview of special leadership challenges in the age of Work 4.0</li>
+    </p>
+  </div>
+</article>
+<article class="experience">
+  <a class="experience__teaser" href="#">
+    <span class="experience__timerange">
+      11/2018
+    </span>
+    <h2 class="experience__position">Professional Seminar Project Management</h2>
+    <span class="experience__company">Kommunales Bildungswerk e.V.</span>
+  </a>
+  <div class="experience__description">
+    <p><i>translated from german to english</i></p>
+    <h4 class="experience__thesis-header">Introduction to Project Management - Basic Course</h4>
+    <p>
+     The following focal points were covered and explained using practical examples:
+    <li>Definition and life cycle of projects, conflict potentials.</li>
+     <li>Project planning I: SMART analysis; GANTT; work packages; milestones.</li>
+     <li>Line/project competition</li>
+     <li>Project team I: composition; control; motivation</li>
+     <li>Communication I: Common language; platforms; work instructions</li>
+     <li>The magic triangle</li>
+     <li>Risk management: SWOT analysis; risk factors and risk profile; counter strategy</li>
+     <li>Time management: Pareto; prioritizing; "procrastination"; disruptions</li>
+     <li>Avoiding classic mistakes</li>
+     <li>Projects in everyday work: project rules; responsibilities</li>
+     <li>Meetings and documentation</li>
+     <li>Monitoring and control</li>
+     <li>Problem solving</li>
+     <li>Project end I: "Lessons learned"; project review</li>
     </p>
   </div>
 </article>
