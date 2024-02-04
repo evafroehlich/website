@@ -291,22 +291,46 @@ sitemap: false
 <article class="experience">
   <a class="experience__teaser" href="#">
     <span class="experience__timerange">
-      11/2018
+      09/2023
     </span>
-    <h2 class="experience__position">Professional Seminar Leadership</h2>
-    <span class="experience__company">Kommunales Bildungswerk e.V.</span>
+    <h2 class="experience__position">Team Leadership</h2>
+    <span class="experience__company">Haufe Akademie GmbH & Co. KG</span>
   </a>
   <div class="experience__description">
     <p><i>translated from german to english</i></p>
-    <h4 class="experience__thesis-header">Acting successfully as a (junior) manager</h4>
+    <h4 class="experience__thesis-header">Rhetoric for Managers</h4>
     <p>
-     The following focal points were covered and explained using practical examples:
-    <li>What expectations are placed on me as a manager?</li>
-     <li>How do I motivate employees through communication?</li>
-     <li>The tool of leadership par excellence: the appraisal interview</li>
-     <li>Challenging and encouraging employees through delegation</li>
-     <li>Setting motivating goals</li>
-     <li>Overview of special leadership challenges in the age of Work 4.0</li>
+     <li>Success factors of a winning speech</li>
+     <li>Targeted use of word choice, language expression and speaking style</li>
+     <li>Improving vocal and body language expression and impact potential</li>
+     <li>Acting effectively and cleverly with repartee</li>
+     <li>Reduction of speech inhibitions, optimisation of speaking confidence</li>
+     <li>Practising individual solutions</li>
+    </p>
+  </div>
+</article>
+<article class="experience">
+  <a class="experience__teaser" href="#">
+    <span class="experience__timerange">
+      06/2022
+    </span>
+    <h2 class="experience__position">Team Leadership</h2>
+    <span class="experience__company">TÜV Nord Akademie</span>
+  </a>
+  <div class="experience__description">
+    <p><i>translated from german to english</i></p>
+    <h4 class="experience__thesis-header">Leading and developing teams with methodology and social skills</h4>
+    <p>
+     <li>The basics of teamwork</li>
+     <li>Success factors and resistance in teamwork</li>
+     <li>Basics of successful communication in a team</li>
+     <li>Leading teams</li>
+     <li>Leadership styles and leadership behaviour</li>
+     <li>Employee motivation and team management</li>
+     <li>Efficient and effective teamwork</li>
+     <li>Clarifying conflicts in the team</li>
+     <li>Systematic problem solving in the team</li>
+     <li>Controlling and CIP in teamwork</li>
     </p>
   </div>
 </article>
@@ -315,7 +339,30 @@ sitemap: false
     <span class="experience__timerange">
       11/2018
     </span>
-    <h2 class="experience__position">Professional Seminar Project Management</h2>
+    <h2 class="experience__position">Team Leadership</h2>
+    <span class="experience__company">Kommunales Bildungswerk e.V.</span>
+  </a>
+  <div class="experience__description">
+    <p><i>translated from german to english</i></p>
+    <h4 class="experience__thesis-header">Acting successfully as a (junior) manager</h4>
+    <p>
+     The following focal points were covered and explained using practical examples:
+     <li>What expectations are placed on me as a manager?</li>
+     <li>How do I motivate employees through communication?</li>
+     <li>The tool of leadership par excellence: the appraisal interview</li>
+     <li>Challenging and encouraging employees through delegation</li>
+     <li>Setting motivating goals</li>
+     <li>Overview of special leadership challenges in the age of Work 4.0</li>
+    </p>
+  </div>
+</article>
+
+<article class="experience">
+  <a class="experience__teaser" href="#">
+    <span class="experience__timerange">
+      11/2018
+    </span>
+    <h2 class="experience__position">Project Management</h2>
     <span class="experience__company">Kommunales Bildungswerk e.V.</span>
   </a>
   <div class="experience__description">
