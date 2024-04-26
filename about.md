@@ -201,8 +201,7 @@ sitemap: false
         <strong>Topic:</strong> “Study of a wind hydrogen storage system analyzing different technological configurations and wind power predictions”
       </div>
     <p class="experience__thesis-description">
-       I wrote my thesis at overspeed GmbH & Co.KG. Their services and products span the entire wind energy sector from wind energy consulting to wind power predictions for grid operators – from the development of wind farm management software to energy storage systems and professional training. 
-       In my master's thesis, I analyse a given wind-hydrogen storage model in MatLab using different system configurations. These configurations include changes in the electrolyzer and fuel cell outpu as well as the use of various current and day-ahead forecast data. The aim is to work out the influence of these components on the storage system.
+       In my master's thesis at overspeed GmbH & Co.KG, I analyse a given wind-hydrogen storage model in MatLab using different system configurations. These configurations include changes in the electrolyzer and fuel cell outpu as well as the use of various current and day-ahead forecast data. The aim is to work out the influence of these components on the storage system.
        Furthermore, it is ask which forecast data sets result in the most favourable system behavior. For this purpose, 5-minute, 30-minute averaged forecasts and forecasts with a exceedance probability of 90%, 50% and 10% are used. The storage system will be integrated into wind farms in Victoria and New South Wales, Australia. 
     </p>
     </div>

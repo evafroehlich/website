@@ -21,7 +21,7 @@ sitemap: false
     Eva-Christin&nbsp;Ernst&nbsp;|&nbsp;Richard-Sorge-Str.&nbsp;59&nbsp;|&nbsp;10249&nbsp;Berlin
   </div>
 
-  <a class="contact__social-link" href="https://www.linkedin.com/in/eva-christin-ernst-61598abb/">
+  <a class="contact__social-link" href="https://www.linkedin.com/in/eva-christin-e-61598abb/">
     <img src="{{ '/img/linkedin.svg' | relative_url }}">
   </a>
   <a class="contact__social-link" href="https://github.com/evafroehlich/">
