@@ -75,9 +75,9 @@ sitemap: false
 
   <div class="experience__description">
     <p>
-      I manage a small team of engineers and clerks. Together with our Lead of Accounting we introduce new management methods optimizing workflows and reducing project costs.
-      In addition I obtain the representation power of attorny (Vertrauensvollmacht) concerning decisions within our projects.
-      In 2018 my team and I already realized two CHP-plant projects for which I am fully responsible. It supplies 30 to 50 terraced houses with heat and electrity.
+      I managed a small team of engineers and administrative staff. Together with our head of accounting, we introduced new management methods to optimise work processes and reduce project costs.
+      In addition I obtained the representation power of attorny (Vertrauensvollmacht) concerning decisions within our projects.
+      During my time at beta, I have realised combined heat and power plant projects with my team, for which I have full responsibility. The projects each supply 30 to 50 terraced houses with heat and electrity.
     </p>
   </div>
 </article>
@@ -98,10 +98,10 @@ sitemap: false
       beta GmbH is an energy contractor which supplies customers with heat &amp; electricity from small CHP plants in domestic areas. As a contractor beta GmbH carries out consulting, planning, financing and operation of the energy systems. In addition beta GmbH operates their own heating stations.
     </p>
     <p>
-      Among other tasks I manage and monitor maintenance optimization of the existing heating stations as well as the entire planning of new projects.
+      My tasks included managing and monitoring the maintenance optimisation of existing heating plants as well as the entire planning of new projects.
     </p>
     <p>
-      In my daily work I am also mainly responsible for the regulatory framework of CHP plants. This includes the EEG, EnEff, EnEv, KWKG, EnStG, StromStG and EnWG.
+      In my day-to-day work, I was mainly responsible for the regulatory framework of CHP plants. This includes the EEG, EnEff, EnEv, KWKG, EnStG, StromStG and EnWG.
     </p>
   </div>
 </article>
@@ -119,7 +119,7 @@ sitemap: false
 
   <div class="experience__description">
     <p>
-      I projected belt dryer systems for applications in the chemical and food industry worldwide. My tasks included establishing quotations and engineering dry processes. I managed projects from start to finish. Part of it was defining the project's goal with the customers on site followed by the specifications of the dryer system. This also included choosing component suppliers and change management.
+      I have projected belt drying systems for applications in the chemical and food industry worldwide. My tasks included the preparaton of cost estimates and the planning of drying processes. I have managed projects from start to finish. This included defining the project objective with the customer on site, followed by the specification of the drying system. It also involved the selection of component suppliers and change management.
     </p>
   </div>
 </article>
@@ -136,7 +136,8 @@ sitemap: false
   </a>
   <div class="experience__description">
     <p>
-      As part of the “Callux” project, a on-road test for domestic fuel cell heating systems, I evaluated and summarized the results of the project.
+      As part of the National Innovation Programme for Hydrogen and Fuel Cell Technology (NIP), five energy suppliers and three manufacturers of fuel cell heating appliances are carrying out an important lighthouse project in the field of ‘Stationary applications in domestic energy supply’.
+      In my position as a technical assistant, I have analysed and summarised the results for the ‘Callux’ project.
     </p>
   </div>
 </article>
@@ -154,7 +155,7 @@ sitemap: false
 
   <div class="experience__description">
     <p>
-      For the “KES” (Kosteneffiziente erdvergrabene Heißwasserspeicher) project concerning the cost-efficiency of land buried warm-water storage systems for one- and multi-family houses I evaluated test results and erected a prototype.
+      As a part <a target="_blank" href="https://www.htw-berlin.de/forschung/online-forschungskatalog/projekte/projekt/?eid=1964">“KES” (cost-effective underground hot water storage tanks)</a>, I analysed test results and built a prototype. The aim of the project is to enable high solar coverage in residential buildings. In this research project, a new approach was pursued in which the heat storage tank is embedded in the ground directly next to the building.
     </p>
   </div>
 </article>
@@ -185,10 +186,8 @@ sitemap: false
       &ndash;
       03/2014
     </span>
-
-    <h3 class="experience__position">Master of Science</h3>
-    <span class="experience__company">Carl von Ossietzky University of Oldenburg</span>
-
+     <h3 class="experience__position">Master of Science</h3>
+     <span class="experience__company">Carl von Ossietzky University of Oldenburg</span>
   </a>
 
   <div class="experience__description">
@@ -201,9 +200,10 @@ sitemap: false
       <div class="experience__thesis">
         <strong>Topic:</strong> “Study of a wind hydrogen storage system analyzing different technological configurations and wind power predictions”
       </div>
-      <p class="experience__thesis-description">
-        The thesis examined a specified wind hydrogen storage model using MatLab. Overspeed's part in the government funded “HyWindBalance” project was to provide a feasibility study.
-      </p>
+    <p class="experience__thesis-description">
+       In my master's thesis at overspeed GmbH & Co.KG, I analyse a given wind-hydrogen storage model in MatLab using different system configurations. These configurations include changes in the electrolyzer and fuel cell outpu as well as the use of various current and day-ahead forecast data. The aim is to work out the influence of these components on the storage system.
+       Furthermore, it is ask which forecast data sets result in the most favourable system behavior. For this purpose, 5-minute, 30-minute averaged forecasts and forecasts with a exceedance probability of 90%, 50% and 10% are used. The storage system will be integrated into wind farms in Victoria and New South Wales, Australia. 
+    </p>
     </div>
     <p>
       <strong>Overall M.&nbsp;Sc. grade:</strong> 1.70
@@ -225,19 +225,18 @@ sitemap: false
   <div class="experience__description">
     <div class="experience__type">Maschinenbau (Mechanical Engineering)</div>
     <p>
-      Beside further knowledge in classic mechanical engineering I learned about heating, air conditioning, photovoltaic and solar thermal systems.
+      During my mechanical engineering studies, I acquired knowledge of heating, air conditioning, photovoltaic and solar thermal systems in addition to the mathematical, scientific, computer science and technical basics.
     </p>
     <div id="bachelorthesis" class="experience__highlight">
       <h4 class="experience__thesis-header">Bachelor Thesis (B.&nbsp;Eng.)</h4>
-
-      <p>
+    <p>
         Institut für Solarenergieforschung, Hameln
-      </p>
-      <div class="experience__thesis">
+    </p>
+    <div class="experience__thesis">
         <strong>Topic:</strong> “Temperature load and heat loss of highly efficient, insulated-glazed flat plate collectors”
       </div>
       <p class="experience__thesis-description">
-        My objective was to analyze the usability and temperature stability of a sealing compound used in the flat plate collector. In a high temperature test stand I analyzed its ageing behaviour in stagnation. In order to examine the temperature profiles, I simulated construction variations of the flat plate collector in <a href="http://www.buildingphysics.com/index-filer/heat2.htm" nofollow>Heat2</a>.
+        My bachelor's thesis deals with the serviceability and, in particular, the temperature resistance of the primary sealant used in the edge seal of the glazing. For this purpose, the edge seal is thermally loaded in a high-temperature load test rig over a longer period of time and the ageing behaviour of the edge seal is investigated during this time. At the same time, various design variants of the flat-plate collector are analysed in the <a href="http://www.buildingphysics.com/index-filer/heat2.htm" nofollow>Heat2</a> simulation program with regard to the maximum edge seal temperature in the event of stagnation. These results are used to determine the equivalent load duration of the edge seal at high temperatures in Central and Southern Europe. In addition, the influence of the design variants on the total heat loss at the collector is determined.
       </p>
     </div>
     <p>
@@ -261,10 +260,12 @@ sitemap: false
   </a>
 
   <div class="experience__description">
-    
-    <a target="_blank" href="http://www.uvic.ca/research/centres/iesvic/">Institute for Integrated Energy Systems</a>
+        <a target="_blank" href="http://www.uvic.ca/research/centres/iesvic/">Institute for Integrated Energy Systems</a>
     <p>
       As a part of “West Coast Wave Initiative (WCWI)” I researched wave energy systems. In SimuLink I implemented a model of a single motion wave energy converter with a hydraulic power take-off system.
+    </p>
+    <p> 
+       During my stay, I took part in <a target="_blank" href="https://www.uvic.ca/research/projects/wcwi/home/about-us/index.php">the deployment</a> of a wave energy converter.
     </p>
   </div>
 </article>
@@ -297,7 +298,6 @@ sitemap: false
     <span class="experience__company">Haufe Akademie GmbH & Co. KG</span>
   </a>
   <div class="experience__description">
-    <p><i>translated from german to english</i></p>
     <h4 class="experience__thesis-header">Rhetoric for Managers</h4>
     <p>
      <li>Success factors of a winning speech</li>
@@ -318,8 +318,7 @@ sitemap: false
     <span class="experience__company">TÜV Nord Akademie</span>
   </a>
   <div class="experience__description">
-    <p><i>translated from german to english</i></p>
-    <h4 class="experience__thesis-header">Leading and developing teams with methodology and social skills</h4>
+    <h4 class="experience__thesis-header">Leading and developing teams</h4>
     <p>
      <li>The basics of teamwork</li>
      <li>Success factors and resistance in teamwork</li>
@@ -343,7 +342,6 @@ sitemap: false
     <span class="experience__company">Kommunales Bildungswerk e.V.</span>
   </a>
   <div class="experience__description">
-    <p><i>translated from german to english</i></p>
     <h4 class="experience__thesis-header">Acting successfully as a (junior) manager</h4>
     <p>
      The following focal points were covered and explained using practical examples:
@@ -366,7 +364,6 @@ sitemap: false
     <span class="experience__company">Kommunales Bildungswerk e.V.</span>
   </a>
   <div class="experience__description">
-    <p><i>translated from german to english</i></p>
     <h4 class="experience__thesis-header">Introduction to Project Management - Basic Course</h4>
     <p>
      The following focal points were covered and explained using practical examples:
