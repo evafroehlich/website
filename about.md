@@ -8,7 +8,7 @@ sitemap: false
 <h2 class="experience__headline">Work Experience</h2>
 
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">01/2022 &ndash; today</span>
 
     <h3 class="experience__position">Team Leader & Project Manager</h3>
