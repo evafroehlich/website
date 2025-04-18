@@ -210,7 +210,7 @@ sitemap: false
 <article class="experience">
   <a class="experience__teaser">
     <span class="experience__timerange">11/2024</span>
-    <h2 class="experience__position">Inhouse Seminar Participation</h2>
+    <h2 class="experience__position">Self Management</h2>
     <span class="experience__company">Haufe Akademie, Berlin</span>
   </a>
   <div class="experience__description">
@@ -229,7 +229,7 @@ sitemap: false
 <article class="experience">
   <a class="experience__teaser">
     <span class="experience__timerange">10/2024</span>
-    <h2 class="experience__position">Leadership Seminar Participation</h2>
+    <h2 class="experience__position">Leadership</h2>
     <span class="experience__company">Lohmarer Institut für Weiterbildung e.V.</span>
   </a>
   <div class="experience__description">
@@ -244,7 +244,7 @@ sitemap: false
 <article class="experience">
   <a class="experience__teaser">
     <span class="experience__timerange">10/2023</span>
-    <h2 class="experience__position">Seminar Participation</h2>
+    <h2 class="experience__position">Expertise</h2>
     <span class="experience__company">BPM BauProjektManagement, Berlin</span>
   </a>
   <div class="experience__description">
@@ -264,7 +264,7 @@ sitemap: false
 <article class="experience">
   <a class="experience__teaser">
     <span class="experience__timerange">09/2023</span>
-    <h2 class="experience__position">Team Leadership</h2>
+    <h2 class="experience__position">Leadership</h2>
     <span class="experience__company">Haufe Akademie GmbH & Co. KG</span>
   </a>
   <div class="experience__description">
@@ -282,7 +282,7 @@ sitemap: false
 <article class="experience">
   <a class="experience__teaser">
     <span class="experience__timerange">06/2022</span>
-    <h2 class="experience__position">Team Leadership</h2>
+    <h2 class="experience__position">Leadership</h2>
     <span class="experience__company">TÜV Nord Akademie</span>
   </a>
   <div class="experience__description">
@@ -302,7 +302,7 @@ sitemap: false
 <article class="experience">
   <a class="experience__teaser">
     <span class="experience__timerange">11/2018</span>
-    <h2 class="experience__position">Team Leadership</h2>
+    <h2 class="experience__position">Leadership</h2>
     <span class="experience__company">Kommunales Bildungswerk e.V.</span>
   </a>
   <div class="experience__description">
@@ -346,7 +346,7 @@ sitemap: false
 <article class="experience">
   <a class="experience__teaser">
     <span class="experience__timerange">06/2016</span>
-    <h2 class="experience__position">Workshop Participation</h2>
+    <h2 class="experience__position">Expertise</h2>
     <span class="experience__company">BHKW-Consult, Kassel</span>
   </a>
   <div class="experience__description">
@@ -369,7 +369,7 @@ sitemap: false
 <article class="experience">
   <a class="experience__teaser">
     <span class="experience__timerange">04/2016</span>
-    <h2 class="experience__position">Workshop Participation</h2>
+    <h2 class="experience__position">Expertise</h2>
     <span class="experience__company">BHKW-Consult, Dresden</span>
   </a>
   <div class="experience__description">
