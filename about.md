@@ -6,8 +6,8 @@ sitemap: false
 ---
 
 <h2 class="experience__headline">Work Experience</h2>
-<details>
-  <summary>Professional career in renewable energy and leadership</summary>
+<details open>
+  <summary>My professional career in renewable energy and leadership</summary>
 <article class="experience">
   <a class="experience__teaser">
     <span class="experience__timerange">01/2022 &ndash; today</span>
