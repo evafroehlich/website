@@ -34,7 +34,7 @@ sitemap: false
 </article>
 
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">04/2019 &ndash; 12/2021</span>
     <h3 class="experience__position">Project Manager</h3>
     <span class="experience__company">Berliner Stadtwerke KP GmbH, Berlin</span>
@@ -47,7 +47,7 @@ sitemap: false
 </article>
 
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">11/2017 &ndash; 03/2019</span>
     <h3 class="experience__position">Project Leader</h3>
     <span class="experience__company">beta GmbH, Berlin</span>
@@ -60,7 +60,7 @@ sitemap: false
 </article>
 
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">12/2015 &ndash; 10/2017</span>
     <h3 class="experience__position">Project Engineer</h3>
     <span class="experience__company">beta GmbH, Berlin</span>
@@ -73,7 +73,7 @@ sitemap: false
 </article>
 
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">05/2014 &ndash; 11/2015</span>
     <h3 class="experience__position">Project Engineer</h3>
     <span class="experience__company">Theilen Maschinenbau, Varel</span>
@@ -86,7 +86,7 @@ sitemap: false
 </article>
 
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">06/2012 &ndash; 08/2012</span>
     <h3 class="experience__position">Technical Assistant</h3>
     <div class="experience__company">EWE AG, Oldenburg</div>
@@ -99,7 +99,7 @@ sitemap: false
 </article>
 
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">09/2010 &ndash; 02/2011</span>
     <h3 class="experience__position">Trainee</h3>
     <span class="experience__company">Institut für Solarenergieforschung, Hameln</span>
@@ -112,7 +112,7 @@ sitemap: false
 </article>
 
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">06/2008 &ndash; 08/2008</span>
     <h3 class="experience__position">Trainee</h3>
     <span class="experience__company">Exxon Mobil Production Deutschland GmbH</span>
@@ -126,7 +126,7 @@ sitemap: false
 
 <h2 class="experience__headline">Education</h2>
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">10/2012 &ndash; 03/2014</span>
     <h3 class="experience__position">Master of Science</h3>
     <span class="experience__company">Carl von Ossietzky University of Oldenburg</span>
@@ -150,7 +150,7 @@ sitemap: false
 </article>
 
 <article class="experience" id="mechanical-engineering">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">09/2008 &ndash; 03/2012</span>
     <h3 class="experience__position">Bachelor of Engineering</h3>
     <span class="experience__company">Jade University of Applied Sciences, Wilhelmshaven</span>
@@ -176,7 +176,7 @@ sitemap: false
 
 <h2 class="experience__headline">International Experience</h2>
 <article class="experience" id="internship-abroad">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">02/2013 &ndash; 03/2013</span>
     <h3 class="experience__position">Trainee</h3>
     <span class="experience__company">University of Victoria, B.C., Canada</span>
@@ -193,7 +193,7 @@ sitemap: false
 </article>
 
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">07/2007 &ndash; 04/2008</span>
     <h3 class="experience__position">Work &amp; Travel</h3>
     <span class="experience__company">New Zealand</span>
@@ -208,7 +208,7 @@ sitemap: false
 <h2 class="experience__headline">Further Education</h2>
 
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">11/2024</span>
     <h2 class="experience__position">Inhouse Seminar Participation</h2>
     <span class="experience__company">Haufe Akademie, Berlin</span>
@@ -227,7 +227,7 @@ sitemap: false
 </article>
 
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">10/2024</span>
     <h2 class="experience__position">Leadership Seminar Participation</h2>
     <span class="experience__company">Lohmarer Institut für Weiterbildung e.V.</span>
@@ -242,7 +242,7 @@ sitemap: false
   </div>
 </article>
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">10/2023</span>
     <h2 class="experience__position">Seminar Participation</h2>
     <span class="experience__company">BPM BauProjektManagement, Berlin</span>
@@ -262,7 +262,7 @@ sitemap: false
 </article>
 
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">09/2023</span>
     <h2 class="experience__position">Team Leadership</h2>
     <span class="experience__company">Haufe Akademie GmbH & Co. KG</span>
@@ -280,7 +280,7 @@ sitemap: false
   </div>
 </article>
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">06/2022</span>
     <h2 class="experience__position">Team Leadership</h2>
     <span class="experience__company">TÜV Nord Akademie</span>
@@ -300,7 +300,7 @@ sitemap: false
   </div>
 </article>
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">11/2018</span>
     <h2 class="experience__position">Team Leadership</h2>
     <span class="experience__company">Kommunales Bildungswerk e.V.</span>
@@ -319,7 +319,7 @@ sitemap: false
 </article>
 
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">11/2018</span>
     <h2 class="experience__position">Project Management</h2>
     <span class="experience__company">Kommunales Bildungswerk e.V.</span>
@@ -344,7 +344,7 @@ sitemap: false
   </div>
 </article>
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">06/2016</span>
     <h2 class="experience__position">Workshop Participation</h2>
     <span class="experience__company">BHKW-Consult, Kassel</span>
@@ -367,7 +367,7 @@ sitemap: false
 </article>
 
 <article class="experience">
-  <a class="experience__teaser" href="#">
+  <a class="experience__teaser">
     <span class="experience__timerange">04/2016</span>
     <h2 class="experience__position">Workshop Participation</h2>
     <span class="experience__company">BHKW-Consult, Dresden</span>
