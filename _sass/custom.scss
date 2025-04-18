@@ -90,20 +90,20 @@ article.experience {
 /* --- summary inside <details> (About page) --- */
 
 details summary {
-  font-size: 1.1rem;
+  font-size: 1.25rem;                  // Matching .experience__position
   font-weight: 600;
-  color: #333;
-  background-color: #f5f5f5;
+  color: #222;                         // Slightly darker for contrast
+  background-color: #fdfdfd;
   padding: 0.75rem 1rem;
-  border: 1px solid #ddd;
-  border-radius: 4px;
+  border: 1px solid $green;
+  border-radius: 0.25rem;
   margin: 1.5rem 0 0.5rem;
   cursor: pointer;
   transition: background-color 0.2s ease;
 }
 
 details summary:hover {
-  background-color: #eee;
+  background-color: #f4fdf6;           // A hint of green tone
 }
 
 details[open] summary {
