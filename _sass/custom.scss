@@ -4,17 +4,45 @@
 @import "experience";
 
 .home {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
   border-bottom: 1px solid rgba(0, 0, 0, 0.14);
 }
 
 .home__headline {
   font-size: 2rem;
+  font-weight: none;
+  line-height: 1.4;
   margin-top: 1rem;
+  margin-bottom: 1.5rem
 }
 
 .home__portrait-photo {
+  display: block;
+  max-width: 300px;          /* Adjust based on actual image size */
+  margin-top: 2rem;
   margin-bottom: 0;
+  border-radius: 50%;
+  object-fit: cover;
+
 }
+
+
+.home p {
+  font-size: 1.125rem;       /* Slightly larger text for readability */
+  line-height: 1.6;
+  margin-bottom: 1.5rem;     /* Adequate space between paragraphs */
+}
+
+.home p strong {
+  font-weight: 600;
+}
+
+.home p abbr {
+  text-decoration: underline dotted;
+}
+
 
 .contact__social-link {
   text-decoration: none;
@@ -122,4 +150,18 @@ details summary::before {
 
 details[open] summary::before {
   transform: rotate(90deg);
+}
+
+@media (max-width: 768px) {
+  .home__headline {
+    font-size: 2rem;         /* Smaller font on mobile */
+  }
+
+  .home p {
+    font-size: 1rem;         /* Slightly smaller text on mobile */
+  }
+
+  .home__portrait-photo {
+    max-width: 150px;        /* Adjust image size on mobile */
+  }
 }
