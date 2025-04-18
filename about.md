@@ -10,6 +10,7 @@ sitemap: false
 <article class="experience">
   <a class="experience__teaser" href="#">
     <span class="experience__timerange">01/2022 &ndash; today</span>
+
     <h3 class="experience__position">Team Leader & Project Manager</h3>
     <span class="experience__company">Berliner Stadtwerke KP GmbH, Berlin</span>
   </a>
