@@ -86,3 +86,39 @@
 article.experience {
   margin-bottom: 0.0rem;
 }
+
+/* --- summary inside <details> (About page) --- */
+
+details summary {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #333;
+  background-color: #f5f5f5;
+  padding: 0.75rem 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin: 1.5rem 0 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+details summary:hover {
+  background-color: #eee;
+}
+
+details[open] summary {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+/* Optional: Rotate arrow indicator */
+details summary::after {
+  content: "▸";
+  float: right;
+  transform: rotate(0deg);
+  transition: transform 0.3s ease;
+}
+
+details[open] summary::after {
+  transform: rotate(90deg);
+}
