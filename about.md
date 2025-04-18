@@ -126,6 +126,8 @@ sitemap: false
 </article>
 </details>
 <h2 class="experience__headline">Education</h2>
+<details open>
+  <summary>Academic foundation in mechanical and renewable energy engineering</summary>
 <article class="experience">
   <a class="experience__teaser">
     <span class="experience__timerange">10/2012 &ndash; 03/2014</span>
@@ -174,8 +176,11 @@ sitemap: false
     <p><strong>Overall B.&nbsp;Eng. grade:</strong> 1.83</p>
   </div>
 </article>
+</details>
 
 <h2 class="experience__headline">International Experience</h2>
+<details open>
+  <summary>Global insights gained through academic and professional stays abroad</summary>
 <article class="experience" id="internship-abroad">
   <a class="experience__teaser">
     <span class="experience__timerange">02/2013 &ndash; 03/2013</span>
@@ -205,9 +210,11 @@ sitemap: false
     </p>
   </div>
 </article>
+</details>
 
 <h2 class="experience__headline">Further Education</h2>
-
+<details open>
+  <summary>Ongoing development in leadership, communication, and technical expertise</summary>
 <article class="experience">
   <a class="experience__teaser">
     <span class="experience__timerange">11/2024</span>
@@ -387,7 +394,7 @@ sitemap: false
     </ul>
   </div>
 </article>
-
+</details>
 
 
 <!-- Placeholder for future Further Education entries -->
