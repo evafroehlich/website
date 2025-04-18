@@ -90,15 +90,15 @@ article.experience {
 /* --- summary inside <details> (About page) --- */
 
 details summary {
-  font-size: 1.125rem;                  // Matching .experience__position
+  font-size: 1.0rem;                  // Matching .experience__position
   font-weight: 600;
   color: #222;                         // Slightly darker for contrast
   background-color: #fdfdfd;
-  padding: 0.75rem 1rem;
-  border: 1px solid $green;
-  border-radius: 0.25rem;
-  margin: 1.5rem 0 0.5rem;
+  padding: 0.5rem 0;
+  border: none;
   cursor: pointer;
+  position: relative;
+  list-style: none:
   transition: background-color 0.2s ease;
 }
 
@@ -111,15 +111,15 @@ details[open] summary {
   border-bottom-right-radius: 0;
 }
 
-/* Optional: Rotate arrow indicator */
-details summary::after {
+/* single elegant arrow */
+details summary::before {
   content: "▸";
-  float: right;
   color: $green;
-  transform: rotate(0deg);
+  margin-right: 0.5rem;
   transition: transform 0.3s ease;
+  display: inline-block;
 }
 
-details[open] summary::after {
+details[open] summary::before {
   transform: rotate(90deg);
 }
