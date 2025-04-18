@@ -90,7 +90,7 @@ article.experience {
 /* --- summary inside <details> (About page) --- */
 
 details summary {
-  font-size: 1.25rem;                  // Matching .experience__position
+  font-size: 1.125rem;                  // Matching .experience__position
   font-weight: 600;
   color: #222;                         // Slightly darker for contrast
   background-color: #fdfdfd;
@@ -115,6 +115,7 @@ details[open] summary {
 details summary::after {
   content: "▸";
   float: right;
+  color: $green;
   transform: rotate(0deg);
   transition: transform 0.3s ease;
 }
