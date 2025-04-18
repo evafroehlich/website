@@ -213,7 +213,7 @@ sitemap: false
     <span class="experience__company">Haufe Akademie, Berlin</span>
   </a>
   <div class="experience__description">
-    <h4 class="experience__thesis-header">Effective Time, Self, and Stress Management (Team Seminar)</h4>
+    <h5 class="experience__thesis-header">Effective Time, Self, and Stress Management</h5>
     <p>This seminar was held together with my team and focused on strengthening our individual and collective time and stress management strategies.</p>
     <ul>
       <li>Professional self-management techniques</li>
@@ -227,12 +227,27 @@ sitemap: false
 
 <article class="experience">
   <a class="experience__teaser" href="#">
+    <span class="experience__timerange">10/2024</span>
+    <h2 class="experience__position">Leadership Seminar Participation</h2>
+    <span class="experience__company">Lohmarer Institut für Weiterbildung e.V.</span>
+  </a>
+  <div class="experience__description">
+    <h5 class="experience__thesis-header">Leading with Values – Stability and Presence for Leadership</h5>
+    <p>
+      I took part in this intensive seminar to deepen my understanding of personal and value-based leadership. 
+      We explored how to strengthen inner stability, resilience, and clarity in leadership decisions—skills that help navigate stress and complexity in everyday work life. 
+      The program emphasized mindful leadership, reflection, and creating a healthy and grounded leadership presence.
+    </p>
+  </div>
+</article>
+<article class="experience">
+  <a class="experience__teaser" href="#">
     <span class="experience__timerange">10/2023</span>
     <h2 class="experience__position">Seminar Participation</h2>
     <span class="experience__company">BPM BauProjektManagement, Berlin</span>
   </a>
   <div class="experience__description">
-    <h4 class="experience__thesis-header">Legally Compliant Execution of Construction Projects (VOB/B and VOB/C)</h4>
+    <h5 class="experience__thesis-header">Legally Compliant Execution of Construction Projects (VOB/B and VOB/C)</h5>
     <ul>
       <li>Construction contract law under BGB and VOB/B</li>
       <li>Contract termination, penalties, and claims management</li>
@@ -247,12 +262,94 @@ sitemap: false
 
 <article class="experience">
   <a class="experience__teaser" href="#">
+    <span class="experience__timerange">09/2023</span>
+    <h2 class="experience__position">Team Leadership</h2>
+    <span class="experience__company">Haufe Akademie GmbH & Co. KG</span>
+  </a>
+  <div class="experience__description">
+    <h5 class="experience__thesis-header">Rhetoric for Managers</h5>
+    <ul>
+      <li>Success factors of impactful presentations</li>
+      <li>Strategic use of word choice, language, and speaking style</li>
+      <li>Improving vocal and body language presence</li>
+      <li>Handling situations with wit and composure</li>
+      <li>Reducing speech anxiety and building confidence</li>
+      <li>Practical exercises and individual feedback</li>
+    </ul>
+  </div>
+</article>
+<article class="experience">
+  <a class="experience__teaser" href="#">
+    <span class="experience__timerange">06/2022</span>
+    <h2 class="experience__position">Team Leadership</h2>
+    <span class="experience__company">TÜV Nord Akademie</span>
+  </a>
+  <div class="experience__description">
+    <h5 class="experience__thesis-header">Leading and Developing Teams</h5>
+    <ul>
+      <li>Fundamentals of teamwork and collaboration</li>
+      <li>Success factors and common challenges in teams</li>
+      <li>Effective communication within teams</li>
+      <li>Principles of team leadership and motivation</li>
+      <li>Leadership styles and behavior</li>
+      <li>Conflict resolution in team settings</li>
+      <li>Systematic problem-solving and continuous improvement (CIP)</li>
+      <li>Efficient and effective team performance</li>
+    </ul>
+  </div>
+</article>
+<article class="experience">
+  <a class="experience__teaser" href="#">
+    <span class="experience__timerange">11/2018</span>
+    <h2 class="experience__position">Team Leadership</h2>
+    <span class="experience__company">Kommunales Bildungswerk e.V.</span>
+  </a>
+  <div class="experience__description">
+    <h5 class="experience__thesis-header">Acting Successfully as a (Junior) Manager</h5>
+    <ul>
+      <li>Expectations of leadership roles</li>
+      <li>Motivating employees through effective communication</li>
+      <li>The appraisal interview as a key leadership tool</li>
+      <li>Delegating tasks to challenge and support team members</li>
+      <li>Setting motivating and achievable goals</li>
+      <li>Key challenges for leaders in the age of Work 4.0</li>
+    </ul>
+  </div>
+</article>
+
+<article class="experience">
+  <a class="experience__teaser" href="#">
+    <span class="experience__timerange">11/2018</span>
+    <h2 class="experience__position">Project Management</h2>
+    <span class="experience__company">Kommunales Bildungswerk e.V.</span>
+  </a>
+  <div class="experience__description">
+    <h5 class="experience__thesis-header">Introduction to Project Management – Basic Course</h5>
+    <ul>
+      <li>Project definitions and life cycles</li>
+      <li>SMART goals, Gantt charts, work packages, and milestones</li>
+      <li>Line vs. project organization and responsibilities</li>
+      <li>Building and managing project teams</li>
+      <li>Project communication tools and platforms</li>
+      <li>The "magic triangle" of project management</li>
+      <li>Risk management: SWOT, risk profiles, counterstrategies</li>
+      <li>Time management tools (Pareto, prioritization, handling disruptions)</li>
+      <li>Avoiding common project mistakes</li>
+      <li>Project rules, accountability, and daily integration</li>
+      <li>Meeting structure and documentation practices</li>
+      <li>Monitoring, controlling, and problem-solving strategies</li>
+      <li>Closing projects: lessons learned and reviews</li>
+    </ul>
+  </div>
+</article>
+<article class="experience">
+  <a class="experience__teaser" href="#">
     <span class="experience__timerange">06/2016</span>
     <h2 class="experience__position">Workshop Participation</h2>
     <span class="experience__company">BHKW-Consult, Kassel</span>
   </a>
   <div class="experience__description">
-    <h4 class="experience__thesis-header">New Legal Framework for CHP Plant Operators in Practice</h4>
+    <h5 class="experience__thesis-header">New Legal Framework for CHP Plant Operators in Practice</h5>
     <ul>
       <li>Approval procedures for CHP systems</li>
       <li>Energy and electricity taxation for CHP systems</li>
@@ -275,7 +372,7 @@ sitemap: false
     <span class="experience__company">BHKW-Consult, Dresden</span>
   </a>
   <div class="experience__description">
-    <h4 class="experience__thesis-header">Technical Integration of CHP Systems into Existing Infrastructure</h4>
+    <h5 class="experience__thesis-header">Technical Integration of CHP Systems into Existing Infrastructure</h5>
     <ul>
       <li>Optimization of hydraulic systems for energy efficiency</li>
       <li>Hydraulic integration of CHP units</li>
@@ -289,21 +386,7 @@ sitemap: false
   </div>
 </article>
 
-<article class="experience">
-  <a class="experience__teaser" href="#">
-    <span class="experience__timerange">10/2024</span>
-    <h2 class="experience__position">Leadership Seminar Participation</h2>
-    <span class="experience__company">Lohmarer Institut für Weiterbildung e.V., Ruhpolding</span>
-  </a>
-  <div class="experience__description">
-    <h4 class="experience__thesis-header">Leading with Values – Stability and Presence for Leadership</h4>
-    <p>
-      I took part in this intensive seminar to deepen my understanding of personal and value-based leadership. 
-      We explored how to strengthen inner stability, resilience, and clarity in leadership decisions—skills that help navigate stress and complexity in everyday work life. 
-      The program emphasized mindful leadership, reflection, and creating a healthy and grounded leadership presence.
-    
-    </p>
-  </div>
-</article>
+
 
 <!-- Placeholder for future Further Education entries -->
+
