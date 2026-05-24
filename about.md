@@ -313,6 +313,50 @@ permalink: /about/
   <div class="about-tab-pane" id="pane-credentials">
     <div class="credentials-grid">
 
+      <!-- Credential: Foundations of Successful Personnel Development -->
+      <div class="credential-card reveal-on-scroll" data-categories="leadership">
+        <div class="credential-card-header">
+          <div class="credential-icon-box">
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="8" r="7"></circle>
+              <polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88"></polyline>
+            </svg>
+          </div>
+          <span class="credential-badge">Leadership</span>
+        </div>
+        <h3 class="credential-title">Foundations of Successful Personnel Development</h3>
+        <div class="credential-institution"><strong>Schönefeld</strong> &bull; 11/2025</div>
+        <p class="credential-description">
+          Explored the theory and practice of personnel development (PE), including PE instruments, processes, and organisational roles. Addressed typical corporate PE challenges, methods to enhance HR practices in enterprises, and current practical trends in the field.
+        </p>
+      </div>
+
+      <!-- Credential: ChatGPT & AI in Project Management -->
+      <div class="credential-card reveal-on-scroll" data-categories="leadership pm">
+        <div class="credential-card-header">
+          <div class="credential-icon-box">
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect>
+              <rect x="9" y="9" width="6" height="6"></rect>
+              <line x1="9" y1="1" x2="9" y2="4"></line>
+              <line x1="15" y1="1" x2="15" y2="4"></line>
+              <line x1="9" y1="20" x2="9" y2="23"></line>
+              <line x1="15" y1="20" x2="15" y2="23"></line>
+              <line x1="20" y1="9" x2="23" y2="9"></line>
+              <line x1="20" y1="15" x2="23" y2="15"></line>
+              <line x1="1" y1="9" x2="4" y2="9"></line>
+              <line x1="1" y1="15" x2="4" y2="15"></line>
+            </svg>
+          </div>
+          <span class="credential-badge">Leadership &amp; PM</span>
+        </div>
+        <h3 class="credential-title">Effective Use of ChatGPT &amp; AI in Project Management</h3>
+        <div class="credential-institution"><strong>Zoom (Online)</strong> &bull; 07/2025</div>
+        <p class="credential-description">
+          Acquired core concepts of generative AI and practical applications in project planning, communications, risk management, documentation, and stakeholder management. Covered API integration possibilities, security and data privacy limits, and future AI trends.
+        </p>
+      </div>
+
       <!-- Credential 1: Time, Self & Stress Management -->
       <div class="credential-card reveal-on-scroll" data-categories="leadership pm">
         <div class="credential-card-header">
@@ -346,6 +390,26 @@ permalink: /about/
         <div class="credential-institution"><strong>Lohmarer Institut für Weiterbildung</strong> &bull; 10/2024</div>
         <p class="credential-description">
           Mindful values-based decision making, developing emotional intelligence, leadership presence, managing team dynamics in turbulent phases, and strengthening resilience.
+        </p>
+      </div>
+
+      <!-- Credential: Developing, Implementing, and Measuring Target Processes -->
+      <div class="credential-card reveal-on-scroll" data-categories="leadership pm">
+        <div class="credential-card-header">
+          <div class="credential-icon-box">
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="6" y1="3" x2="6" y2="15"></line>
+              <circle cx="18" cy="6" r="3"></circle>
+              <circle cx="6" cy="18" r="3"></circle>
+              <path d="M18 9a9 9 0 0 1-9 9"></path>
+            </svg>
+          </div>
+          <span class="credential-badge">Leadership &amp; PM</span>
+        </div>
+        <h3 class="credential-title">Developing, Implementing, and Measuring Target Processes</h3>
+        <div class="credential-institution"><strong>Berlin</strong> &bull; 07/2024</div>
+        <p class="credential-description">
+          Focused on the structured design and maturity assessment of target processes, process marketing and rollout, process governance (organisation, steering, monitoring), tools for continuous process improvement, KPI tracking, process costing, and key change management principles.
         </p>
       </div>
 
