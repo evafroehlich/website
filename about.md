@@ -371,7 +371,7 @@ permalink: /about/
         <h3 class="credential-title">Effective Time, Self &amp; Stress Management</h3>
         <div class="credential-institution"><strong>Haufe Akademie</strong>, Berlin &bull; 11/2024</div>
         <p class="credential-description">
-          Focused on professional workplace structuring, workload management, prioritizing under pressure, and implementing collective stress-prevention methodologies for team resilience.
+          Focused on professional self-management and the foundations of time management, including daily and weekly planning techniques. Covered strategies for managing time-wasters and distractions, as well as work methodologies for designing an efficient personal workspace.
         </p>
       </div>
 
@@ -442,9 +442,9 @@ permalink: /about/
           <span class="credential-badge">Leadership</span>
         </div>
         <h3 class="credential-title">Rhetoric for Managers</h3>
-        <div class="credential-institution"><strong>Haufe Akademie</strong> &bull; 09/2023</div>
+        <div class="credential-institution"><strong>Haufe Akademie</strong>, Munich-Eching &bull; 09/2023</div>
         <p class="credential-description">
-          Strategic body language, vocal presence, clarity of message, and persuasiveness in negotiations, public presentations, and difficult stakeholder conversations.
+          Explored the success factors of a winning speech, focusing on the targeted use of word choice, verbal expression, and language style. Covered techniques to enhance vocal and body language impact, act quickly and cleverly in discussions, reduce speaking anxiety, and optimize general speaking confidence.
         </p>
       </div>
 

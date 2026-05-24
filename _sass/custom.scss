@@ -274,7 +274,7 @@
 
 .competency-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   gap: 2rem;
   margin-bottom: 4rem;
 
@@ -291,9 +291,23 @@
   align-items: flex-start;
   text-align: left;
   border-top: 4px solid var(--accent-emerald);
+  grid-column: span 2;
 
   &.card-gold {
     border-top-color: var(--accent-gold);
+  }
+
+  @media (max-width: 940px) {
+    grid-column: auto;
+  }
+
+  @media (min-width: 941px) {
+    &:nth-child(4) {
+      grid-column: 2 / span 2;
+    }
+    &:nth-child(5) {
+      grid-column: 4 / span 2;
+    }
   }
 
   .comp-icon-box {
