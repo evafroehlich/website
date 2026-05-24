@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'jekyll'
 gem 'wdm', '>= 0.1.0', platforms: [:mswin, :mingw]
 gem 'webrick'
+gem 'nokogiri', '< 1.16'
 
 group :jekyll_plugins do
   gem 'jekyll-feed'

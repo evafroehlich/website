@@ -28,39 +28,39 @@ img {
   border: 0;
 }
 
-/*- Base color -*/
-
-$green: #1f9951;
-$background-color: #fff;
-$text-color: #333;
-$text-light-color: rgba(0, 0, 0, 0.6);
-$text-dark-color: #000;
-
-/*- Base settings -*/
+/*- Base reset and system styling -*/
 
 html {
-  background-color: $background-color;
+  background-color: var(--bg-primary);
   font-size: 16px;
   @media (min-width: 940px) {
     font-size: 18px;
   }
-  line-height: 1.5;
-  color: $text-color;
+  line-height: 1.6;
+  color: var(--text-primary);
+  scroll-behavior: smooth;
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 body {
-  max-width: 40rem;
-  margin: 0 auto;
-  padding: 0 10px;
+  font-family: var(--font-body);
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: var(--bg-primary);
 }
 
-/*- Link -*/
+/*- Premium Links -*/
 a {
-  color: $green;
-  text-decoration: underline;
+  color: var(--accent-emerald);
+  text-decoration: none;
+  transition: var(--transition-fast);
+  position: relative;
+  
   &:hover,
   &:focus {
-    color: darken($green, 5%);
+    color: var(--accent-emerald-hover);
   }
 }
 

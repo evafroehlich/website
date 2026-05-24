@@ -1,1 +1,14 @@
-<footer></footer>
+<footer id="site-footer">
+  <div class="footer-container">
+    <div class="footer-copyright">
+      &copy; {{ 'now' | date: "%Y" }} <strong>Eva-Christin Ernst</strong>. Designed for Impact &amp; Sustainability.
+    </div>
+    <div class="footer-links">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about/' | relative_url }}">About</a>
+      <a href="{{ '/projects/' | relative_url }}">Projects</a>
+      <a href="{{ '/contact/' | relative_url }}">Contact</a>
+      <a href="{{ '/contact/#privacy' | relative_url }}">Privacy</a>
+    </div>
+  </div>
+</footer>

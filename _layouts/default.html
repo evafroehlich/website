@@ -1,41 +1,25 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 {% include head.html %}
 
 <body>
-  <div id="wrap">
-      <!-- Navigation -->
-      {% include menu.html %}
+  <div id="layout-wrapper">
+    <!-- Main Navigation Header -->
+    {% include header.html %}
 
-    <!-- Icon menu -->
-    <a {% if site.reverse == true %}id="nav-menu-left"{% else %}id="nav-menu"{% endif %}>
-      <div id="menu"></div>
-    </a>
-
-      <!-- Header -->
-      {% if site.custom_header == true %}
-        {% include header-custom.html %}
-      {% else %}
-        {% include header.html %}
-      {% endif %}
-
-    <!-- Main content -->
-    <div id="container">
-
-      <main>
+    <!-- Core Page Content Wrapper -->
+    <div id="content-container">
+      <main id="main-content">
         {{ content }}
       </main>
     </div>
 
-    <!-- Footer -->
+    <!-- Main Footer -->
     {% include footer.html %}
   </div>
 
-  <!-- Script -->
-  {% include script.html %}
-
-  <script src="{{ '/website/js/scroll-into-view-on-details.js' | relative_url }}"></script>
-
+  <!-- Main JavaScript Bundle -->
+  <script src="{{ '/js/main.js' | relative_url }}"></script>
 </body>
 </html>

@@ -1,261 +1,368 @@
-/* -- General Layout -- */
+/* ==========================================================================
+   STATE-OF-THE-ART LAYOUT AND CORE DESIGN COMPONENTS
+   ========================================================================== */
 
-/* Navigation */
+/* --- Layout Wrapper & Structural Containers --- */
+#layout-wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: var(--bg-primary);
+  transition: background-color 0.3s ease;
+}
 
-#nav,
-#nav-left {
-  a {
+#content-container {
+  flex: 1 0 auto;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 80px 24px 60px 24px; // Account for sticky header
+  box-sizing: border-box;
+
+  @media (max-width: 768px) {
+    padding: 70px 16px 40px 16px;
+  }
+}
+
+#main-content {
+  width: 100%;
+  animation: fadeIn 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* --- Sticky Glassmorphic Header Navigation --- */
+#site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+  z-index: 1000;
+  background-color: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--glass-border);
+  transition: var(--transition-smooth);
+  
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0 24px;
+    box-sizing: border-box;
+  }
+}
+
+/* --- Brand Identity / Logo --- */
+.brand-logo {
+  font-family: var(--font-headings);
+  font-size: 1.45rem;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  transition: var(--transition-fast);
+  text-decoration: none;
+
+  .first-name {
+    color: var(--text-muted);
+    font-weight: 300;
+    margin-right: 0.15rem;
+    transition: var(--transition-fast);
+  }
+
+  .last-name {
+    color: var(--text-primary);
+    font-weight: 800;
+  }
+
+  &:hover {
+    opacity: 0.85;
+    .first-name {
+      color: var(--accent-emerald);
+    }
+  }
+}
+
+/* --- Navigation Links --- */
+.desktop-nav {
+  display: flex;
+  align-items: center;
+  gap: 1.75rem;
+
+  @media (max-width: 768px) {
+    display: none; // Hidden on mobile
+  }
+
+  .nav-item {
+    font-family: var(--font-headings);
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    text-decoration: none;
+    transition: var(--transition-fast);
+    padding: 0.5rem 0;
+
+    &:hover {
+      color: var(--accent-emerald);
+    }
+
+    &.active {
+      color: var(--accent-emerald);
+      font-weight: 600;
+    }
+  }
+}
+
+/* --- Light & Dark Theme Switcher Icons --- */
+#theme-toggle-btn,
+#mobile-theme-toggle-btn {
+  background: none;
+  border: 1px solid var(--border-color);
+  padding: 8px;
+  border-radius: 50%;
+  cursor: pointer;
+  color: var(--text-secondary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: var(--transition-smooth);
+  width: 38px;
+  height: 38px;
+
+  &:hover {
+    background-color: var(--bg-tertiary);
+    color: var(--accent-emerald);
+    border-color: var(--accent-emerald);
+    transform: rotate(15deg) scale(1.05);
+  }
+
+  .theme-icon {
+    width: 18px;
+    height: 18px;
+    transition: var(--transition-smooth);
+  }
+
+  // Handle active states (show sun/moon dynamically)
+  .sun-icon {
+    display: none;
+  }
+  .moon-icon {
     display: block;
-    color: $text-color;
-    padding: 0.33334em 0;
-    font-size: 1.5em;
-    font-weight: 400;
-    @media (min-width: 940px) {
-      font-size: 1em;
+  }
+}
+
+// When data-theme is dark
+[data-theme="dark"] {
+  #theme-toggle-btn,
+  #mobile-theme-toggle-btn {
+    .sun-icon {
+      display: block;
+      color: var(--accent-gold);
+    }
+    .moon-icon {
+      display: none;
     }
     &:hover {
-      background-color: lighten($green, 5%);
+      border-color: var(--accent-gold);
+      color: var(--accent-gold);
     }
   }
-  span {
-    font-weight: 200;
+}
+
+/* --- Mobile Menu & Hamburger Toggle --- */
+.mobile-controls {
+  display: none;
+  align-items: center;
+  gap: 0.75rem;
+
+  @media (max-width: 768px) {
+    display: flex;
   }
 }
 
-#nav {
-  @include nav-position(right);
+.icon-btn {
+  background: none;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-#nav-left {
-  @include nav-position(left);
-}
+#hamburger-menu-btn {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30px;
+  height: 20px;
+  padding: 0;
+  z-index: 1001;
 
-/* Toggle class to open menu */
-
-#nav.menu-open {
-  @include open(-14rem);
-}
-
-#nav-left.menu-open-left {
-  @include open(14rem);
-}
-
-#nav-links {
-  @media (max-width: 940px) {
-    display: none;
+  .hamburger-bar {
+    width: 100%;
+    height: 2px;
+    background-color: var(--text-primary);
+    border-radius: 4px;
+    transition: var(--transition-smooth);
   }
-  a {
-    padding-left: 10px;
-    color: $text-color;
-    font-weight: 300;
-  }
-}
 
-/* Separator after menu */
-
-#nav-list:after {
-  display: block;
-  content: "";
-  width: 5rem;
-  height: 1px;
-  margin: 23px auto;
-  background-color: $text-color;
-}
-
-/* Icon menu */
-
-#nav-menu {
-  @include icon-position(right);
-  @media (min-width: 940px) {
-    display: none;
+  &.menu-active {
+    .bar-1 {
+      transform: translateY(9px) rotate(45deg);
+      background-color: var(--accent-emerald);
+    }
+    .bar-2 {
+      opacity: 0;
+      transform: translateX(-20px);
+    }
+    .bar-3 {
+      transform: translateY(-9px) rotate(-45deg);
+      background-color: var(--accent-emerald);
+    }
   }
 }
 
-#nav-menu-left {
-  @include icon-position(left);
-  @media (min-width: 940px) {
-    display: none;
-  }
-}
-
-#menu {
-  height: 4px;
-  width: 1.5em;
-  background-color: $text-color;
-  margin-top: 8px;
-  &:after,
-  &:before {
-    content: "";
-    display: block;
-    position: relative;
-    height: 4px;
-    width: 1.5em;
-    background-color: $text-color;
-    transition: all 0.3s ease-in;
-  }
-  &:before {
-    top: -8px;
-  }
-  &:after {
-    top: 4px;
-  }
-  &.btn-close {
-    background: none;
-  }
-  &.btn-close:before {
-    top: 0;
-    -webkit-transform: rotate(-45deg);
-    -moz-transform: rotate(-45deg);
-    -ms-transform: rotate(-45deg);
-    transform: rotate(-45deg);
-    background-color: $text-color;
-  }
-  &.btn-close:after {
-    top: -4px;
-    -webkit-transform: rotate(45deg);
-    -moz-transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    transform: rotate(45deg);
-    background-color: $text-color;
-  }
-}
-
-/* Main content */
-
-.fixed {
+/* --- Mobile Dropdown Overlay --- */
+#mobile-dropdown-menu {
   position: fixed;
+  top: 70px;
+  left: 0;
   width: 100%;
-  @media (min-width: 940px) {
-    position: static;
+  height: calc(100vh - 70px);
+  background-color: var(--bg-secondary);
+  border-top: 1px solid var(--border-color);
+  transform: translateY(-100%);
+  opacity: 0;
+  visibility: hidden;
+  transition: transform 0.4s cubic-bezier(0.77, 0, 0.175, 1), opacity 0.3s ease, visibility 0.3s ease;
+  z-index: 999;
+  overflow-y: auto;
+
+  &.menu-active {
+    transform: translateY(0);
+    opacity: 1;
+    visibility: visible;
   }
-}
 
-#container {
-  margin: 0 auto;
-}
+  .mobile-nav-list {
+    display: flex;
+    flex-direction: column;
+    padding: 40px 24px;
+    gap: 1.5rem;
+  }
 
-#header {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.14);
-  text-align: center;
-  height: 5em;
-  position: relative;
-  a {
+  .mobile-nav-item {
+    font-family: var(--font-headings);
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: var(--text-primary);
     text-decoration: none;
-    display: inline-block;
-  }
-  div {
-    margin: 0 auto;
-  }
-  h1 {
-    font-size: 2em;
-    padding-bottom: 0;
-    span {
-      color: $text-light-color;
-      font-weight: 300;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--border-color);
+    transition: var(--transition-fast);
+
+    &:hover {
+      color: var(--accent-emerald);
+      padding-left: 8px;
     }
   }
 }
 
-/* Posts */
+/* --- Clean, Responsive Footer --- */
+#site-footer {
+  width: 100%;
+  background-color: var(--bg-secondary);
+  border-top: 1px solid var(--border-color);
+  padding: 40px 24px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  transition: var(--transition-smooth);
 
-#posts {
-  li {
-    list-style-type: none;
+  .footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+
+    @media (max-width: 768px) {
+      flex-direction: column;
+      text-align: center;
+    }
+  }
+
+  .footer-copyright {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    
+    strong {
+      color: var(--text-primary);
+    }
+  }
+
+  .footer-links {
+    display: flex;
+    gap: 1.5rem;
+
+    @media (max-width: 768px) {
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    a {
+      font-size: 0.85rem;
+      font-weight: 500;
+      color: var(--text-secondary);
+      transition: var(--transition-fast);
+      text-decoration: none;
+
+      &:hover {
+        color: var(--accent-emerald);
+      }
+    }
   }
 }
 
-#post-page {
-  margin-bottom: 1.5em;
-  @media (min-width: 940px) {
-    margin-bottom: 1.3334em;
+/* ==========================================================================
+   MICRO-ANIMATIONS AND SCROLL REVEAL EFFECTS
+   ========================================================================== */
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(15px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.reveal-on-scroll {
+  opacity: 0;
+  transform: translateY(30px) scale(0.98);
+  transition: opacity 0.8s cubic-bezier(0.16, 1, 0.3, 1), transform 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.reveal-active {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+}
+
+/* Glassmorphism utility card */
+.glass-card {
+  background-color: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--glass-border);
+  border-radius: 16px;
+  box-shadow: var(--card-shadow);
+  transition: var(--transition-smooth);
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--card-shadow-hover);
   }
-}
-
-.post + .post:before {
-  display: block;
-  content: "";
-  width: 5rem;
-  height: 1px;
-  margin: 23px auto;
-  background-color: lighten($text-color, 70%);
-}
-
-.by-line {
-  display: block;
-  color: lighten($text-color, 25%);
-  line-height: 1.5em; /* 24px/16px */
-  margin-bottom: 1.5em; /* 24px/16px */
-  font-weight: 200;
-  @media (min-width: 940px) {
-    display: block;
-    color: lighten($text-color, 25%);
-    line-height: 1.3334em; /* 24px/18px */
-    margin-bottom: 1.3334em; /* 24px/18px */
-    font-weight: 200;
-  }
-}
-
-img {
-  max-width: 100%;
-  display: block;
-  margin: 0 auto;
-  margin-bottom: 24px;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  -ms-border-radius: 4px;
-  border-radius: 4px;
-}
-
-code {
-  color: lighten($text-color, 35%);
-  background-color: lighten($background-color, 35%);
-}
-
-.content {
-  text-align: justify;
-}
-
-/* Set the vertical rhythm (and padding-left) for lists inside post content */
-
-.content ul,
-.content ol {
-  line-height: 1.5em; /* 24px/16px */
-  padding-left: 1.5em;
-  @media (min-width: 940px) {
-    line-height: 1.33334em; /* 24px/18px */
-  }
-}
-
-/* Paginator */
-
-.pagination {
-  text-align: center;
-  margin: 2.666668em;
-  span {
-    background-color: darken($background-color, 5%);
-    color: $text-color;
-  }
-  a:hover {
-    background-color: lighten($text-color, 5%);
-  }
-}
-.page-item {
-  background-color: lighten($text-color, 10%);
-  color: $background-color;
-  padding: 4px 8px;
-  font-weight: 400;
-  padding: 0.5em 1em;
-  -webkit-border-radius: 4px;
-  -moz-border-radius: 4px;
-  -ms-border-radius: 4px;
-  border-radius: 4px;
-}
-
-/* Footer */
-
-footer {
-  background-color: $background-color;
-  color: $text-color;
-  text-align: center;
-  padding: 0.6667em 0;
 }
