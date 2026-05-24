@@ -24,24 +24,36 @@ permalink: /projects/
       <div class="project-content">
         <h3 class="project-title">Baumschulenweg Crematory Modernization, Berlin</h3>
         <p class="project-description">
-          Completely led and managed the complex energy supply modernization of the iconic Baumschulenweg crematory, successfully securing EFRE/BENE subsidies.
+          Led the complete technical modernization, building automation, and HVAC overhaul of the historic facility, securing BENE/EFRE public subsidies.
         </p>
         <div class="project-tags">
-          <span class="project-tag">Project Leadership</span>
+          <span class="project-tag">Individual Project Lead</span>
           <span class="project-tag">BENE/EFRE Subsidies</span>
-          <span class="project-tag">Cogeneration (CHP)</span>
-          <span class="project-tag">Waste Heat Recovery</span>
+          <span class="project-tag">ABAu Bauplanungsunterlagen</span>
+          <span class="project-tag">Absorption Cooling Chiller</span>
         </div>
         
         <!-- Expandable details -->
         <div class="project-card-details">
           <div class="details-inner">
-            <h5>Key Contributions &amp; Scope:</h5>
-            <ul>
-              <li><strong>Full End-to-End Ownership</strong>: Managed the entire technical design, implementation, and commissioning phases of the new high-efficiency energy supply.</li>
-              <li><strong>Subsidy Management</strong>: Successfully prepared, submitted, and managed the complex application for the Berlin Sustainable Development Programme (BENE), funded by the European Regional Development Fund (EFRE).</li>
-              <li><strong>Stakeholder Management</strong>: Aligned state authorities, local administrative bodies, and technical manufacturers to ensure a compliant modernization of a public landmark.</li>
-            </ul>
+            <h5 style="margin-bottom: 0.75rem;">STAR Case Study:</h5>
+            <div style="margin-bottom: 0.75rem;">
+              <strong style="color: var(--accent-emerald);">Situation:</strong> Outdated energy systems inside the historic, structurally protected landmark building resulted in high operational costs. The technical goal was to recover and recycle waste heat from the cremation process to provide clean cooling.
+            </div>
+            <div style="margin-bottom: 0.75rem;">
+              <strong style="color: var(--accent-emerald);">Task:</strong> Direct the complete end-to-end engineering modernization, building automation overhaul, and subsidies administration as the primary Project Manager.
+            </div>
+            <div style="margin-bottom: 0.75rem;">
+              <strong style="color: var(--accent-emerald);">Action:</strong> 
+              <ul>
+                <li><strong>Innovative Clean Tech:</strong> Integrated process waste heat recovery with a new absorption cooling machine (backed by a redundant compression cooling chiller) and established a direct connection to the local district heating grid (BTB Berlin), cutting out the local boiler entirely and enabling excess heat feedback.</li>
+                <li><strong>Systems Renovation:</strong> Upgraded the HVAC systems, measurement and control automation (Mess- und Regelungstechnik), energy monitoring systems, and cremation lighting.</li>
+                <li><strong>Subsidies &amp; Bureaucracy Management:</strong> Acted as the primary contact for BENE/EFRE funding bodies; compiled all reports, and structured planning documentation ("Bauplanungsunterlagen") according to Berlin's public building guidelines (ABAu), keeping the Senate and funding stakeholders in the loop regarding claims and variations.</li>
+              </ul>
+            </div>
+            <div style="margin-bottom: 0.5rem;">
+              <strong style="color: var(--accent-emerald);">Result:</strong> Delivered a highly optimized, fossil-free, and fully automated heating/cooling system that achieved major CO2 emission reductions and energy savings. Successfully handed over the operational plant to the client.
+            </div>
           </div>
         </div>
 
@@ -63,24 +75,36 @@ permalink: /projects/
       <div class="project-content">
         <h3 class="project-title">Ruhleben Crematory Modernization, Berlin</h3>
         <p class="project-description">
-          Replicated technical energy optimizations at the Ruhleben crematory, managing municipal permissions, technical operations, and BENE grants.
+          Replicated technical clean energy modernizations at the Ruhleben facility, optimizing heating storage arrays and managing BENE public funding.
         </p>
         <div class="project-tags">
-          <span class="project-tag">Project Leadership</span>
+          <span class="project-tag">Individual Project Lead</span>
           <span class="project-tag">BENE/EFRE Subsidies</span>
-          <span class="project-tag">Thermal Calculations</span>
-          <span class="project-tag">Municipal Alignment</span>
+          <span class="project-tag">ABAu Compliance</span>
+          <span class="project-tag">Thermal Energy Storage</span>
         </div>
         
         <!-- Expandable details -->
         <div class="project-card-details">
           <div class="details-inner">
-            <h5>Key Contributions &amp; Scope:</h5>
-            <ul>
-              <li><strong>Technical Engineering</strong>: Engineered optimized HVAC recovery structures and boiler components, yielding measurable primary energy reductions.</li>
-              <li><strong>Public Financing</strong>: Secured substantial state funding support through the European Regional Development Fund (EFRE) BENE program to guarantee financial viability.</li>
-              <li><strong>Permit Acquisition</strong>: Managed regulatory clearances, emission standards compliance, and construction permits with local environmental offices.</li>
-            </ul>
+            <h5 style="margin-bottom: 0.75rem;">STAR Case Study:</h5>
+            <div style="margin-bottom: 0.75rem;">
+              <strong style="color: var(--accent-emerald);">Situation:</strong> Outdated energy structures inside the Ruhleben crematory faced high energy losses, and a local grid connection to district heating was unavailable, requiring a different energy buffering design.
+            </div>
+            <div style="margin-bottom: 0.75rem;">
+              <strong style="color: var(--accent-emerald);">Task:</strong> Oversee the complete engineering modernization and subsidies administration as Project Manager, resolving the lack of local district heating through custom thermal storage.
+            </div>
+            <div style="margin-bottom: 0.75rem;">
+              <strong style="color: var(--accent-emerald);">Action:</strong> 
+              <ul>
+                <li><strong>Thermal Engineering:</strong> Designed and implemented a waste heat recovery absorption cooling system integrated with a custom auxiliary backup boiler and expanded thermal heating storage arrays to buffer energy during operational gaps.</li>
+                <li><strong>Funding Administration:</strong> Handled the rigorous BENE/EFRE funding documentation, ABAu building code compliances, and senate alignments, keeping all public funding stakeholders informed of budget states.</li>
+                <li><strong>Systems Renovation:</strong> Modernized HVAC components, building automation, and energy monitoring, maintaining high execution standards.</li>
+              </ul>
+            </div>
+            <div style="margin-bottom: 0.5rem;">
+              <strong style="color: var(--accent-emerald);">Result:</strong> Realized substantial CO2 emission reductions and energy savings. Successfully delivered and handed over the fully operational facility to the client.
+            </div>
           </div>
         </div>
 
