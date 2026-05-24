@@ -204,9 +204,9 @@ permalink: /projects/
     </div>
 
     <!-- Project 5: Rollberg Quarter -->
-    <div class="project-card glass-card reveal-on-scroll">
+    <div class="project-card glass-card reveal-on-scroll proj-gold">
       <div class="project-img-placeholder">
-        <span class="project-sector">Circular Energy &amp; Heating Grid</span>
+        <span class="project-sector">Major Project &bull; Individual Lead</span>
       </div>
       <div class="project-content">
         <h3 class="project-title">Rollberg Quarter, Berlin</h3>
@@ -214,6 +214,7 @@ permalink: /projects/
           Executing a circular local heating and cooling grid utilizing solar thermal collectors, three heat pumps with distinct thermal sources (HVAC exhaust air, ambient air, and underground seasonal storage), a CHP unit, and a peak-load boiler.
         </p>
         <div class="project-tags">
+          <span class="project-tag">Individual Project Lead</span>
           <span class="project-tag">Solar Thermal</span>
           <span class="project-tag">Multi-Source Heat Pumps</span>
           <span class="project-tag">Underground Seasonal Storage</span>
@@ -225,19 +226,25 @@ permalink: /projects/
         <!-- Expandable details -->
         <div class="project-card-details">
           <div class="details-inner">
-            <h5>Key Contributions &amp; Scope:</h5>
-            <ul>
-              <li><strong>Solar Thermal &amp; Storage</strong>: Integrated solar thermal collectors to capture thermal energy, routing excess heat into a seasonal underground thermal energy storage system.</li>
-              <li><strong>Three distinct Heat Pump sources</strong>: Engineered a multi-source heat pump array with three distinct thermal energy sources:
-                <ul>
-                  <li>An exhaust-air heat pump reclaiming heat from the building's central HVAC exhaust air flows.</li>
-                  <li>A reversible ambient-air heat pump providing eco-friendly winter heating and active summer cooling for building zones.</li>
-                  <li>A brine-water heat pump connected to the underground seasonal thermal storage.</li>
-                </ul>
-              </li>
-              <li><strong>Combined Cogeneration &amp; Peak Load</strong>: Integrated a Combined Heat and Power (CHP) unit for simultaneous local electricity and heat production, backed by a conventional gas boiler for peak-load thermal security.</li>
-              <li><strong>Contract Management</strong>: Directed administrative public tendering and structured progress documentation in compliance with VOB guidelines.</li>
-            </ul>
+            <h5 style="margin-bottom: 0.75rem;">STAR Case Study:</h5>
+            <div style="margin-bottom: 0.75rem;">
+              <strong style="color: var(--accent-emerald);">Situation:</strong> An ambitious residential district development in Berlin required a local clean energy heating and cooling grid with high circular efficiency, constrained by strict public tendering guidelines and complex technical system integration.
+            </div>
+            <div style="margin-bottom: 0.75rem;">
+              <strong style="color: var(--accent-emerald);">Task:</strong> Direct the entire engineering implementation, subsidies administration, contract management, and system integration as the individual Project Manager—leading the project single-handedly from contract signing through execution and final operational handover.
+            </div>
+            <div style="margin-bottom: 0.75rem;">
+              <strong style="color: var(--accent-emerald);">Action:</strong> 
+              <ul>
+                <li><strong>Multi-Source Heat Pump Design:</strong> Engineered a multi-source heat pump array utilizing three distinct energy sources: building exhaust air flows via an HVAC heat pump, ambient outdoor air via a reversible heat pump (providing active cooling in summer), and a brine-water heat pump connected to seasonal underground thermal storage.</li>
+                <li><strong>Solar &amp; Cogeneration Integration:</strong> Connected solar thermal collectors to feed the seasonal storage and integrated a Combined Heat and Power (CHP) unit for simultaneous power and heat generation, backed by a conventional gas boiler for peak-load demands.</li>
+                <li><strong>Tendering &amp; Lifecycle Management:</strong> Managed the entire public bidding, contracting, and tendering lifecycle under VOB guidelines, securing public environmental grant subsidies and managing contract variations.</li>
+                <li><strong>Operational Handover:</strong> Handled the testing, commissioning, and final seamless operational handover of the centralized heating and cooling energy center to the operating division.</li>
+              </ul>
+            </div>
+            <div style="margin-bottom: 0.5rem;">
+              <strong style="color: var(--accent-emerald);">Result:</strong> Delivered a fully functional, highly automated local heating/cooling energy grid on schedule. Successfully managed the complete lifecycle from contract to operational handover alone, achieving massive long-term carbon reductions.
+            </div>
           </div>
         </div>
 
