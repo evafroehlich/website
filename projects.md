@@ -24,7 +24,7 @@ permalink: /projects/
       <div class="project-content">
         <h3 class="project-title">Baumschulenweg Crematory Modernization, Berlin</h3>
         <p class="project-description">
-          Led the complete technical waste-heat-to-cooling modernization of the historic facility, utilizing process waste heat recovery for absorption cooling integrated with a direct district heating grid connection to eliminate the local boiler.
+          Led the complete technical waste-heat-to-cooling modernization of the facility, utilizing process waste heat recovery for absorption cooling integrated with a direct district heating grid connection to eliminate the local boiler.
         </p>
         <div class="project-tags">
           <span class="project-tag">Individual Project Lead</span>
@@ -41,7 +41,7 @@ permalink: /projects/
           <div class="details-inner">
             <h5 style="margin-bottom: 0.75rem;">STAR Case Study:</h5>
             <div style="margin-bottom: 0.75rem;">
-              <strong style="color: var(--accent-emerald);">Situation:</strong> Outdated energy systems inside the historic, structurally protected landmark building resulted in high operational costs. The technical goal was to recover and recycle waste heat from the cremation process to provide clean cooling.
+              <strong style="color: var(--accent-emerald);">Situation:</strong> Outdated energy systems inside the structurally protected landmark building resulted in high operational costs. The technical goal was to recover and recycle waste heat from the cremation process to provide clean cooling.
             </div>
             <div style="margin-bottom: 0.75rem;">
               <strong style="color: var(--accent-emerald);">Task:</strong> Direct the complete end-to-end engineering modernization, building automation overhaul, and subsidies administration as the primary Project Manager.
@@ -78,7 +78,7 @@ permalink: /projects/
       <div class="project-content">
         <h3 class="project-title">Ruhleben Crematory Modernization, Berlin</h3>
         <p class="project-description">
-          Replicated Baumschulenweg's waste-heat-to-cooling modernization at the historic Ruhleben facility, but engineered custom thermal storage arrays and a backup auxiliary boiler due to the lack of a local district heating grid connection.
+          Replicated Baumschulenweg's waste-heat-to-cooling modernization at the Ruhleben facility, but engineered custom thermal storage arrays and a backup auxiliary boiler due to the lack of a local district heating grid connection.
         </p>
         <div class="project-tags">
           <span class="project-tag">Individual Project Lead</span>
@@ -250,7 +250,7 @@ permalink: /projects/
       <div class="project-content">
         <h3 class="project-title">Friesenstraße Police Headquarters</h3>
         <p class="project-description">
-          Co-managed the entire engineering implementation and centralization of the heating system for the secure, operational historical police headquarters.
+          Co-managed the entire engineering implementation and centralization of the heating system for the secure, operational police headquarters.
         </p>
         <div class="project-tags">
           <span class="project-tag">Co-Project Manager</span>
