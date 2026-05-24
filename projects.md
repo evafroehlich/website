@@ -215,12 +215,15 @@ permalink: /projects/
         </p>
         <div class="project-tags">
           <span class="project-tag">Individual Project Lead</span>
+          <span class="project-tag">Public Subsidies</span>
+          <span class="project-tag">ABAu Compliance</span>
           <span class="project-tag">Solar Thermal</span>
           <span class="project-tag">Multi-Source Heat Pumps</span>
           <span class="project-tag">Underground Seasonal Storage</span>
           <span class="project-tag">Combined Heat &amp; Power (CHP)</span>
           <span class="project-tag">Reversible Air Cooling</span>
-          <span class="project-tag">VOB Contracting</span>
+          <span class="project-tag">HVAC</span>
+          <span class="project-tag">Instrumentation &amp; Control (I&amp;C)</span>
         </div>
 
         <!-- Expandable details -->
