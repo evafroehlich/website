@@ -73,12 +73,4 @@ permalink: /contact/
     </div>
   </section>
 
-  <!-- Legal Privacy Box -->
-  <section id="privacy" class="privacy-section reveal-on-scroll">
-    <h2 class="privacy-title">Data Protection &amp; Privacy Compliance</h2>
-    <p>
-      To ensure operational safety and content delivery, minimal browser metrics and system logs are temporarily stored on the server side when you visit my website. I do not store any personal identification data, use external analytics trackers, set tracking cookies, or transmit user parameters to third-party services.
-    </p>
-  </section>
-
 </div>
