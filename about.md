@@ -40,7 +40,7 @@ permalink: /about/
             <strong>Department Leadership:</strong> Leading a high-performing multidisciplinary department team in "Implementation of Heating and Cooling Systems", fostering a progressive team culture built on trust, psychological safety, and self-organization. Drawing on my extensive project management and subsidies-administration experience, I continue to drive clean energy implementations, public contracting compliance, and executive decision-making for complex, team-led district networks.
           </p>
           <p style="margin-bottom: 1rem;">
-            <strong>Direct Individual Lead:</strong> Single-handedly managing the circular local energy grid for the **Rollberg Quarter** from initial contracting and public tendering through engineering design and construction to operational handover.
+            <strong>Direct Individual Lead:</strong> Successfully designed, managed, and executed the complete energy supply modernization of two of Berlin's largest public utility crematory facilities (managed end-to-end from planning to handover).
           </p>
           <div class="timeline-highlight">
             <div class="highlight-header">Key Department &amp; Team-Led Districts (Advisory):</div>
@@ -50,9 +50,8 @@ permalink: /about/
             </div>
           </div>
           <div class="timeline-highlight highlight-gold" style="margin-top: 0.5rem;">
-            <div class="highlight-header">Major Individual Project Leads:</div>
+            <div class="highlight-header">Major Individual Project Lead:</div>
             <div class="highlight-text">
-              • <a target="_blank" href="https://berlinerstadtwerke.de/presse/aufm-rollberg-und-drunter-zirkulaer-erzeugen-speichern-nutzen/">Rollberg Quarter, Berlin</a> (Circular heating/cooling grid with solar thermal &amp; multi-source heat pumps)<br>
               • Municipal Crematory Modernization Projects (Thermal process waste heat recovery &amp; clean cooling networks)
             </div>
           </div>
@@ -73,7 +72,7 @@ permalink: /about/
         </div>
         <div class="timeline-body">
           <p style="margin-bottom: 0.75rem;">
-            <strong>Direct Individual Lead:</strong> Successfully designed, managed, and executed the complete energy supply modernization of two of Berlin's largest public utility crematory facilities (managed end-to-end from planning to handover).
+            <strong>Direct Individual Lead:</strong> Single-handedly managed the circular local energy grid for the **Rollberg Quarter** from initial contracting and public tendering through engineering design and construction to operational handover.
           </p>
           <ul>
             <li><strong>Subsidy Management:</strong> Directed complex municipal environmental grant applications and public funding processes to secure state-funded subsidies, enabling project feasibility.</li>
@@ -81,8 +80,9 @@ permalink: /about/
             <li><strong>Engineering Implementation:</strong> Modernized boilers, installed waste heat recovery systems, and optimized HVAC components, meeting strict VOB contracting guidelines.</li>
           </ul>
           <div class="timeline-highlight highlight-gold" style="margin-top: 0.5rem;">
-            <div class="highlight-header">Major Individual Project Lead:</div>
+            <div class="highlight-header">Major Individual Project Leads:</div>
             <div class="highlight-text">
+              • <a target="_blank" href="https://berlinerstadtwerke.de/presse/aufm-rollberg-und-drunter-zirkulaer-erzeugen-speichern-nutzen/">Rollberg Quarter, Berlin</a> (Circular heating/cooling grid with solar thermal &amp; multi-source heat pumps)<br>
               • <a target="_blank" href="https://berlinerstadtwerke.de/presse/b-e-m-und-stadtwerke-modernisieren-polizeiwache/">Friesenstraße Police Headquarters, Berlin</a> (Centralized heating modernization &amp; network separation)
             </div>
           </div>
