@@ -24,11 +24,11 @@ permalink: /projects/
       <div class="project-content">
         <h3 class="project-title">Baumschulenweg Crematory Modernization, Berlin</h3>
         <p class="project-description">
-          Led the complete technical modernization, building automation, and HVAC overhaul of the historic facility, securing BENE/EFRE public subsidies.
+          Led the complete technical modernization, building automation, and HVAC overhaul of the historic facility, securing public environmental grants.
         </p>
         <div class="project-tags">
           <span class="project-tag">Individual Project Lead</span>
-          <span class="project-tag">BENE/EFRE Subsidies</span>
+          <span class="project-tag">Public Subsidies</span>
           <span class="project-tag">ABAu Bauplanungsunterlagen</span>
           <span class="project-tag">Absorption Cooling Chiller</span>
         </div>
@@ -48,7 +48,7 @@ permalink: /projects/
               <ul>
                 <li><strong>Innovative Clean Tech:</strong> Integrated process waste heat recovery with a new absorption cooling machine (backed by a redundant compression cooling chiller) and established a direct connection to the local district heating grid (BTB Berlin), cutting out the local boiler entirely and enabling excess heat feedback.</li>
                 <li><strong>Systems Renovation:</strong> Upgraded the HVAC systems, measurement and control automation (Mess- und Regelungstechnik), energy monitoring systems, and cremation lighting.</li>
-                <li><strong>Subsidies &amp; Bureaucracy Management:</strong> Acted as the primary contact for BENE/EFRE funding bodies; compiled all reports, and structured planning documentation ("Bauplanungsunterlagen") according to Berlin's public building guidelines (ABAu), keeping the Senate and funding stakeholders in the loop regarding claims and variations.</li>
+                <li><strong>Subsidies &amp; Bureaucracy Management:</strong> Acted as the primary contact for public funding bodies; compiled all reports, and structured planning documentation ("Bauplanungsunterlagen") according to Berlin's public building guidelines (ABAu), keeping the Senate and funding stakeholders in the loop regarding claims and variations.</li>
               </ul>
             </div>
             <div style="margin-bottom: 0.5rem;">
@@ -60,7 +60,7 @@ permalink: /projects/
         <div class="project-footer">
           <button class="project-expand-btn">Learn More</button>
           <a target="_blank" href="https://www.krematorium-berlin.de/krematorium-baumschulenweg/foerderung-baumschulenweg/" class="project-press-link">
-            BENE Funding Info
+            Project Funding Info
             <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
           </a>
         </div>
@@ -75,11 +75,11 @@ permalink: /projects/
       <div class="project-content">
         <h3 class="project-title">Ruhleben Crematory Modernization, Berlin</h3>
         <p class="project-description">
-          Replicated technical clean energy modernizations at the Ruhleben facility, optimizing heating storage arrays and managing BENE public funding.
+          Replicated technical clean energy modernizations at the Ruhleben facility, optimizing heating storage arrays and managing public environmental grants.
         </p>
         <div class="project-tags">
           <span class="project-tag">Individual Project Lead</span>
-          <span class="project-tag">BENE/EFRE Subsidies</span>
+          <span class="project-tag">Public Subsidies</span>
           <span class="project-tag">ABAu Compliance</span>
           <span class="project-tag">Thermal Energy Storage</span>
         </div>
@@ -98,7 +98,7 @@ permalink: /projects/
               <strong style="color: var(--accent-emerald);">Action:</strong> 
               <ul>
                 <li><strong>Thermal Engineering:</strong> Designed and implemented a waste heat recovery absorption cooling system integrated with a custom auxiliary backup boiler and expanded thermal heating storage arrays to buffer energy during operational gaps.</li>
-                <li><strong>Funding Administration:</strong> Handled the rigorous BENE/EFRE funding documentation, ABAu building code compliances, and senate alignments, keeping all public funding stakeholders informed of budget states.</li>
+                <li><strong>Funding Administration:</strong> Handled the rigorous public grant documentation, ABAu building code compliances, and senate alignments, keeping all public funding stakeholders informed of budget states.</li>
                 <li><strong>Systems Renovation:</strong> Modernized HVAC components, building automation, and energy monitoring, maintaining high execution standards.</li>
               </ul>
             </div>
@@ -111,7 +111,7 @@ permalink: /projects/
         <div class="project-footer">
           <button class="project-expand-btn">Learn More</button>
           <a target="_blank" href="https://www.krematorium-berlin.de/krematorium-ruhleben/foerderung-ruhleben/" class="project-press-link">
-            BENE Funding Info
+            Project Funding Info
             <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
           </a>
         </div>

@@ -69,8 +69,7 @@ permalink: /about/
           <p>
             <strong>Direct Individual Lead:</strong> Successfully designed, managed, and executed the complete energy supply modernization of two of Berlin's largest public utilities—<strong>Krematorium Baumschulenweg</strong> and <strong>Krematorium Ruhleben</strong> (my two major personal projects, managed end-to-end).
           </p>
-          <ul>
-            <li><strong>Subsidy Management:</strong> Handled the entire complex municipal grant process for Berlin's Sustainable Development Programme (BENE), securing European Regional Development Fund (EFRE) subsidies to enable project feasibility.</li>
+            <li><strong>Subsidy Management:</strong> Directed complex municipal environmental grant applications and public funding processes to secure state-funded subsidies, enabling project feasibility.</li>
             <li><strong>Stakeholder Alignment:</strong> Managed cross-departmental coordination across public administrations, historic preservation departments, and industrial technical suppliers.</li>
             <li><strong>Engineering Implementation:</strong> Modernized boilers, installed waste heat recovery systems, and optimized HVAC components, meeting strict VOB contracting guidelines.</li>
           </ul>
