@@ -41,7 +41,7 @@ permalink: /projects/
           <div class="details-inner">
             <h5 style="margin-bottom: 0.75rem;">STAR Case Study:</h5>
             <div style="margin-bottom: 0.75rem;">
-              <strong style="color: var(--accent-emerald);">Situation:</strong> Outdated energy systems inside the structurally protected landmark building resulted in high operational costs. The technical goal was to recover and recycle waste heat from the cremation process to provide clean cooling.
+              <strong style="color: var(--accent-emerald);">Situation:</strong> Outdated energy systems inside the architecturally protected landmark building resulted in high operational costs. The technical goal was to recover and recycle waste heat from the cremation process to provide clean cooling.
             </div>
             <div style="margin-bottom: 0.75rem;">
               <strong style="color: var(--accent-emerald);">Task:</strong> Direct the complete end-to-end engineering modernization, building automation overhaul, and subsidies administration as the primary Project Manager.
