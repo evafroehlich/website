@@ -4,7 +4,7 @@ title: About Me - Eva-Christin Ernst
 permalink: /about/
 ---
 
-<div class="about-container reveal-on-scroll">
+<div class="about-container">
   <div class="section-header">
     <span class="section-pre">My Journey</span>
     <h2 class="section-title">Career Milestones &amp; Academic Foundation</h2>

@@ -31,11 +31,19 @@
   <!-- Theme Initializer to prevent visual flash -->
   <script>
     (function() {
-      const savedTheme = localStorage.getItem('theme');
-      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-      if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
-        document.documentElement.setAttribute('data-theme', 'dark');
-      } else {
+      // Progressive enhancement hook
+      document.documentElement.classList.add('js-enabled');
+      
+      try {
+        const savedTheme = localStorage.getItem('theme');
+        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
+          document.documentElement.setAttribute('data-theme', 'dark');
+        } else {
+          document.documentElement.setAttribute('data-theme', 'light');
+        }
+      } catch (e) {
+        // Fallback if localStorage is disabled
         document.documentElement.setAttribute('data-theme', 'light');
       }
     })();

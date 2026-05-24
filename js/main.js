@@ -19,7 +19,11 @@
       const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
       
       document.documentElement.setAttribute('data-theme', newTheme);
-      localStorage.setItem('theme', newTheme);
+      try {
+        localStorage.setItem('theme', newTheme);
+      } catch (e) {
+        // Safe fallback in restricted browser environments
+      }
       updateThemeIcons(newTheme);
     };
 

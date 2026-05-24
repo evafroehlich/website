@@ -7,7 +7,7 @@ permalink: /contact/
 <div class="contact-page-container">
   
   <!-- Sleek Contact Box -->
-  <section class="contact-container glass-card reveal-on-scroll">
+  <section class="contact-container glass-card">
     <span class="contact-pretitle">Get in Touch</span>
     <h1 class="contact-title">Connect &amp; Collaborate</h1>
     <p class="contact-intro">

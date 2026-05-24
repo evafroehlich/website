@@ -4,7 +4,7 @@ title: Projects Portfolio - Eva-Christin Ernst
 permalink: /projects/
 ---
 
-<div class="projects-container reveal-on-scroll">
+<div class="projects-container">
   <div class="section-header">
     <span class="section-pre">Portfolio</span>
     <h2 class="section-title">Clean Energy &amp; Engineering Masterpieces</h2>
