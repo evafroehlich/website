@@ -297,51 +297,6 @@ permalink: /about/
 
   </div>
 
-  <!-- Leadership Philosophy & Values Grid -->
-  <section class="reveal-on-scroll" style="margin-top: 5rem;">
-    <div class="section-header">
-      <span class="section-pre">Philosophy</span>
-      <h2 class="section-title">Leadership Values &amp; Vision</h2>
-      <p style="margin: 1rem auto 0 auto; text-align: center; max-width: 65ch;">
-        I combine an analytical, structured engineering mind with an empathetic, value-driven approach to leading people and optimizing organizational performance.
-      </p>
-    </div>
-
-    <div class="values-grid">
-      <!-- Card 1: Trust & Autonomy -->
-      <div class="value-card">
-        <h3 class="value-title">Trust &amp; Individual Ownership</h3>
-        <p class="value-description">
-          I believe that great teams thrive on trust, open communication, and psychological safety. Rather than micromanaging, I empower team members to take full ownership of their projects, fostering high engagement, self-organisation, and collaborative accountability.
-        </p>
-      </div>
-
-      <!-- Card 2: Process & POC Optimisation -->
-      <div class="value-card">
-        <h3 class="value-title">Cross-Departmental Networking</h3>
-        <p class="value-description">
-          A core quality of my management style is identifying process friction. I network across departments to dismantle organisational silos, optimising communication channels and implementing accessible, digital, and self-service data frameworks that save time and reduce unnecessary meetings for everyone.
-        </p>
-      </div>
-
-      <!-- Card 3: Value-Based Decisions -->
-      <div class="value-card">
-        <h3 class="value-title">Stability &amp; Clarity</h3>
-        <p class="value-description">
-          Drawing on my ENFJ (with strong INFJ traits) visionary personality, I lead with strong inner values, presence, and mindful reflection. This grounded perspective helps me navigate highly complex stakeholder landscapes, managing stress and providing clear, decisive directions under pressure.
-        </p>
-      </div>
-
-      <!-- Card 4: Equal Opportunities -->
-      <div class="value-card">
-        <h3 class="value-title">Diversity &amp; Mentorship</h3>
-        <p class="value-description">
-          I actively advocate for gender diversity and equal opportunities in engineering and science. As an active participant in women's networks in the energy sector, I value mentoring and supporting other professionals to excel in their careers.
-        </p>
-      </div>
-    </div>
-  </section>
-
   <!-- Certifications & Continuing Education -->
   <section class="reveal-on-scroll" style="margin-top: 4rem; margin-bottom: 2rem;">
     <div class="section-header" style="margin-bottom: 2rem;">
