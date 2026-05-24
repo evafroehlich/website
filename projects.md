@@ -213,7 +213,6 @@ permalink: /projects/
           <span class="project-tag">Multi-Source Heat Pumps</span>
           <span class="project-tag">Underground Seasonal Storage</span>
           <span class="project-tag">Combined Heat &amp; Power (CHP)</span>
-          <span class="project-tag">Reversible Air Cooling</span>
           <span class="project-tag">Instrumentation &amp; Control (I&amp;C)</span>
         </div>
 
