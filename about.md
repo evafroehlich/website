@@ -36,18 +36,23 @@ permalink: /about/
           <span class="timeline-timerange">01/2022 &ndash; Present</span>
         </div>
         <div class="timeline-body">
-          <ul>
-            <li>Leading a high-performing department team of 8 in "Implementation of Heating and Cooling Systems", deploying clean, renewable energy grids across Berlin.</li>
-            <li>Fostering a progressive team culture built on **trust, psychological safety, and self-organization**, empowering team members to take full project ownership.</li>
-            <li>Serving as **senior advisor and decision maker** for complex, team-led district implementations—providing executive direction and resolution for key project milestones.</li>
-            <li>Optimizing Points of Contact (POC) between technical, administrative, and legal departments—pioneering self-service data sharing models to remove communication bottlenecks.</li>
-          </ul>
+          <p style="margin-bottom: 0.75rem;">
+            <strong>Department Leadership:</strong> Leading a high-performing department team of 8 in "Implementation of Heating and Cooling Systems", fostering a progressive team culture built on trust, psychological safety, and self-organization. Serving as senior advisor and executive decision maker for complex team-led district implementations.
+          </p>
+          <p style="margin-bottom: 1rem;">
+            <strong>Direct Individual Lead:</strong> Single-handedly managing the circular local energy grid for the **Rollberg Quarter** from initial contracting and public tendering through engineering design and construction to operational handover.
+          </p>
           <div class="timeline-highlight">
-            <div class="highlight-header">Key Supported &amp; Team-Led Projects:</div>
+            <div class="highlight-header">Key Department &amp; Team-Led Districts (Advisory):</div>
             <div class="highlight-text">
-              • <a target="_blank" href="https://berlinerstadtwerke.de/energieprojekte/quartier-buckower-felder/">Quartier Buckower Felder, Berlin</a> (Innovative fossil-free residential district)<br>
-              • <a target="_blank" href="https://berlinerstadtwerke.de/energieprojekte/quartier-haus-der-statistik/">Quartier Haus der Statistik, Berlin</a> (Geothermal heating &amp; cooling grid)<br>
-              • <a target="_blank" href="https://berlinerstadtwerke.de/presse/aufm-rollberg-und-drunter-zirkulaer-erzeugen-speichern-nutzen/">Rollberg Quarter, Berlin</a> (Circular district recovery &amp; storage)
+              • <a target="_blank" href="https://berlinerstadtwerke.de/energieprojekte/quartier-buckower-felder/">Quartier Buckower Felder, Berlin</a> (Fossil-free residential district with geothermal &amp; wastewater recovery)<br>
+              • <a target="_blank" href="https://berlinerstadtwerke.de/energieprojekte/quartier-haus-der-statistik/">Quartier Haus der Statistik, Berlin</a> (Renewable heating/cooling network with sewer wastewater recovery)
+            </div>
+          </div>
+          <div class="timeline-highlight highlight-gold" style="margin-top: 0.5rem;">
+            <div class="highlight-header">Major Individual Project Lead:</div>
+            <div class="highlight-text">
+              • <a target="_blank" href="https://berlinerstadtwerke.de/presse/aufm-rollberg-und-drunter-zirkulaer-erzeugen-speichern-nutzen/">Rollberg Quarter, Berlin</a> (Circular heating/cooling grid with solar thermal &amp; multi-source heat pumps)
             </div>
           </div>
         </div>
@@ -66,9 +71,10 @@ permalink: /about/
           <span class="timeline-timerange">04/2019 &ndash; 12/2021</span>
         </div>
         <div class="timeline-body">
-          <p>
+          <p style="margin-bottom: 0.75rem;">
             <strong>Direct Individual Lead:</strong> Successfully designed, managed, and executed the complete energy supply modernization of two of Berlin's largest public utilities—<strong>Krematorium Baumschulenweg</strong> and <strong>Krematorium Ruhleben</strong> (my two major personal projects, managed end-to-end).
           </p>
+          <ul>
             <li><strong>Subsidy Management:</strong> Directed complex municipal environmental grant applications and public funding processes to secure state-funded subsidies, enabling project feasibility.</li>
             <li><strong>Stakeholder Alignment:</strong> Managed cross-departmental coordination across public administrations, historic preservation departments, and industrial technical suppliers.</li>
             <li><strong>Engineering Implementation:</strong> Modernized boilers, installed waste heat recovery systems, and optimized HVAC components, meeting strict VOB contracting guidelines.</li>
