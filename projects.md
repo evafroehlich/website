@@ -24,7 +24,7 @@ permalink: /projects/
       <div class="project-content">
         <h3 class="project-title">Baumschulenweg Crematory Modernization, Berlin</h3>
         <p class="project-description">
-          Led the complete technical modernization, building automation, and HVAC overhaul of the historic facility, securing public environmental grants.
+          Led the complete technical waste-heat-to-cooling modernization of the historic facility, utilizing process waste heat recovery for absorption cooling integrated with a direct district heating grid connection to eliminate the local boiler.
         </p>
         <div class="project-tags">
           <span class="project-tag">Individual Project Lead</span>
@@ -59,8 +59,8 @@ permalink: /projects/
 
         <div class="project-footer">
           <button class="project-expand-btn">Learn More</button>
-          <a target="_blank" href="https://www.krematorium-berlin.de/krematorium-baumschulenweg/foerderung-baumschulenweg/" class="project-press-link">
-            Project Funding Info
+          <a target="_blank" href="https://www.krematorium-berlin.de/krematorium-baumschulenweg/" class="project-press-link">
+            Crematory Website
             <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
           </a>
         </div>
@@ -75,7 +75,7 @@ permalink: /projects/
       <div class="project-content">
         <h3 class="project-title">Ruhleben Crematory Modernization, Berlin</h3>
         <p class="project-description">
-          Replicated technical clean energy modernizations at the Ruhleben facility, optimizing heating storage arrays and managing public environmental grants.
+          Replicated Baumschulenweg's clean energy waste heat recovery, but engineered custom thermal storage arrays and a backup auxiliary boiler to bridge operational gaps due to the lack of a local district heating grid connection.
         </p>
         <div class="project-tags">
           <span class="project-tag">Individual Project Lead</span>
@@ -110,8 +110,8 @@ permalink: /projects/
 
         <div class="project-footer">
           <button class="project-expand-btn">Learn More</button>
-          <a target="_blank" href="https://www.krematorium-berlin.de/krematorium-ruhleben/foerderung-ruhleben/" class="project-press-link">
-            Project Funding Info
+          <a target="_blank" href="https://www.krematorium-berlin.de/krematorium-ruhleben/" class="project-press-link">
+            Crematory Website
             <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
           </a>
         </div>
