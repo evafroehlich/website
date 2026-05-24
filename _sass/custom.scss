@@ -333,8 +333,8 @@
   }
 }
 
-/* --- 2. Timeline Styles (About Me) --- */
-.timeline-filters {
+/* --- 2. Timeline & Projects Styles (Filters) --- */
+.timeline-filters, .projects-filters {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -342,7 +342,7 @@
   margin-bottom: 3.5rem;
 }
 
-.timeline-filter-btn {
+.timeline-filter-btn, .projects-filter-btn {
   font-family: var(--font-headings);
   font-size: 0.85rem;
   font-weight: 600;
@@ -913,5 +913,61 @@
     line-height: 1.55;
     color: var(--text-muted);
     margin-bottom: 0;
+  }
+}
+
+/* --- 6. Floating Scroll to Top Button --- */
+#scroll-to-top-btn {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  background-color: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--glass-border);
+  color: var(--text-secondary);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--card-shadow);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  z-index: 1000;
+  transition: opacity 0.3s ease, transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), visibility 0.3s ease, background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+  transform: translateY(15px) scale(0.9);
+
+  svg {
+    transition: transform 0.3s ease;
+  }
+
+  &.visible {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    transform: translateY(0) scale(1);
+  }
+
+  &:hover {
+    background-color: var(--accent-emerald);
+    color: var(--text-light);
+    border-color: var(--accent-emerald);
+    transform: translateY(-5px) scale(1.08);
+    box-shadow: var(--glow-emerald);
+
+    svg {
+      transform: translateY(-2px);
+    }
+  }
+
+  @media (max-width: 768px) {
+    bottom: 20px;
+    right: 20px;
+    width: 42px;
+    height: 42px;
   }
 }

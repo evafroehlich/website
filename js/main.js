@@ -153,7 +153,8 @@
     
     expandButtons.forEach(button => {
       button.addEventListener('click', () => {
-        const cardBody = button.closest('.project-card').querySelector('.project-card-details');
+        const card = button.closest('.project-card');
+        const cardBody = card.querySelector('.project-card-details');
         const isCollapsed = cardBody.style.maxHeight === '' || cardBody.style.maxHeight === '0px';
         
         // Collapse all others
@@ -175,7 +176,116 @@
           button.classList.remove('expanded');
           const txtSpan = button.querySelector('.btn-text');
           if (txtSpan) txtSpan.textContent = 'Learn More';
+
+          // Scroll back up to the card smoothly
+          const cardTop = card.getBoundingClientRect().top + window.scrollY;
+          window.scrollTo({
+            top: cardTop - 85, // 70px header + 15px padding offset
+            behavior: 'smooth'
+          });
         }
+      });
+    });
+  };
+
+  // --- 6. Projects Section Filter ---
+  const initProjectFilters = () => {
+    const filterButtons = document.querySelectorAll('.projects-filter-btn');
+    const projectCards = document.querySelectorAll('.project-card');
+    
+    if (filterButtons.length === 0 || projectCards.length === 0) return;
+
+    filterButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        // Toggle active button class
+        filterButtons.forEach(btn => btn.classList.remove('filter-active'));
+        button.classList.add('filter-active');
+
+        const selectedFilter = button.getAttribute('data-filter');
+
+        projectCards.forEach(card => {
+          const cardCategory = card.getAttribute('data-category');
+          
+          if (selectedFilter === 'all' || cardCategory === selectedFilter) {
+            // Animate show
+            card.style.display = 'flex';
+            setTimeout(() => {
+              card.style.opacity = '1';
+              card.style.transform = 'translateY(0) scale(1)';
+            }, 50);
+          } else {
+            // Animate hide
+            card.style.opacity = '0';
+            card.style.transform = 'translateY(20px) scale(0.95)';
+            setTimeout(() => {
+              card.style.display = 'none';
+            }, 300); // Wait for transition
+          }
+        });
+      });
+    });
+  };
+
+  // --- 7. URL Hash Observer & Auto-Expansion (Deep Linking) ---
+  const handleHashLink = () => {
+    const hash = window.location.hash;
+    if (hash) {
+      const targetCard = document.querySelector(hash);
+      if (targetCard && targetCard.classList.contains('project-card')) {
+        const btn = targetCard.querySelector('.project-expand-btn');
+        const cardBody = targetCard.querySelector('.project-card-details');
+        const isCollapsed = cardBody.style.maxHeight === '' || cardBody.style.maxHeight === '0px';
+        
+        if (btn && isCollapsed) {
+          // Collapse all others first
+          document.querySelectorAll('.project-card-details').forEach(details => {
+            details.style.maxHeight = '0px';
+            const otherBtn = details.closest('.project-card').querySelector('.project-expand-btn');
+            otherBtn.classList.remove('expanded');
+            const txtSpan = otherBtn.querySelector('.btn-text');
+            if (txtSpan) txtSpan.textContent = 'Learn More';
+          });
+
+          // Expand targeted project card
+          cardBody.style.maxHeight = cardBody.scrollHeight + 'px';
+          btn.classList.add('expanded');
+          const txtSpan = btn.querySelector('.btn-text');
+          if (txtSpan) txtSpan.textContent = 'Collapse';
+          
+          // Scroll target card to center of viewport smoothly after a tiny delay
+          setTimeout(() => {
+            const cardRect = targetCard.getBoundingClientRect();
+            const cardTop = cardRect.top + window.scrollY;
+            const cardHeight = cardRect.height;
+            const viewportHeight = window.innerHeight;
+            
+            window.scrollTo({
+              top: cardTop - (viewportHeight / 2) + (cardHeight / 2),
+              behavior: 'smooth'
+            });
+          }, 150);
+        }
+      }
+    }
+  };
+
+  // --- 8. Scroll to Top Floating Button ---
+  const initScrollToTop = () => {
+    const scrollToTopBtn = document.getElementById('scroll-to-top-btn');
+    if (!scrollToTopBtn) return;
+
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 300) {
+        scrollToTopBtn.classList.add('visible');
+      } else {
+        scrollToTopBtn.classList.remove('visible');
+      }
+    });
+
+    scrollToTopBtn.addEventListener('click', () => {
+      window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
       });
     });
   };
@@ -187,6 +297,12 @@
     initTimelineFilters();
     initScrollReveal();
     initProjectCards();
+    initProjectFilters();
+    initScrollToTop();
+    
+    // Process deep link hash anchors on load & hashchange
+    handleHashLink();
+    window.addEventListener('hashchange', handleHashLink);
   });
 
 })();

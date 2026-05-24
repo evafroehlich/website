@@ -73,4 +73,18 @@ permalink: /contact/
     </div>
   </section>
 
+  <!-- Legal Privacy Box -->
+  <section id="privacy" class="privacy-section reveal-on-scroll">
+    <h2 class="privacy-title">Imprint &amp; Privacy</h2>
+    <p>
+      Verantwortlich für journalistisch-redaktionelle Inhalte: Eva-Christin Ernst
+
+      Datenschutz
+      Durch den Besuch meiner Website werden Informationen über den Zugriff in Logfiles auf dem Server gespeichert. Diese Informationen sind für die Bereitstellung dieser Website erforderlich. Es werden keine weiteren Informationen gespeichert und keine Cookies gesetzt.
+
+      Privacy
+      By visiting my site, information about the access is stored in log files on the server. These information are required to deliver this website. No other information is stored and no cookies set.
+    </p>
+  </section>
+
 </div>

@@ -45,14 +45,15 @@ permalink: /about/
           <div class="timeline-highlight">
             <div class="highlight-header">Key Department &amp; Team-Led Districts (Advisory):</div>
             <div class="highlight-text">
-              • <a target="_blank" href="https://berlinerstadtwerke.de/energieprojekte/quartier-buckower-felder/">Quartier Buckower Felder, Berlin</a> (Fossil-free residential district with geothermal &amp; wastewater recovery)<br>
-              • <a target="_blank" href="https://berlinerstadtwerke.de/energieprojekte/quartier-haus-der-statistik/">Quartier Haus der Statistik, Berlin</a> (Renewable heating/cooling network with sewer wastewater recovery)
+              • <a href="{{ '/projects/' | relative_url }}#quartier-buckower-felder-berlin">Quartier Buckower Felder, Berlin</a><br>
+              • <a href="{{ '/projects/' | relative_url }}#quartier-haus-der-statistik-berlin">Quartier Haus der Statistik, Berlin</a>
             </div>
           </div>
           <div class="timeline-highlight highlight-gold" style="margin-top: 0.5rem;">
-            <div class="highlight-header">Major Individual Project Lead:</div>
+            <div class="highlight-header">Major Individual Project Leads:</div>
             <div class="highlight-text">
-              • Municipal Crematory Modernization Projects (Thermal process waste heat recovery &amp; clean cooling networks)
+              • <a href="{{ '/projects/' | relative_url }}#baumschulenweg-crematory-modernisation-berlin">Baumschulenweg Crematory Modernisation, Berlin</a><br>
+              • <a href="{{ '/projects/' | relative_url }}#ruhleben-crematory-modernisation-berlin">Ruhleben Crematory Modernisation, Berlin</a>
             </div>
           </div>
         </div>
@@ -82,8 +83,8 @@ permalink: /about/
           <div class="timeline-highlight highlight-gold" style="margin-top: 0.5rem;">
             <div class="highlight-header">Major Individual Project Leads:</div>
             <div class="highlight-text">
-              • <a target="_blank" href="https://berlinerstadtwerke.de/presse/aufm-rollberg-und-drunter-zirkulaer-erzeugen-speichern-nutzen/">Rollberg Quarter, Berlin</a> (Circular heating/cooling grid with solar thermal &amp; multi-source heat pumps)<br>
-              • <a target="_blank" href="https://berlinerstadtwerke.de/presse/b-e-m-und-stadtwerke-modernisieren-polizeiwache/">Friesenstraße Police Headquarters, Berlin</a> (Centralized heating modernization &amp; network separation)
+              • <a href="{{ '/projects/' | relative_url }}#rollberg-quarter-berlin">Rollberg Quarter, Berlin</a><br>
+              • <a href="{{ '/projects/' | relative_url }}#friesenstrasse-police-headquarters">Friesenstraße Police Headquarters</a>
             </div>
           </div>
         </div>

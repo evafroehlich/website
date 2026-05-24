@@ -13,11 +13,19 @@ permalink: /projects/
     </p>
   </div>
 
+  <!-- Interactive Projects Category Filter Buttons -->
+  <div class="projects-filters reveal-on-scroll">
+    <button class="projects-filter-btn filter-active" data-filter="all">Show All</button>
+    <button class="projects-filter-btn" data-filter="individual">Individual Lead</button>
+    <button class="projects-filter-btn" data-filter="team">Team Leadership &amp; Advisory</button>
+    <button class="projects-filter-btn" data-filter="thesis">Research &amp; Thesis</button>
+  </div>
+
   <!-- Projects Grid -->
   <div class="projects-grid">
 
     <!-- Project 1: Baumschulenweg Crematory (Major Individual Project) -->
-    <div class="project-card glass-card reveal-on-scroll proj-gold">
+    <div id="baumschulenweg-crematory-modernisation-berlin" class="project-card glass-card reveal-on-scroll proj-gold" data-category="individual">
       <div class="project-img-placeholder">
         <span class="project-sector">Major Project &bull; Individual Lead</span>
       </div>
@@ -76,7 +84,7 @@ permalink: /projects/
     </div>
 
     <!-- Project 2: Ruhleben Crematory (Major Individual Project) -->
-    <div class="project-card glass-card reveal-on-scroll proj-gold">
+    <div id="ruhleben-crematory-modernisation-berlin" class="project-card glass-card reveal-on-scroll proj-gold" data-category="individual">
       <div class="project-img-placeholder">
         <span class="project-sector">Major Project &bull; Individual Lead</span>
       </div>
@@ -136,7 +144,7 @@ permalink: /projects/
     </div>
 
     <!-- Project 3: Buckower Felder (Team Lead) -->
-    <div class="project-card glass-card reveal-on-scroll">
+    <div id="quartier-buckower-felder-berlin" class="project-card glass-card reveal-on-scroll" data-category="team">
       <div class="project-img-placeholder">
         <span class="project-sector">Team Leadership &bull; Advisory</span>
       </div>
@@ -179,7 +187,7 @@ permalink: /projects/
     </div>
 
     <!-- Project 4: Haus der Statistik (Team Lead) -->
-    <div class="project-card glass-card reveal-on-scroll">
+    <div id="quartier-haus-der-statistik-berlin" class="project-card glass-card reveal-on-scroll" data-category="team">
       <div class="project-img-placeholder">
         <span class="project-sector">Team Leadership &bull; Advisory</span>
       </div>
@@ -220,7 +228,7 @@ permalink: /projects/
     </div>
 
     <!-- Project 5: Rollberg Quarter -->
-    <div class="project-card glass-card reveal-on-scroll proj-gold">
+    <div id="rollberg-quarter-berlin" class="project-card glass-card reveal-on-scroll proj-gold" data-category="individual">
       <div class="project-img-placeholder">
         <span class="project-sector">Major Project &bull; Individual Lead</span>
       </div>
@@ -277,7 +285,7 @@ permalink: /projects/
     </div>
 
     <!-- Project 6: Friesenstraße Police Station -->
-    <div class="project-card glass-card reveal-on-scroll proj-gold">
+    <div id="friesenstrasse-police-headquarters" class="project-card glass-card reveal-on-scroll proj-gold" data-category="individual">
       <div class="project-img-placeholder">
         <span class="project-sector">Major Project &bull; Co-Lead</span>
       </div>
@@ -332,7 +340,7 @@ permalink: /projects/
     </div>
 
     <!-- Project 7: Wind Hydrogen Prediction -->
-    <div class="project-card glass-card reveal-on-scroll proj-gold">
+    <div id="wind-hydrogen-predicted-storage" class="project-card glass-card reveal-on-scroll proj-gold" data-category="thesis">
       <div class="project-img-placeholder">
         <span class="project-sector">Hydrogen &amp; Winds</span>
       </div>
@@ -373,7 +381,7 @@ permalink: /projects/
     </div>
 
     <!-- Project 8: West Coast Wave Energy Converter -->
-    <div class="project-card glass-card reveal-on-scroll">
+    <div id="west-coast-wave-initiative-wcwi" class="project-card glass-card reveal-on-scroll" data-category="thesis">
       <div class="project-img-placeholder">
         <span class="project-sector">Marine Clean Tech</span>
       </div>
@@ -417,7 +425,7 @@ permalink: /projects/
     </div>
 
     <!-- Project 9: Solar Collectors Edge Seals -->
-    <div class="project-card glass-card reveal-on-scroll proj-gold">
+    <div id="flat-plate-collector-durability" class="project-card glass-card reveal-on-scroll proj-gold" data-category="thesis">
       <div class="project-img-placeholder">
         <span class="project-sector">Solar &amp; Materials</span>
       </div>
@@ -458,7 +466,7 @@ permalink: /projects/
     </div>
 
     <!-- Project 10: International Industrial Drying Systems -->
-    <div class="project-card glass-card reveal-on-scroll">
+    <div id="international-industrial-drying-systems" class="project-card glass-card reveal-on-scroll" data-category="individual">
       <div class="project-img-placeholder">
         <span class="project-sector">Mechanical Design</span>
       </div>
