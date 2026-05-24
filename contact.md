@@ -9,9 +9,10 @@ permalink: /contact/
   <!-- Sleek Contact Box -->
   <section class="contact-container glass-card">
     <span class="contact-pretitle">Get in Touch</span>
-    <h1 class="contact-title">Connect &amp; Collaborate</h1>
+    <h1 class="contact-title">Professional Contact</h1>
     <p class="contact-intro">
-      Whether you are looking for an experienced clean-tech leader, seeking to optimise cross-departmental operations, or planning complex energy systems, I would love to connect.
+      Experienced in renewable energy infrastructure, interdisciplinary project leadership, and complex technical environments.
+      Available for professional inquiries, strategic collaboration, and selected leadership opportunities.
     </p>
 
     <!-- Communication Cards -->
@@ -72,19 +73,4 @@ permalink: /contact/
       Eva-Christin Ernst &nbsp;|&nbsp; Richard-Sorge-Str. 59 &nbsp;|&nbsp; 10249 Berlin
     </div>
   </section>
-
-  <!-- Legal Privacy Box -->
-  <section id="privacy" class="privacy-section reveal-on-scroll">
-    <h2 class="privacy-title">Imprint &amp; Privacy</h2>
-    <p>
-      Verantwortlich für journalistisch-redaktionelle Inhalte: Eva-Christin Ernst
-
-      Datenschutz
-      Durch den Besuch meiner Website werden Informationen über den Zugriff in Logfiles auf dem Server gespeichert. Diese Informationen sind für die Bereitstellung dieser Website erforderlich. Es werden keine weiteren Informationen gespeichert und keine Cookies gesetzt.
-
-      Privacy
-      By visiting my site, information about the access is stored in log files on the server. These information are required to deliver this website. No other information is stored and no cookies set.
-    </p>
-  </section>
-
 </div>
