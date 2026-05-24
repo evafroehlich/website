@@ -27,11 +27,10 @@ permalink: /projects/
           Led the complete technical waste-heat-to-cooling modernization of the facility, utilizing process waste heat recovery for absorption cooling integrated with a direct district heating grid connection to eliminate the local boiler.
         </p>
         <div class="project-tags">
-          <span class="project-tag">Individual Project Lead</span>
           <span class="project-tag">Public Subsidies</span>
-          <span class="project-tag">ABAu Compliance</span>
-          <span class="project-tag">Absorption Cooling Chiller</span>
-          <span class="project-tag">Compression Cooling Chiller</span>
+          <span class="project-tag">ABau Compliance</span>
+          <span class="project-tag">Absorption Chiller</span>
+          <span class="project-tag">Compressor Chiller</span>
           <span class="project-tag">HVAC</span>
           <span class="project-tag">Instrumentation &amp; Control (I&amp;C)</span>
         </div>
@@ -81,11 +80,10 @@ permalink: /projects/
           Replicated Baumschulenweg's waste-heat-to-cooling modernization at the Ruhleben facility, but engineered custom thermal storage arrays and a backup auxiliary boiler due to the lack of a local district heating grid connection.
         </p>
         <div class="project-tags">
-          <span class="project-tag">Individual Project Lead</span>
           <span class="project-tag">Public Subsidies</span>
-          <span class="project-tag">ABAu Compliance</span>
-          <span class="project-tag">Absorption Cooling Chiller</span>
-          <span class="project-tag">Compression Cooling Chiller</span>
+          <span class="project-tag">ABau Compliance</span>
+          <span class="project-tag">Absorption Chiller</span>
+          <span class="project-tag">Compressor Chiller</span>
           <span class="project-tag">HVAC</span>
           <span class="project-tag">Instrumentation &amp; Control (I&amp;C)</span>
           <span class="project-tag">Thermal Energy Storage</span>
@@ -136,12 +134,9 @@ permalink: /projects/
           Fostering team execution for an innovative, fossil-free residential quarter, providing senior leadership support and conflict resolution.
         </p>
         <div class="project-tags">
-          <span class="project-tag">Team Leadership</span>
-          <span class="project-tag">Advisory Support</span>
           <span class="project-tag">Fossil-Free District</span>
           <span class="project-tag">Wastewater Heat Recovery</span>
           <span class="project-tag">Low-Temperature Geothermal</span>
-          <span class="project-tag">Decision Making</span>
         </div>
 
         <!-- Expandable details -->
@@ -177,13 +172,8 @@ permalink: /projects/
           Supporting the technical project team deploying a multi-source renewable heating and cooling network in central Berlin.
         </p>
         <div class="project-tags">
-          <span class="project-tag">Team Leadership</span>
-          <span class="project-tag">Advisory Support</span>
           <span class="project-tag">Large-Scale Heat Pumps</span>
-          <span class="project-tag">Geothermal Storage</span>
           <span class="project-tag">Wastewater Heat Recovery</span>
-          <span class="project-tag">Stakeholder Alignment</span>
-          <span class="project-tag">Decision Making</span>
         </div>
         
         <!-- Expandable details -->
@@ -219,15 +209,11 @@ permalink: /projects/
           Executing a circular local heating and cooling grid utilizing solar thermal collectors, three heat pumps with distinct thermal sources (HVAC exhaust air, ambient air, and underground seasonal storage), a CHP unit, and a peak-load boiler.
         </p>
         <div class="project-tags">
-          <span class="project-tag">Individual Project Lead</span>
-          <span class="project-tag">Public Subsidies</span>
-          <span class="project-tag">ABAu Compliance</span>
           <span class="project-tag">Solar Thermal</span>
           <span class="project-tag">Multi-Source Heat Pumps</span>
           <span class="project-tag">Underground Seasonal Storage</span>
           <span class="project-tag">Combined Heat &amp; Power (CHP)</span>
           <span class="project-tag">Reversible Air Cooling</span>
-          <span class="project-tag">HVAC</span>
           <span class="project-tag">Instrumentation &amp; Control (I&amp;C)</span>
         </div>
 
@@ -277,12 +263,10 @@ permalink: /projects/
           Co-managed the entire engineering implementation and centralization of the heating system for the secure, operational police headquarters.
         </p>
         <div class="project-tags">
-          <span class="project-tag">Co-Project Lead</span>
           <span class="project-tag">HVAC</span>
           <span class="project-tag">Instrumentation &amp; Control (I&amp;C)</span>
           <span class="project-tag">Centralized Energy Grid</span>
           <span class="project-tag">System Separation</span>
-          <span class="project-tag">Zero Downtime Operations</span>
         </div>
 
         <!-- Expandable details -->
