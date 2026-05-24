@@ -55,7 +55,7 @@ permalink: /projects/
               </ul>
             </div>
             <div style="margin-bottom: 0.5rem;">
-              <strong style="color: var(--accent-emerald);">Result:</strong> Delivered a highly optimised heating/cooling system that achieved major CO2 emission reductions and energy savings. Successfully handed over the operational plant to the client.
+              <strong style="color: var(--accent-emerald);">Result:</strong> Delivered a highly optimised heating/cooling system to achieve major CO2 emission reductions and energy savings. Successfully handed over the operational plant to the client.
             </div>
           </div>
         </div>
@@ -110,7 +110,7 @@ permalink: /projects/
               </ul>
             </div>
             <div style="margin-bottom: 0.5rem;">
-              <strong style="color: var(--accent-emerald);">Result:</strong> Realised substantial CO2 emission reductions and energy savings. Successfully delivered and handed over the fully operational facility to the client.
+              <strong style="color: var(--accent-emerald);">Result:</strong> Delivered a highly optimised heating/cooling system to achieve major CO2 emission reductions and energy savings. Successfully handed over the operational plant to the client.
             </div>
           </div>
         </div>
