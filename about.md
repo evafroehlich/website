@@ -37,17 +37,17 @@ permalink: /about/
         </div>
         <div class="timeline-body">
           <ul>
-            <li>Leading a high-performing team of 8 in the "Implementation of Heating and Cooling Systems" department, deploying clean energy systems across Berlin.</li>
-            <li>Responsible for planning, coordinating, and delivering multi-million Euro projects utilizing heat pumps, CHP units, thermal storage, solar thermal, and hybrid clean tech systems.</li>
-            <li>Fostering a progressive team culture built on **trust, psychological safety, and self-organization**, empowering individuals while maintaining solid alignment.</li>
-            <li>Optimizing Points of Contact (POC) between technical, administrative, and legal departments—pioneering accessible data sharing models to make collaboration seamless and self-service.</li>
+            <li>Leading a high-performing department team of 8 in "Implementation of Heating and Cooling Systems", deploying clean, renewable energy grids across Berlin.</li>
+            <li>Fostering a progressive team culture built on **trust, psychological safety, and self-organization**, empowering team members to take full project ownership.</li>
+            <li>Serving as **senior advisor and decision maker** for complex, team-led district implementations—providing executive direction and resolution for key project milestones.</li>
+            <li>Optimizing Points of Contact (POC) between technical, administrative, and legal departments—pioneering self-service data sharing models to remove communication bottlenecks.</li>
           </ul>
           <div class="timeline-highlight">
-            <div class="highlight-header">Selected Featured Press Releases:</div>
+            <div class="highlight-header">Key Supported &amp; Team-Led Projects:</div>
             <div class="highlight-text">
-              • <a target="_blank" href="https://berlinerstadtwerke.de/energieprojekte/quartier-haus-der-statistik/">Quartier Haus der Statistik, Berlin</a> (Complex heating/cooling grid)<br>
-              • <a target="_blank" href="https://berlinerstadtwerke.de/presse/aufm-rollberg-und-drunter-zirkulaer-erzeugen-speichern-nutzen/">Rollberg Quarter, Berlin</a> (Circular generation &amp; storage)<br>
-              • <a target="_blank" href="https://berlinerstadtwerke.de/presse/b-e-m-und-stadtwerke-modernisieren-polizeiwache/">Friesenstraße Police Station</a> (Critical infrastructure modernization)
+              • <a target="_blank" href="https://berlinerstadtwerke.de/energieprojekte/quartier-buckower-felder/">Quartier Buckower Felder, Berlin</a> (Innovative fossil-free residential district)<br>
+              • <a target="_blank" href="https://berlinerstadtwerke.de/energieprojekte/quartier-haus-der-statistik/">Quartier Haus der Statistik, Berlin</a> (Geothermal heating &amp; cooling grid)<br>
+              • <a target="_blank" href="https://berlinerstadtwerke.de/presse/aufm-rollberg-und-drunter-zirkulaer-erzeugen-speichern-nutzen/">Rollberg Quarter, Berlin</a> (Circular district recovery &amp; storage)
             </div>
           </div>
         </div>
@@ -55,20 +55,25 @@ permalink: /about/
     </div>
 
     <!-- Milestone 2: PM Berliner Stadtwerke -->
-    <div class="timeline-item reveal-on-scroll" data-categories="leadership pm">
+    <div class="timeline-item reveal-on-scroll" data-categories="leadership pm mechanical">
       <div class="timeline-dot"></div>
-      <div class="timeline-card glass-card">
+      <div class="timeline-card glass-card card-gold">
         <div class="timeline-header">
           <div class="timeline-title-group">
-            <h3 class="timeline-position">Project Manager</h3>
+            <h3 class="timeline-position">Project Manager (Energy Modernization &amp; Subsidies)</h3>
             <div class="timeline-company">Berliner Stadtwerke KP GmbH, Berlin</div>
           </div>
           <span class="timeline-timerange">04/2019 &ndash; 12/2021</span>
         </div>
         <div class="timeline-body">
           <p>
-            Managed the complex modernization of district heating and decentralized supply grids in Berlin. Engineered and deployed CHP plants, large-scale industrial heat pumps, and solar thermal systems, consistently monitoring construction progress to ensure projects were completed on time and within budget parameters.
+            <strong>Direct Individual Lead:</strong> Successfully designed, managed, and executed the complete energy supply modernization of two of Berlin's largest public utilities—<strong>Krematorium Baumschulenweg</strong> and <strong>Krematorium Ruhleben</strong> (my two major personal projects, managed end-to-end).
           </p>
+          <ul>
+            <li><strong>Subsidy Management:</strong> Handled the entire complex municipal grant process for Berlin's Sustainable Development Programme (BENE), securing European Regional Development Fund (EFRE) subsidies to enable project feasibility.</li>
+            <li><strong>Stakeholder Alignment:</strong> Managed cross-departmental coordination across public administrations, historic preservation departments, and industrial technical suppliers.</li>
+            <li><strong>Engineering Implementation:</strong> Modernized boilers, installed waste heat recovery systems, and optimized HVAC components, meeting strict VOB contracting guidelines.</li>
+          </ul>
         </div>
       </div>
     </div>

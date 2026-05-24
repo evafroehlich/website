@@ -5,32 +5,32 @@ permalink: /projects/
 ---
 
 <div class="projects-container">
-  <div class="section-header">
+  <div class="section-header reveal-on-scroll">
     <span class="section-pre">Portfolio</span>
     <h2 class="section-title">Clean Energy &amp; Engineering Masterpieces</h2>
     <p style="margin: 1rem auto 0 auto; text-align: center; max-width: 65ch;">
-      A showcase of key projects I have led, engineered, and optimized across public grids, private industries, and academic research institutes.
+      A showcase of key projects I have led, engineered, and optimized. Classified by my direct individual leadership and strategic team management.
     </p>
   </div>
 
   <!-- Projects Grid -->
   <div class="projects-grid">
 
-    <!-- Project 1: Haus der Statistik -->
-    <div class="project-card glass-card reveal-on-scroll">
+    <!-- Project 1: Baumschulenweg Crematory (Major Individual Project) -->
+    <div class="project-card glass-card reveal-on-scroll proj-gold">
       <div class="project-img-placeholder">
-        <span class="project-sector">District Grids</span>
+        <span class="project-sector">Major Project &bull; Individual Lead</span>
       </div>
       <div class="project-content">
-        <h3 class="project-title">Quartier Haus der Statistik, Berlin</h3>
+        <h3 class="project-title">Baumschulenweg Crematory Modernization, Berlin</h3>
         <p class="project-description">
-          Designing and deploying a cutting-edge heating and cooling grid in central Berlin, coordinating multiple public and private stakeholders.
+          Completely led and managed the complex energy supply modernization of the iconic Baumschulenweg crematory, successfully securing EFRE/BENE subsidies.
         </p>
         <div class="project-tags">
-          <span class="project-tag">Project Management</span>
-          <span class="project-tag">Large-Scale Heat Pumps</span>
-          <span class="project-tag">District Cooling</span>
-          <span class="project-tag">Stakeholder Alignment</span>
+          <span class="project-tag">Project Leadership</span>
+          <span class="project-tag">BENE/EFRE Subsidies</span>
+          <span class="project-tag">Cogeneration (CHP)</span>
+          <span class="project-tag">Waste Heat Recovery</span>
         </div>
         
         <!-- Expandable details -->
@@ -38,9 +38,126 @@ permalink: /projects/
           <div class="details-inner">
             <h5>Key Contributions &amp; Scope:</h5>
             <ul>
-              <li>Leading the team executing the thermal infrastructure for a major municipal redevelopment area in Berlin.</li>
-              <li>Implementing a low-carbon, multi-source heating and cooling network using heat pumps, waste heat, and seasonal storages.</li>
-              <li>Optimized Points of Contact (POC) between technical planners, state administrations, and development consortiums to accelerate project timelines.</li>
+              <li><strong>Full End-to-End Ownership</strong>: Managed the entire technical design, implementation, and commissioning phases of the new high-efficiency energy supply.</li>
+              <li><strong>Subsidy Management</strong>: Successfully prepared, submitted, and managed the complex application for the Berlin Sustainable Development Programme (BENE), funded by the European Regional Development Fund (EFRE).</li>
+              <li><strong>Stakeholder Management</strong>: Aligned state authorities, local administrative bodies, and technical manufacturers to ensure a compliant modernization of a public landmark.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="project-footer">
+          <button class="project-expand-btn">Learn More</button>
+          <a target="_blank" href="https://www.krematorium-berlin.de/krematorium-baumschulenweg/foerderung-baumschulenweg/" class="project-press-link">
+            BENE Funding Info
+            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Project 2: Ruhleben Crematory (Major Individual Project) -->
+    <div class="project-card glass-card reveal-on-scroll proj-gold">
+      <div class="project-img-placeholder">
+        <span class="project-sector">Major Project &bull; Individual Lead</span>
+      </div>
+      <div class="project-content">
+        <h3 class="project-title">Ruhleben Crematory Modernization, Berlin</h3>
+        <p class="project-description">
+          Replicated technical energy optimizations at the Ruhleben crematory, managing municipal permissions, technical operations, and BENE grants.
+        </p>
+        <div class="project-tags">
+          <span class="project-tag">Project Leadership</span>
+          <span class="project-tag">BENE/EFRE Subsidies</span>
+          <span class="project-tag">Thermal Calculations</span>
+          <span class="project-tag">Municipal Alignment</span>
+        </div>
+        
+        <!-- Expandable details -->
+        <div class="project-card-details">
+          <div class="details-inner">
+            <h5>Key Contributions &amp; Scope:</h5>
+            <ul>
+              <li><strong>Technical Engineering</strong>: Engineered optimized HVAC recovery structures and boiler components, yielding measurable primary energy reductions.</li>
+              <li><strong>Public Financing</strong>: Secured substantial state funding support through the European Regional Development Fund (EFRE) BENE program to guarantee financial viability.</li>
+              <li><strong>Permit Acquisition</strong>: Managed regulatory clearances, emission standards compliance, and construction permits with local environmental offices.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="project-footer">
+          <button class="project-expand-btn">Learn More</button>
+          <a target="_blank" href="https://www.krematorium-berlin.de/krematorium-ruhleben/foerderung-ruhleben/" class="project-press-link">
+            BENE Funding Info
+            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Project 3: Buckower Felder (Team Lead) -->
+    <div class="project-card glass-card reveal-on-scroll">
+      <div class="project-img-placeholder">
+        <span class="project-sector">Team Leadership &bull; Advisory</span>
+      </div>
+      <div class="project-content">
+        <h3 class="project-title">Quartier Buckower Felder, Berlin</h3>
+        <p class="project-description">
+          Fostering team execution for an innovative, fossil-free residential quarter, providing senior leadership support and conflict resolution.
+        </p>
+        <div class="project-tags">
+          <span class="project-tag">Team Leadership</span>
+          <span class="project-tag">Fossil-Free District</span>
+          <span class="project-tag">Advisory Support</span>
+          <span class="project-tag">Decision Making</span>
+        </div>
+
+        <!-- Expandable details -->
+        <div class="project-card-details">
+          <div class="details-inner">
+            <h5>Key Contributions &amp; Scope:</h5>
+            <ul>
+              <li><strong>Team Empowerment</strong>: Provided strategic direction and technical guidance to team members executing the massive low-temperature geothermal district.</li>
+              <li><strong>Executive Oversight</strong>: Stepped in to resolve grid coordination conflicts and supported negotiations with public development bodies.</li>
+              <li><strong>Autonomous Progress</strong>: Enabled self-organized project engineering by establishing streamlined point-of-contact documentation workflows.</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="project-footer">
+          <button class="project-expand-btn">Learn More</button>
+          <a target="_blank" href="https://berlinerstadtwerke.de/energieprojekte/quartier-buckower-felder/" class="project-press-link">
+            Press Release
+            <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Project 4: Haus der Statistik (Team Lead) -->
+    <div class="project-card glass-card reveal-on-scroll">
+      <div class="project-img-placeholder">
+        <span class="project-sector">Team Leadership &bull; Advisory</span>
+      </div>
+      <div class="project-content">
+        <h3 class="project-title">Quartier Haus der Statistik, Berlin</h3>
+        <p class="project-description">
+          Supporting the technical project team deploying a multi-source renewable heating and cooling network in central Berlin.
+        </p>
+        <div class="project-tags">
+          <span class="project-tag">Team Leadership</span>
+          <span class="project-tag">Strategic Advice</span>
+          <span class="project-tag">Large-Scale Heat Pumps</span>
+          <span class="project-tag">Stakeholder Alignments</span>
+        </div>
+        
+        <!-- Expandable details -->
+        <div class="project-card-details">
+          <div class="details-inner">
+            <h5>Key Contributions &amp; Scope:</h5>
+            <ul>
+              <li><strong>Strategic Advisory Support</strong>: Supported the direct project managers, offering technical advice on complex heat pump and geothermal storage systems.</li>
+              <li><strong>Decision Authority</strong>: Facilitated critical executive decisions regarding grid boundaries and municipal funding alignments.</li>
+              <li><strong>Process Optimization</strong>: Guided the team to utilize automated digital reporting tools to maintain progress clarity with development partners.</li>
             </ul>
           </div>
         </div>
@@ -55,8 +172,8 @@ permalink: /projects/
       </div>
     </div>
 
-    <!-- Project 2: Rollberg Quarter -->
-    <div class="project-card glass-card reveal-on-scroll proj-gold">
+    <!-- Project 5: Rollberg Quarter -->
+    <div class="project-card glass-card reveal-on-scroll">
       <div class="project-img-placeholder">
         <span class="project-sector">Circular Energy</span>
       </div>
@@ -66,10 +183,10 @@ permalink: /projects/
           Executing a circular thermal grid utilizing wastewater heat extraction, solar photovoltaics, and underground seasonal heat storage.
         </p>
         <div class="project-tags">
-          <span class="project-tag">Team Leadership</span>
           <span class="project-tag">Wastewater Heat Recovery</span>
           <span class="project-tag">Solar Integration</span>
           <span class="project-tag">VOB/B Contracting</span>
+          <span class="project-tag">District Storage</span>
         </div>
 
         <!-- Expandable details -->
@@ -77,9 +194,9 @@ permalink: /projects/
           <div class="details-inner">
             <h5>Key Contributions &amp; Scope:</h5>
             <ul>
-              <li>Managing the complex integration of wastewater heat pump systems that recycle municipal water thermal energy.</li>
-              <li>Coordinated the public procurement, contracting, and delivery protocols in strict compliance with VOB regulations.</li>
-              <li>Overcame critical process bottlenecks by designing self-service digital documentation for construction progress.</li>
+              <li><strong>Wastewater Thermal Recovery</strong>: Managed the technical integration of high-capacity water heat pump units capturing energy from municipal waste flows.</li>
+              <li><strong>Contract Management</strong>: Handled administrative bidding, public tendering, and structural verification under VOB guidelines.</li>
+              <li><strong>Data Optimization</strong>: Dismantled documentation silos, making technical progress reports accessible across public utility bodies.</li>
             </ul>
           </div>
         </div>
@@ -94,7 +211,7 @@ permalink: /projects/
       </div>
     </div>
 
-    <!-- Project 3: Friesenstraße Police Station -->
+    <!-- Project 6: Friesenstraße Police Station -->
     <div class="project-card glass-card reveal-on-scroll">
       <div class="project-img-placeholder">
         <span class="project-sector">Critical Infrastructure</span>
@@ -108,7 +225,7 @@ permalink: /projects/
           <span class="project-tag">Operations Security</span>
           <span class="project-tag">Historical Protection</span>
           <span class="project-tag">Hybrid Systems</span>
-          <span class="project-tag">Budget Oversight</span>
+          <span class="project-tag">BGB/VOB Legal</span>
         </div>
 
         <!-- Expandable details -->
@@ -116,9 +233,9 @@ permalink: /projects/
           <div class="details-inner">
             <h5>Key Contributions &amp; Scope:</h5>
             <ul>
-              <li>Led a project team to modernise a highly secure, actively operational municipal police headquarters in Berlin.</li>
-              <li>Managed sensitive structural retrofits inside historical preservation code limitations.</li>
-              <li>Negotiated claims and verified mechanical supplier compliance, keeping the project within budget constraints.</li>
+              <li><strong>Operational Safeguards</strong>: Guaranteed uninterrupted heating and cooling functionality for emergency systems during mechanical construction phases.</li>
+              <li><strong>Preservation Code Compliance</strong>: Coordinated installations inside historical, heritage-protected building envelopes.</li>
+              <li><strong>Legal &amp; Claims Resolution</strong>: Managed supplier delay claims and verified material installations under strict contract law frameworks.</li>
             </ul>
           </div>
         </div>
@@ -133,7 +250,7 @@ permalink: /projects/
       </div>
     </div>
 
-    <!-- Project 4: Wind Hydrogen Prediction -->
+    <!-- Project 7: Wind Hydrogen Prediction -->
     <div class="project-card glass-card reveal-on-scroll proj-gold">
       <div class="project-img-placeholder">
         <span class="project-sector">Hydrogen &amp; Winds</span>
@@ -169,7 +286,7 @@ permalink: /projects/
       </div>
     </div>
 
-    <!-- Project 5: West Coast Wave Energy Converter -->
+    <!-- Project 8: West Coast Wave Energy Converter -->
     <div class="project-card glass-card reveal-on-scroll">
       <div class="project-img-placeholder">
         <span class="project-sector">Marine Clean Tech</span>
@@ -208,7 +325,7 @@ permalink: /projects/
       </div>
     </div>
 
-    <!-- Project 6: Solar Collectors Edge Seals -->
+    <!-- Project 9: Solar Collectors Edge Seals -->
     <div class="project-card glass-card reveal-on-scroll proj-gold">
       <div class="project-img-placeholder">
         <span class="project-sector">Solar &amp; Materials</span>
@@ -244,7 +361,7 @@ permalink: /projects/
       </div>
     </div>
 
-    <!-- Project 7: International Industrial Drying Systems -->
+    <!-- Project 10: International Industrial Drying Systems -->
     <div class="project-card glass-card reveal-on-scroll">
       <div class="project-img-placeholder">
         <span class="project-sector">Mechanical Design</span>
@@ -276,42 +393,6 @@ permalink: /projects/
         <div class="project-footer">
           <button class="project-expand-btn">Learn More</button>
           <span class="project-tag">Theilen Maschinenbau</span>
-        </div>
-      </div>
-    </div>
-
-    <!-- Project 8: Callux Fuel Cell operations -->
-    <div class="project-card glass-card reveal-on-scroll proj-gold">
-      <div class="project-img-placeholder">
-        <span class="project-sector">Fuel Cells</span>
-      </div>
-      <div class="project-content">
-        <h3 class="project-title">"Callux" Fuel Cell Systems Operation</h3>
-        <p class="project-description">
-          Analyzing and synthesizing long-term thermal and electrical operational results from residential fuel cell CHP units for the NIP.
-        </p>
-        <div class="project-tags">
-          <span class="project-tag">Hydrogen Technology</span>
-          <span class="project-tag">Domestic Micro-CHP</span>
-          <span class="project-tag">Data Analytics</span>
-          <span class="project-tag">Performance Review</span>
-        </div>
-
-        <!-- Expandable details -->
-        <div class="project-card-details">
-          <div class="details-inner">
-            <h5>Key Contributions &amp; Scope:</h5>
-            <ul>
-              <li>Analyzed operational sensor metrics from micro-CHP fuel cells installed in German homes.</li>
-              <li>Compiled detailed efficiency statistics that shaped national technology subsidies.</li>
-              <li>Supported collaboration between utilities, mechanical manufacturers, and federal ministries.</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="project-footer">
-          <button class="project-expand-btn">Learn More</button>
-          <span class="project-tag">EWE AG / NIP</span>
         </div>
       </div>
     </div>
