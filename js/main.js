@@ -226,45 +226,29 @@
     });
   };
 
-  // --- 7. URL Hash Observer & Auto-Expansion (Deep Linking) ---
+  // --- 7. URL Hash Observer & Deep Linking ---
   const handleHashLink = () => {
     const hash = window.location.hash;
     if (hash) {
       const targetCard = document.querySelector(hash);
       if (targetCard && targetCard.classList.contains('project-card')) {
-        const btn = targetCard.querySelector('.project-expand-btn');
-        const cardBody = targetCard.querySelector('.project-card-details');
-        const isCollapsed = cardBody.style.maxHeight === '' || cardBody.style.maxHeight === '0px';
-        
-        if (btn && isCollapsed) {
-          // Collapse all others first
-          document.querySelectorAll('.project-card-details').forEach(details => {
-            details.style.maxHeight = '0px';
-            const otherBtn = details.closest('.project-card').querySelector('.project-expand-btn');
-            otherBtn.classList.remove('expanded');
-            const txtSpan = otherBtn.querySelector('.btn-text');
-            if (txtSpan) txtSpan.textContent = 'Learn More';
-          });
+        // Ensure all project details are collapsed
+        document.querySelectorAll('.project-card-details').forEach(details => {
+          details.style.maxHeight = '0px';
+          const otherBtn = details.closest('.project-card').querySelector('.project-expand-btn');
+          otherBtn.classList.remove('expanded');
+          const txtSpan = otherBtn.querySelector('.btn-text');
+          if (txtSpan) txtSpan.textContent = 'Learn More';
+        });
 
-          // Expand targeted project card
-          cardBody.style.maxHeight = cardBody.scrollHeight + 'px';
-          btn.classList.add('expanded');
-          const txtSpan = btn.querySelector('.btn-text');
-          if (txtSpan) txtSpan.textContent = 'Collapse';
-          
-          // Scroll target card to center of viewport smoothly after a tiny delay
-          setTimeout(() => {
-            const cardRect = targetCard.getBoundingClientRect();
-            const cardTop = cardRect.top + window.scrollY;
-            const cardHeight = cardRect.height;
-            const viewportHeight = window.innerHeight;
-            
-            window.scrollTo({
-              top: cardTop - (viewportHeight / 2) + (cardHeight / 2),
-              behavior: 'smooth'
-            });
-          }, 150);
-        }
+        // Scroll the target card into view smoothly, aligning it below the sticky header
+        setTimeout(() => {
+          const cardTop = targetCard.getBoundingClientRect().top + window.scrollY;
+          window.scrollTo({
+            top: cardTop - 85, // 70px header + 15px padding offset
+            behavior: 'smooth'
+          });
+        }, 150);
       }
     }
   };
