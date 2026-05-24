@@ -325,7 +325,7 @@ permalink: /about/
           <span class="credential-badge">Leadership</span>
         </div>
         <h3 class="credential-title">Foundations of Successful Personnel Development</h3>
-        <div class="credential-institution"><strong>Schönefeld</strong> &bull; 11/2025</div>
+        <div class="credential-institution"><strong>Haufe Akademie</strong>, Schönefeld &bull; 11/2025</div>
         <p class="credential-description">
           Explored the theory and practice of personnel development (PE), including PE instruments, processes, and organisational roles. Addressed typical corporate PE challenges, methods to enhance HR practices in enterprises, and current practical trends in the field.
         </p>
@@ -351,7 +351,7 @@ permalink: /about/
           <span class="credential-badge">Leadership &amp; PM</span>
         </div>
         <h3 class="credential-title">Effective Use of ChatGPT &amp; AI in Project Management</h3>
-        <div class="credential-institution"><strong>Zoom (Online)</strong> &bull; 07/2025</div>
+        <div class="credential-institution"><strong>Haufe Akademie</strong>, Zoom (Online) &bull; 07/2025</div>
         <p class="credential-description">
           Acquired core concepts of generative AI and practical applications in project planning, communications, risk management, documentation, and stakeholder management. Covered API integration possibilities, security and data privacy limits, and future AI trends.
         </p>
@@ -407,7 +407,7 @@ permalink: /about/
           <span class="credential-badge">Leadership &amp; PM</span>
         </div>
         <h3 class="credential-title">Developing, Implementing, and Measuring Target Processes</h3>
-        <div class="credential-institution"><strong>Berlin</strong> &bull; 07/2024</div>
+        <div class="credential-institution"><strong>Haufe Akademie</strong>, Berlin &bull; 07/2024</div>
         <p class="credential-description">
           Focused on the structured design and maturity assessment of target processes, process marketing and rollout, process governance (organisation, steering, monitoring), tools for continuous process improvement, KPI tracking, process costing, and key change management principles.
         </p>

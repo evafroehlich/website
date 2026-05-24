@@ -223,6 +223,10 @@
     display: grid;
     padding: 1.5rem;
     gap: 1.5rem;
+
+    .stat-item:nth-child(5) {
+      grid-column: span 2;
+    }
   }
 
   .stat-item {
