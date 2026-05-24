@@ -206,18 +206,20 @@ permalink: /projects/
     <!-- Project 5: Rollberg Quarter -->
     <div class="project-card glass-card reveal-on-scroll">
       <div class="project-img-placeholder">
-        <span class="project-sector">Circular Energy</span>
+        <span class="project-sector">Circular Energy &amp; Heating Grid</span>
       </div>
       <div class="project-content">
         <h3 class="project-title">Rollberg Quarter, Berlin</h3>
         <p class="project-description">
-          Executing a circular thermal grid utilizing wastewater heat extraction, solar photovoltaics, and underground seasonal heat storage.
+          Executing a circular local heating and cooling grid utilizing solar thermal collectors, three heat pumps with distinct thermal sources (HVAC exhaust air, ambient air, and underground seasonal storage), a CHP unit, and a peak-load boiler.
         </p>
         <div class="project-tags">
-          <span class="project-tag">Wastewater Heat Recovery</span>
-          <span class="project-tag">Solar Integration</span>
-          <span class="project-tag">VOB/B Contracting</span>
-          <span class="project-tag">District Storage</span>
+          <span class="project-tag">Solar Thermal</span>
+          <span class="project-tag">Multi-Source Heat Pumps</span>
+          <span class="project-tag">Underground Seasonal Storage</span>
+          <span class="project-tag">Combined Heat &amp; Power (CHP)</span>
+          <span class="project-tag">Reversible Air Cooling</span>
+          <span class="project-tag">VOB Contracting</span>
         </div>
 
         <!-- Expandable details -->
@@ -225,9 +227,16 @@ permalink: /projects/
           <div class="details-inner">
             <h5>Key Contributions &amp; Scope:</h5>
             <ul>
-              <li><strong>Wastewater Thermal Recovery</strong>: Managed the technical integration of high-capacity water heat pump units capturing energy from municipal waste flows.</li>
-              <li><strong>Contract Management</strong>: Handled administrative bidding, public tendering, and structural verification under VOB guidelines.</li>
-              <li><strong>Data Optimization</strong>: Dismantled documentation silos, making technical progress reports accessible across public utility bodies.</li>
+              <li><strong>Solar Thermal &amp; Storage</strong>: Integrated solar thermal collectors to capture thermal energy, routing excess heat into a seasonal underground thermal energy storage system.</li>
+              <li><strong>Three distinct Heat Pump sources</strong>: Engineered a multi-source heat pump array with three distinct thermal energy sources:
+                <ul>
+                  <li>An exhaust-air heat pump reclaiming heat from the building's central HVAC exhaust air flows.</li>
+                  <li>A reversible ambient-air heat pump providing eco-friendly winter heating and active summer cooling for building zones.</li>
+                  <li>A brine-water heat pump connected to the underground seasonal thermal storage.</li>
+                </ul>
+              </li>
+              <li><strong>Combined Cogeneration &amp; Peak Load</strong>: Integrated a Combined Heat and Power (CHP) unit for simultaneous local electricity and heat production, backed by a conventional gas boiler for peak-load thermal security.</li>
+              <li><strong>Contract Management</strong>: Directed administrative public tendering and structured progress documentation in compliance with VOB guidelines.</li>
             </ul>
           </div>
         </div>
