@@ -29,8 +29,11 @@ permalink: /projects/
         <div class="project-tags">
           <span class="project-tag">Individual Project Lead</span>
           <span class="project-tag">Public Subsidies</span>
-          <span class="project-tag">ABAu Bauplanungsunterlagen</span>
+          <span class="project-tag">ABAu Compliance</span>
           <span class="project-tag">Absorption Cooling Chiller</span>
+          <span class="project-tag">Compression Cooling Chiller</span>
+          <span class="project-tag">HVAC</span>
+          <span class="project-tag">Instrumentation &amp; Control (I&amp;C)</span>
         </div>
         
         <!-- Expandable details -->
@@ -75,12 +78,16 @@ permalink: /projects/
       <div class="project-content">
         <h3 class="project-title">Ruhleben Crematory Modernization, Berlin</h3>
         <p class="project-description">
-          Replicated Baumschulenweg's clean energy waste heat recovery, but engineered custom thermal storage arrays and a backup auxiliary boiler to bridge operational gaps due to the lack of a local district heating grid connection.
+          Replicated Baumschulenweg's waste-heat-to-cooling modernization at the historic Ruhleben facility, but engineered custom thermal storage arrays and a backup auxiliary boiler due to the lack of a local district heating grid connection.
         </p>
         <div class="project-tags">
           <span class="project-tag">Individual Project Lead</span>
           <span class="project-tag">Public Subsidies</span>
           <span class="project-tag">ABAu Compliance</span>
+          <span class="project-tag">Absorption Cooling Chiller</span>
+          <span class="project-tag">Compression Cooling Chiller</span>
+          <span class="project-tag">HVAC</span>
+          <span class="project-tag">Instrumentation &amp; Control (I&amp;C)</span>
           <span class="project-tag">Thermal Energy Storage</span>
         </div>
         
