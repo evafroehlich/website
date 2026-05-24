@@ -37,10 +37,10 @@ permalink: /about/
         </div>
         <div class="timeline-body">
           <p style="margin-bottom: 0.75rem;">
-            <strong>Department Leadership:</strong> Leading a high-performing multidisciplinary department team in "Implementation of Heating and Cooling Systems", fostering a progressive team culture built on trust, psychological safety, and self-organization. Drawing on my extensive project management and subsidies-administration experience, I continue to drive clean energy implementations, public contracting compliance, and executive decision-making for complex, team-led district networks.
+            <strong>Department Leadership:</strong> Leading a high-performing multidisciplinary department in "Implementation of Heating and Cooling Systems", fostering a progressive team culture built on trust, psychological safety, and self-organisation. Drawing on my extensive project management and subsidy administration experience, I continue to drive clean energy implementations, public contracting compliance, and executive decision-making for complex, team-led district networks.
           </p>
           <p style="margin-bottom: 1rem;">
-            <strong>Direct Individual Lead:</strong> Successfully designed, managed, and executed the complete energy supply modernization of two of Berlin's largest public utility crematory facilities (managed end-to-end from planning to handover).
+            <strong>Direct Individual Lead:</strong> Successfully designed, managed, and executed the complete energy supply modernisation of two of Berlin's largest public utility crematorium facilities from initial planning to operational handover.
           </p>
           <div class="timeline-highlight">
             <div class="highlight-header">Key Department &amp; Team-Led Districts (Advisory):</div>
@@ -72,12 +72,12 @@ permalink: /about/
         </div>
         <div class="timeline-body">
           <p style="margin-bottom: 0.75rem;">
-            <strong>Direct Individual Lead:</strong> Single-handedly managed the circular local energy grid for the **Rollberg Quarter** from initial contracting and public tendering through engineering design and construction to operational handover.
+            <strong>Direct Individual Lead:</strong> Single-handedly managed the circular local energy grid for the <strong>Rollberg Quarter</strong> from initial contracting and public tendering, through engineering design and construction, to operational handover.
           </p>
           <ul>
-            <li><strong>Subsidy Management:</strong> Directed complex municipal environmental grant applications and public funding processes to secure state-funded subsidies, enabling project feasibility.</li>
+            <li><strong>Subsidy Management:</strong> Directed complex municipal environmental grant applications and public funding processes to secure state-funded subsidies, ensuring project feasibility.</li>
             <li><strong>Stakeholder Alignment:</strong> Managed cross-departmental coordination across public administrations, historic preservation departments, and industrial technical suppliers.</li>
-            <li><strong>Engineering Implementation:</strong> Modernized boilers, installed waste heat recovery systems, and optimized HVAC components, meeting strict VOB contracting guidelines.</li>
+            <li><strong>Engineering Implementation:</strong> Modernised boilers, installed waste heat recovery systems, and optimised HVAC components, meeting strict German construction contracting guidelines (VOB).</li>
           </ul>
           <div class="timeline-highlight highlight-gold" style="margin-top: 0.5rem;">
             <div class="highlight-header">Major Individual Project Leads:</div>
@@ -103,7 +103,7 @@ permalink: /about/
         </div>
         <div class="timeline-body">
           <p>
-            Led a multidisciplinary engineering and administrative team supplying housing complexes with heat and electrical power from decentralized CHP units. Introduced modern management workflows and digital communication tools that optimized point-of-contact workflows and significantly reduced overhead project costs. Held project decision-making authority (Vertrauensvollmacht).
+            Led a multidisciplinary engineering and administrative team supplying housing complexes with heat and electrical power from decentralised CHP units. Introduced modern management workflows and digital communication tools that optimised cross-departmental communication and significantly reduced overhead project costs. Held project decision-making authority and sole project signatory authority (<em>Vertrauensvollmacht</em>).
           </p>
         </div>
       </div>
@@ -122,7 +122,7 @@ permalink: /about/
         </div>
         <div class="timeline-body">
           <p>
-            Spearheaded technical maintenance optimization and regulatory compliance for small to medium-scale CHP plant projects. Managed complex German energy regulatory frameworks (including EEG, KWKG, and EnEV) to ensure system operations remained fully compliant and financially optimized.
+            Spearheaded technical maintenance optimisation and regulatory compliance for small to medium-scale CHP plant projects. Managed complex German energy regulatory frameworks (including German energy regulations such as the Renewable Energy Sources Act [EEG], Cogeneration Act [KWKG], and Energy Saving Ordinance [EnEV]) to ensure system operations remained fully compliant and financially optimised.
           </p>
         </div>
       </div>
@@ -141,7 +141,7 @@ permalink: /about/
         </div>
         <div class="timeline-body">
           <p>
-            Designed and managed international, high-efficiency drying system machinery projects for the global chemical and food processing industries. Championed mechanical system architecture, thermal calculation modeling, cost estimation, manufacturer/supplier coordination, and on-site client commissioning. Applied energy efficiency methodologies directly into production lines.
+            Designed and managed international, high-efficiency industrial drying machinery projects for the global chemical and food processing industries. Championed mechanical system architecture, thermal modeling and simulations, cost estimation, manufacturer/supplier coordination, and on-site client commissioning. Applied energy efficiency methodologies directly into production lines.
           </p>
         </div>
       </div>
@@ -160,13 +160,13 @@ permalink: /about/
         </div>
         <div class="timeline-body">
           <p>
-            Advanced postgraduate training specializing in wind systems, power forecasts, grid integrations, and energy economics. Completed a specialized M.Sc. grade of 1.70.
+            Advanced postgraduate training specialising in wind systems, power forecasts, grid integrations, and energy economics. Graduated with a final M.Sc. grade of 1.70 (German scale, equivalent to "Very Good").
           </p>
           <div class="timeline-highlight highlight-gold">
             <div class="highlight-header">Master's Thesis (M.Sc.):</div>
             <div class="highlight-text">
-              <strong>Topic:</strong> “Study of a wind hydrogen storage system analyzing different technological configurations and wind power predictions”<br>
-              Developed a dynamic predictive simulation model in MATLAB at overspeed GmbH. Modeled the operational behavior of industrial-scale <strong>electrolysis</strong> systems, hydrogen storage configurations, and fuel cells to match wind forecasting models (such as P90, P50, P10 probabilities) for grid integration in Victoria and New South Wales, Australia.
+              <strong>Topic:</strong> “Study of a Wind-Hydrogen Storage System: Analysing Technological Configurations and Wind Power Predictions”<br>
+              Developed a dynamic predictive simulation model in MATLAB at overspeed GmbH. Modelled the operational behaviour of industrial-scale <strong>water electrolysis</strong> systems, hydrogen storage configurations, and fuel cells to match wind energy exceedance probabilities (P90, P50, and P10 forecasts) for grid integration in Victoria and New South Wales, Australia.
             </div>
           </div>
         </div>
@@ -186,7 +186,7 @@ permalink: /about/
         </div>
         <div class="timeline-body">
           <p>
-            Collaborated with the **West Coast Wave Initiative (WCWI)** at the Institute for Integrated Energy Systems (IESVic). Developed a custom MATLAB/Simulink mathematical simulation model of a single-motion wave energy converter featuring a hydraulic power take-off (PTO) unit. Participated in the marine offshore deployment of the wave energy converter buoy off the coast of British Columbia.
+            Collaborated with the <strong>West Coast Wave Initiative (WCWI)</strong> at the Institute for Integrated Energy Systems (IESVic). Developed a custom MATLAB/Simulink mathematical simulation model of a single-motion wave energy converter featuring a hydraulic power take-off (PTO) unit. Participated in the marine offshore deployment of the wave energy converter buoy off the coast of British Columbia.
           </p>
         </div>
       </div>
@@ -205,7 +205,7 @@ permalink: /about/
         </div>
         <div class="timeline-body">
           <p>
-            Contributed to the federal “Callux” project, a key part of Germany's National Innovation Programme (NIP) for Hydrogen and Fuel Cell Technology. Focused on processing, analyzing, and synthesizing long-term operational performance results from domestic fuel cell cogeneration heating systems.
+            Contributed to the federal “Callux” project, a key part of Germany's National Innovation Program (NIP) for Hydrogen and Fuel Cell Technology. Focused on processing, analysing, and synthesising long-term operational performance results from domestic fuel cell cogeneration heating systems.
           </p>
         </div>
       </div>
@@ -224,13 +224,13 @@ permalink: /about/
         </div>
         <div class="timeline-body">
           <p>
-            Acquired fundamental mechanical engineering principles, specializing in HVAC design, solar thermal structures, and thermodynamics. Graduated with an overall grade of 1.83.
+            Acquired fundamental mechanical engineering principles, specialising in HVAC design, solar thermal structures, and thermodynamics. Graduated with a final B.Eng. grade of 1.83 (German scale, equivalent to "Very Good").
           </p>
           <div class="timeline-highlight highlight-gold">
             <div class="highlight-header">Bachelor's Thesis (B.Eng.):</div>
             <div class="highlight-text">
-              <strong>Topic:</strong> “Temperature load and heat loss of highly efficient, insulated-glazed flat plate collectors”<br>
-              Conducted durability and heat transmission research on solar collector edge seal materials at the Institute for Solar Energy Research (ISFH Hameln). Conducted long-term thermal simulations using the **Heat2** thermal analysis engine to model European climate thermal stress durations.
+              <strong>Topic:</strong> “Temperature load and heat loss of highly efficient, insulated-glazed flat-plate collectors”<br>
+              Conducted durability and heat transmission research on solar collector edge seal materials at the Institute for Solar Energy Research (ISFH Hameln), and performed long-term thermal simulations using the <strong>Heat2</strong> thermal analysis engine to model European climate thermal stress durations.
             </div>
           </div>
         </div>
@@ -250,7 +250,7 @@ permalink: /about/
         </div>
         <div class="timeline-body">
           <p>
-            Contributed to the "KES" underground geothermal and solar seasonal energy storage project. Analyzed operational test data patterns and supported the assembly/calibration of the geothermal prototype installed for residential heating.
+            Contributed to the "KES" underground geothermal and solar seasonal energy storage project. Analysed operational test data patterns and supported the assembly/calibration of the geothermal prototype installed for residential heating.
           </p>
         </div>
       </div>
@@ -311,15 +311,15 @@ permalink: /about/
       <div class="value-card">
         <h3 class="value-title">Trust &amp; Individual Ownership</h3>
         <p class="value-description">
-          I believe that great teams thrive on trust, open communication, and psychological safety. Rather than micromanaging, I empower team members to take full ownership of their projects, fostering high engagement, self-organization, and collaborative accountability.
+          I believe that great teams thrive on trust, open communication, and psychological safety. Rather than micromanaging, I empower team members to take full ownership of their projects, fostering high engagement, self-organisation, and collaborative accountability.
         </p>
       </div>
 
-      <!-- Card 2: Process & POC Optimization -->
+      <!-- Card 2: Process & POC Optimisation -->
       <div class="value-card">
         <h3 class="value-title">Cross-Departmental Networking</h3>
         <p class="value-description">
-          A core quality of my management style is identifying process friction. I network across departments to dismantle organizational silos, optimizing Points of Contact (POC) and implementing accessible, digital, and self-service data frameworks that save time and meetings for everyone.
+          A core quality of my management style is identifying process friction. I network across departments to dismantle organisational silos, optimising communication channels and implementing accessible, digital, and self-service data frameworks that save time and reduce unnecessary meetings for everyone.
         </p>
       </div>
 
@@ -327,7 +327,7 @@ permalink: /about/
       <div class="value-card">
         <h3 class="value-title">Stability &amp; Clarity</h3>
         <p class="value-description">
-          Drawing on my ENFJ / INFJ visionary personality, I lead with strong inner values, presence, and mindful reflection. This grounded perspective helps me navigate highly complex stakeholder landscapes, managing stress and providing clear, decisive directions under pressure.
+          Drawing on my ENFJ (with strong INFJ traits) visionary personality, I lead with strong inner values, presence, and mindful reflection. This grounded perspective helps me navigate highly complex stakeholder landscapes, managing stress and providing clear, decisive directions under pressure.
         </p>
       </div>
 
@@ -335,7 +335,7 @@ permalink: /about/
       <div class="value-card">
         <h3 class="value-title">Diversity &amp; Mentorship</h3>
         <p class="value-description">
-          I active advocate for diversity and equal opportunities across all genders in engineering and science. As an active participant in women's networks in the energy sector, I value mentorship and supporting other professionals to excel in their careers.
+          I actively advocate for gender diversity and equal opportunities in engineering and science. As an active participant in women's networks in the energy sector, I value mentoring and supporting other professionals to excel in their careers.
         </p>
       </div>
     </div>

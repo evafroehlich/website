@@ -11,7 +11,7 @@ permalink: /contact/
     <span class="contact-pretitle">Get in Touch</span>
     <h1 class="contact-title">Connect &amp; Collaborate</h1>
     <p class="contact-intro">
-      Whether you are exploring senior leadership opportunities, looking to optimize cross-departmental operations, or seeking to engineer complex energy systems, I would love to hear from you.
+      Whether you are looking for an experienced clean-tech leader, seeking to optimise cross-departmental operations, or planning complex energy systems, I would love to connect.
     </p>
 
     <!-- Communication Cards -->
@@ -77,7 +77,7 @@ permalink: /contact/
   <section id="privacy" class="privacy-section reveal-on-scroll">
     <h2 class="privacy-title">Data Protection &amp; Privacy Compliance</h2>
     <p>
-      By visiting my website, minimal browser metrics and system logs are stored temporarily on the server side to ensure operational safety and content delivery. I do not store any personal identification data, use external analytics trackers, set tracking cookies, or transmit user parameters to third-party services.
+      To ensure operational safety and content delivery, minimal browser metrics and system logs are temporarily stored on the server side when you visit my website. I do not store any personal identification data, use external analytics trackers, set tracking cookies, or transmit user parameters to third-party services.
     </p>
   </section>
 
