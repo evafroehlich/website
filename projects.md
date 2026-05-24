@@ -137,8 +137,10 @@ permalink: /projects/
         </p>
         <div class="project-tags">
           <span class="project-tag">Team Leadership</span>
-          <span class="project-tag">Fossil-Free District</span>
           <span class="project-tag">Advisory Support</span>
+          <span class="project-tag">Fossil-Free District</span>
+          <span class="project-tag">Wastewater Heat Recovery</span>
+          <span class="project-tag">Low-Temperature Geothermal</span>
           <span class="project-tag">Decision Making</span>
         </div>
 
@@ -147,7 +149,7 @@ permalink: /projects/
           <div class="details-inner">
             <h5>Key Contributions &amp; Scope:</h5>
             <ul>
-              <li><strong>Team Empowerment</strong>: Provided strategic direction and technical guidance to team members executing the massive low-temperature geothermal district.</li>
+              <li><strong>Team Empowerment</strong>: Provided strategic direction and technical guidance to team members executing the low-temperature geothermal grid integrated with raw wastewater thermal heat recovery.</li>
               <li><strong>Executive Oversight</strong>: Stepped in to resolve grid coordination conflicts and supported negotiations with public development bodies.</li>
               <li><strong>Autonomous Progress</strong>: Enabled self-organized project engineering by establishing streamlined point-of-contact documentation workflows.</li>
             </ul>
@@ -176,9 +178,12 @@ permalink: /projects/
         </p>
         <div class="project-tags">
           <span class="project-tag">Team Leadership</span>
-          <span class="project-tag">Strategic Advice</span>
+          <span class="project-tag">Advisory Support</span>
           <span class="project-tag">Large-Scale Heat Pumps</span>
-          <span class="project-tag">Stakeholder Alignments</span>
+          <span class="project-tag">Geothermal Storage</span>
+          <span class="project-tag">Wastewater Heat Recovery</span>
+          <span class="project-tag">Stakeholder Alignment</span>
+          <span class="project-tag">Decision Making</span>
         </div>
         
         <!-- Expandable details -->
@@ -186,7 +191,7 @@ permalink: /projects/
           <div class="details-inner">
             <h5>Key Contributions &amp; Scope:</h5>
             <ul>
-              <li><strong>Strategic Advisory Support</strong>: Supported the direct project managers, offering technical advice on complex heat pump and geothermal storage systems.</li>
+              <li><strong>Strategic Advisory Support</strong>: Supported the direct project managers, offering technical advice on complex heat pump arrays, geothermal storage, and sewer wastewater heat recovery integration.</li>
               <li><strong>Decision Authority</strong>: Facilitated critical executive decisions regarding grid boundaries and municipal funding alignments.</li>
               <li><strong>Process Optimization</strong>: Guided the team to utilize automated digital reporting tools to maintain progress clarity with development partners.</li>
             </ul>
@@ -272,7 +277,9 @@ permalink: /projects/
           Co-managed the entire engineering implementation and centralization of the heating system for the secure, operational police headquarters.
         </p>
         <div class="project-tags">
-          <span class="project-tag">Co-Project Manager</span>
+          <span class="project-tag">Co-Project Lead</span>
+          <span class="project-tag">HVAC</span>
+          <span class="project-tag">Instrumentation &amp; Control (I&amp;C)</span>
           <span class="project-tag">Centralized Energy Grid</span>
           <span class="project-tag">System Separation</span>
           <span class="project-tag">Zero Downtime Operations</span>
