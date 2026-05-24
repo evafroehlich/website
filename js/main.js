@@ -82,12 +82,12 @@
     });
   };
 
-  // --- 3. Experience & Education Timeline Filter ---
+  // --- 3. Experience & Education Timeline & Credentials Unified Filter ---
   const initTimelineFilters = () => {
     const filterButtons = document.querySelectorAll('.timeline-filter-btn');
-    const timelineItems = document.querySelectorAll('.timeline-item');
+    const filterableItems = document.querySelectorAll('.timeline-item, .credential-card');
     
-    if (filterButtons.length === 0 || timelineItems.length === 0) return;
+    if (filterButtons.length === 0 || filterableItems.length === 0) return;
 
     filterButtons.forEach(button => {
       button.addEventListener('click', () => {
@@ -97,12 +97,14 @@
 
         const selectedFilter = button.getAttribute('data-filter');
 
-        timelineItems.forEach(item => {
-          const itemCategories = item.getAttribute('data-categories').split(' ');
+        filterableItems.forEach(item => {
+          const rawCategories = item.getAttribute('data-categories');
+          if (!rawCategories) return;
+          const itemCategories = rawCategories.split(' ');
           
           if (selectedFilter === 'all' || itemCategories.includes(selectedFilter)) {
             // Animate show
-            item.style.display = 'block';
+            item.style.display = '';
             setTimeout(() => {
               item.style.opacity = '1';
               item.style.transform = 'translateY(0) scale(1)';
@@ -114,6 +116,68 @@
             setTimeout(() => {
               item.style.display = 'none';
             }, 300); // Wait for transition
+          }
+        });
+      });
+    });
+  };
+
+  // --- 3b. About Page Tabs Navigation ---
+  const initAboutTabs = () => {
+    const tabButtons = document.querySelectorAll('.about-tab-btn');
+    const tabIndicator = document.getElementById('tab-indicator');
+    const tabPanes = document.querySelectorAll('.about-tab-pane');
+    
+    if (tabButtons.length === 0 || tabPanes.length === 0) return;
+
+    const updateTabIndicator = (activeBtn) => {
+      if (!tabIndicator) return;
+      const containerRect = activeBtn.parentElement.getBoundingClientRect();
+      const btnRect = activeBtn.getBoundingClientRect();
+      const offsetLeft = btnRect.left - containerRect.left;
+      const width = btnRect.width;
+      
+      tabIndicator.style.width = `${width}px`;
+      tabIndicator.style.transform = `translateX(${offsetLeft - 4}px)`;
+    };
+
+    const activeTab = document.querySelector('.about-tab-btn.tab-active');
+    if (activeTab) {
+      setTimeout(() => {
+        updateTabIndicator(activeTab);
+      }, 100);
+    }
+
+    window.addEventListener('resize', () => {
+      const activeBtn = document.querySelector('.about-tab-btn.tab-active');
+      if (activeBtn) updateTabIndicator(activeBtn);
+    });
+
+    tabButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        if (button.classList.contains('tab-active')) return;
+
+        const targetTab = button.getAttribute('data-tab');
+
+        tabButtons.forEach(btn => btn.classList.remove('tab-active'));
+        button.classList.add('tab-active');
+
+        updateTabIndicator(button);
+
+        tabPanes.forEach(pane => {
+          const paneId = pane.getAttribute('id');
+          if (paneId === `pane-${targetTab}`) {
+            pane.style.display = 'block';
+            setTimeout(() => {
+              pane.classList.add('pane-active');
+            }, 50);
+          } else {
+            pane.classList.remove('pane-active');
+            setTimeout(() => {
+              if (!pane.classList.contains('pane-active')) {
+                pane.style.display = 'none';
+              }
+            }, 300);
           }
         });
       });
@@ -279,6 +343,7 @@
     initThemeEngine();
     initMobileNavigation();
     initTimelineFilters();
+    initAboutTabs();
     initScrollReveal();
     initProjectCards();
     initProjectFilters();

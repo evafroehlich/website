@@ -972,3 +972,224 @@
     height: 42px;
   }
 }
+
+/* ==========================================================================
+   7. ABOUT PAGE TABS & CREDENTIALS REDESIGN
+   ========================================================================== */
+.about-tabs-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 1rem auto 3.5rem auto;
+}
+
+.about-tabs-container {
+  display: inline-flex;
+  position: relative;
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  padding: 4px;
+  border-radius: 9999px;
+  box-shadow: var(--card-shadow);
+  z-index: 1;
+}
+
+.about-tab-btn {
+  font-family: var(--font-headings);
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  background: none;
+  border: none;
+  padding: 0.75rem 2.25rem;
+  border-radius: 9999px;
+  cursor: pointer;
+  z-index: 2;
+  transition: color 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  outline: none;
+
+  &:hover {
+    color: var(--accent-emerald);
+  }
+
+  &.tab-active {
+    color: var(--text-light);
+    
+    &:hover {
+      color: var(--text-light);
+    }
+  }
+
+  @media (max-width: 500px) {
+    font-size: 0.85rem;
+    padding: 0.6rem 1.25rem;
+  }
+}
+
+.tab-active-bg {
+  position: absolute;
+  top: 4px;
+  bottom: 4px;
+  left: 4px;
+  background-color: var(--accent-emerald);
+  border-radius: 9999px;
+  z-index: 0;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), width 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 10px rgba(var(--accent-emerald-rgb), 0.3);
+}
+
+.about-tab-pane {
+  display: none;
+  opacity: 0;
+  transform: translateY(15px);
+  transition: opacity 0.4s cubic-bezier(0.4, 0, 0.2, 1), transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+
+  &.pane-active {
+    display: block;
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Credentials Grid & Cards */
+.credentials-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 4rem;
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+}
+
+.credential-card {
+  display: flex;
+  flex-direction: column;
+  padding: 2.25rem 2rem;
+  border-radius: 16px;
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--card-shadow);
+  transition: var(--transition-smooth), opacity 0.4s ease, transform 0.4s ease;
+  position: relative;
+  overflow: hidden;
+  border-top: 4px solid var(--accent-emerald);
+
+  &.card-gold {
+    border-top-color: var(--accent-gold);
+  }
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--card-shadow-hover);
+    border-color: var(--accent-emerald);
+
+    &.card-gold {
+      border-color: var(--accent-gold);
+    }
+
+    .credential-icon-box {
+      transform: scale(1.1) rotate(5deg);
+      
+      &::after {
+        opacity: 0.2;
+      }
+    }
+  }
+
+  .credential-card-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .credential-icon-box {
+    color: var(--accent-emerald);
+    background-color: rgba(var(--accent-emerald-rgb), 0.08);
+    padding: 12px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: var(--transition-smooth);
+    position: relative;
+    
+    svg {
+      width: 28px;
+      height: 28px;
+    }
+
+    &::after {
+      content: '';
+      position: absolute;
+      inset: -4px;
+      border-radius: 16px;
+      background: radial-gradient(circle, rgba(var(--accent-emerald-rgb), 0.4) 0%, transparent 70%);
+      opacity: 0;
+      transition: var(--transition-smooth);
+    }
+  }
+
+  &.card-gold .credential-icon-box {
+    color: var(--accent-gold);
+    background-color: rgba(var(--accent-gold-rgb), 0.08);
+
+    &::after {
+      background: radial-gradient(circle, rgba(var(--accent-gold-rgb), 0.4) 0%, transparent 70%);
+    }
+  }
+
+  .credential-badge {
+    font-family: var(--font-headings);
+    font-size: 0.72rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    background-color: rgba(var(--accent-emerald-rgb), 0.08);
+    color: var(--accent-emerald);
+    border: 1px solid rgba(var(--accent-emerald-rgb), 0.15);
+    margin-top: 0.25rem;
+    display: inline-block;
+  }
+
+  &.card-gold .credential-badge {
+    background-color: rgba(var(--accent-gold-rgb), 0.08);
+    color: var(--accent-gold);
+    border-color: rgba(var(--accent-gold-rgb), 0.15);
+  }
+
+  .credential-title {
+    font-family: var(--font-headings);
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1.35;
+    margin: 0 0 0.5rem 0;
+    color: var(--text-primary);
+  }
+
+  .credential-institution {
+    font-family: var(--font-headings);
+    font-size: 0.88rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    margin-bottom: 1rem;
+    
+    strong {
+      color: var(--text-primary);
+      font-weight: 600;
+    }
+  }
+
+  .credential-description {
+    font-size: 0.92rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+    margin: 0;
+  }
+}
