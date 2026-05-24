@@ -146,7 +146,7 @@ permalink: /about/
         <div class="timeline-card glass-card card-gold">
           <div class="timeline-header">
             <div class="timeline-title-group">
-              <h3 class="timeline-position">Project Engineer (Mechanical &amp; Process)</h3>
+              <h3 class="timeline-position">Project Engineer</h3>
               <div class="timeline-company">Theilen Maschinenbau, Varel</div>
             </div>
             <span class="timeline-timerange">05/2014 &ndash; 11/2015</span>
@@ -191,7 +191,7 @@ permalink: /about/
         <div class="timeline-card glass-card card-gold">
           <div class="timeline-header">
             <div class="timeline-title-group">
-              <h3 class="timeline-position">Wave Energy Trainee</h3>
+              <h3 class="timeline-position">Trainee</h3>
               <div class="timeline-company">University of Victoria, B.C., Canada</div>
             </div>
             <span class="timeline-timerange">02/2013 &ndash; 03/2013</span>
@@ -204,13 +204,13 @@ permalink: /about/
         </div>
       </div>
 
-      <!-- Milestone 8: Fuel Cell EWE AG -->
+      <!-- Milestone 8: Technical Assistant -->
       <div class="timeline-item reveal-on-scroll" data-categories="mechanical">
         <div class="timeline-dot"></div>
         <div class="timeline-card glass-card card-gold">
           <div class="timeline-header">
             <div class="timeline-title-group">
-              <h3 class="timeline-position">Fuel Cell Technical Assistant</h3>
+              <h3 class="timeline-position">Technical Assistant</h3>
               <div class="timeline-company">EWE AG, Oldenburg</div>
             </div>
             <span class="timeline-timerange">06/2012 &ndash; 08/2012</span>
@@ -223,7 +223,7 @@ permalink: /about/
         </div>
       </div>
 
-      <!-- Milestone 9: Bachelor's Degree Jade University -->
+      <!-- Milestone 9: Bachelor's Degree -->
       <div class="timeline-item reveal-on-scroll" data-categories="mechanical">
         <div class="timeline-dot"></div>
         <div class="timeline-card glass-card card-gold">
@@ -249,13 +249,13 @@ permalink: /about/
         </div>
       </div>
 
-      <!-- Milestone 10: ISFH Hameln Trainee -->
+      <!-- Milestone 10: Practical Term -->
       <div class="timeline-item reveal-on-scroll" data-categories="mechanical">
         <div class="timeline-dot"></div>
         <div class="timeline-card glass-card card-gold">
           <div class="timeline-header">
             <div class="timeline-title-group">
-              <h3 class="timeline-position">Solar Geothermal Trainee</h3>
+              <h3 class="timeline-position">Trainee</h3>
               <div class="timeline-company">Institut für Solarenergieforschung, Hameln</div>
             </div>
             <span class="timeline-timerange">09/2010 &ndash; 02/2011</span>
@@ -268,20 +268,20 @@ permalink: /about/
         </div>
       </div>
 
-      <!-- Milestone 11: Exxon Mobil Trainee -->
+      <!-- Milestone 11: Trainee -->
       <div class="timeline-item reveal-on-scroll" data-categories="mechanical">
         <div class="timeline-dot"></div>
         <div class="timeline-card glass-card card-gold">
           <div class="timeline-header">
             <div class="timeline-title-group">
-              <h3 class="timeline-position">Mechanical Trainee</h3>
+              <h3 class="timeline-position">Mechanical and Electrical Trainee</h3>
               <div class="timeline-company">Exxon Mobil Production Deutschland GmbH</div>
             </div>
             <span class="timeline-timerange">06/2008 &ndash; 08/2008</span>
           </div>
           <div class="timeline-body">
             <p>
-              Acquired hands-on workshop experience in mechanical maintenance, precision machining, and industrial electronics alongside mechanical apprentices. This hands-on experience inspired me to pursue mechanical engineering at university.
+              Acquired hands-on workshop experience in mechanical and electrical maintenance, precision machining, and industrial electronics alongside mechanical and electrical apprentices. This hands-on experience inspired me to pursue mechanical engineering at university.
             </p>
           </div>
         </div>
