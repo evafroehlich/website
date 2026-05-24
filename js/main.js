@@ -159,15 +159,22 @@
         // Collapse all others
         document.querySelectorAll('.project-card-details').forEach(details => {
           details.style.maxHeight = '0px';
-          details.closest('.project-card').querySelector('.project-expand-btn').textContent = 'Learn More';
+          const otherBtn = details.closest('.project-card').querySelector('.project-expand-btn');
+          otherBtn.classList.remove('expanded');
+          const txtSpan = otherBtn.querySelector('.btn-text');
+          if (txtSpan) txtSpan.textContent = 'Learn More';
         });
 
         if (isCollapsed) {
           cardBody.style.maxHeight = cardBody.scrollHeight + 'px';
-          button.textContent = 'Collapse';
+          button.classList.add('expanded');
+          const txtSpan = button.querySelector('.btn-text');
+          if (txtSpan) txtSpan.textContent = 'Collapse';
         } else {
           cardBody.style.maxHeight = '0px';
-          button.textContent = 'Learn More';
+          button.classList.remove('expanded');
+          const txtSpan = button.querySelector('.btn-text');
+          if (txtSpan) txtSpan.textContent = 'Learn More';
         }
       });
     });

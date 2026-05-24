@@ -28,13 +28,15 @@
   }
 
   .hero-pretitle {
+    display: inline-block;
     font-family: var(--font-headings);
-    font-size: 0.95rem;
+    font-size: 0.92rem;
     font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.16em;
     color: var(--accent-emerald);
-    margin-bottom: 0.75rem;
+    margin-bottom: 1.15rem;
+    line-height: 1.2;
   }
 
   .hero-headline {
@@ -699,6 +701,22 @@
       cursor: pointer;
       color: var(--text-primary);
       transition: var(--transition-fast);
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+
+      .chevron-icon {
+        width: 12px;
+        height: 12px;
+        stroke: currentColor;
+        transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      }
+
+      &.expanded {
+        .chevron-icon {
+          transform: rotate(180deg);
+        }
+      }
 
       &:hover {
         background-color: var(--accent-emerald);

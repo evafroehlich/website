@@ -61,7 +61,12 @@ permalink: /projects/
         </div>
 
         <div class="project-footer">
-          <button class="project-expand-btn">Learn More</button>
+          <button class="project-expand-btn">
+            <span class="btn-text">Learn More</span>
+            <svg class="chevron-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
           <a target="_blank" href="https://www.krematorium-berlin.de/krematorium-baumschulenweg/" class="project-press-link">
             Crematory Website
             <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
@@ -116,7 +121,12 @@ permalink: /projects/
         </div>
 
         <div class="project-footer">
-          <button class="project-expand-btn">Learn More</button>
+          <button class="project-expand-btn">
+            <span class="btn-text">Learn More</span>
+            <svg class="chevron-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
           <a target="_blank" href="https://www.krematorium-berlin.de/krematorium-ruhleben/" class="project-press-link">
             Crematory Website
             <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
@@ -154,7 +164,12 @@ permalink: /projects/
         </div>
 
         <div class="project-footer">
-          <button class="project-expand-btn">Learn More</button>
+          <button class="project-expand-btn">
+            <span class="btn-text">Learn More</span>
+            <svg class="chevron-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
           <a target="_blank" href="https://berlinerstadtwerke.de/energieprojekte/quartier-buckower-felder/" class="project-press-link">
             Press Release
             <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
@@ -190,7 +205,12 @@ permalink: /projects/
         </div>
 
         <div class="project-footer">
-          <button class="project-expand-btn">Learn More</button>
+          <button class="project-expand-btn">
+            <span class="btn-text">Learn More</span>
+            <svg class="chevron-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
           <a target="_blank" href="https://berlinerstadtwerke.de/energieprojekte/quartier-haus-der-statistik/" class="project-press-link">
             Press Release 
             <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
@@ -242,7 +262,12 @@ permalink: /projects/
         </div>
 
         <div class="project-footer">
-          <button class="project-expand-btn">Learn More</button>
+          <button class="project-expand-btn">
+            <span class="btn-text">Learn More</span>
+            <svg class="chevron-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
           <a target="_blank" href="https://berlinerstadtwerke.de/presse/aufm-rollberg-und-drunter-zirkulaer-erzeugen-speichern-nutzen/" class="project-press-link">
             Press Release
             <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
@@ -292,7 +317,12 @@ permalink: /projects/
         </div>
 
         <div class="project-footer">
-          <button class="project-expand-btn">Learn More</button>
+          <button class="project-expand-btn">
+            <span class="btn-text">Learn More</span>
+            <svg class="chevron-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
           <a target="_blank" href="https://berlinerstadtwerke.de/presse/b-e-m-und-stadtwerke-modernisieren-polizeiwache/" class="project-press-link">
             Press Release
             <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
@@ -331,7 +361,12 @@ permalink: /projects/
         </div>
 
         <div class="project-footer">
-          <button class="project-expand-btn">Learn More</button>
+          <button class="project-expand-btn">
+            <span class="btn-text">Learn More</span>
+            <svg class="chevron-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
           <span class="project-tag">M.Sc. Thesis</span>
         </div>
       </div>
@@ -367,7 +402,12 @@ permalink: /projects/
         </div>
 
         <div class="project-footer">
-          <button class="project-expand-btn">Learn More</button>
+          <button class="project-expand-btn">
+            <span class="btn-text">Learn More</span>
+            <svg class="chevron-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
           <a target="_blank" href="https://www.uvic.ca/research/centres/iesvic/" class="project-press-link">
             IESVic UVic
             <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
@@ -406,7 +446,12 @@ permalink: /projects/
         </div>
 
         <div class="project-footer">
-          <button class="project-expand-btn">Learn More</button>
+          <button class="project-expand-btn">
+            <span class="btn-text">Learn More</span>
+            <svg class="chevron-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
           <span class="project-tag">B.Eng. Thesis</span>
         </div>
       </div>
@@ -442,7 +487,12 @@ permalink: /projects/
         </div>
 
         <div class="project-footer">
-          <button class="project-expand-btn">Learn More</button>
+          <button class="project-expand-btn">
+            <span class="btn-text">Learn More</span>
+            <svg class="chevron-icon" xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+          </button>
           <span class="project-tag">Theilen Maschinenbau</span>
         </div>
       </div>
