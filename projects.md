@@ -212,31 +212,43 @@ permalink: /projects/
     </div>
 
     <!-- Project 6: Friesenstraße Police Station -->
-    <div class="project-card glass-card reveal-on-scroll">
+    <div class="project-card glass-card reveal-on-scroll proj-gold">
       <div class="project-img-placeholder">
-        <span class="project-sector">Critical Infrastructure</span>
+        <span class="project-sector">Major Project &bull; Co-Lead</span>
       </div>
       <div class="project-content">
         <h3 class="project-title">Friesenstraße Police Headquarters</h3>
         <p class="project-description">
-          Modernizing critical, operational historical headquarters heating and cooling supply grids with high-efficiency systems.
+          Co-managed the entire engineering implementation and centralization of the heating system for the secure, operational historical police headquarters.
         </p>
         <div class="project-tags">
-          <span class="project-tag">Operations Security</span>
-          <span class="project-tag">Historical Protection</span>
-          <span class="project-tag">Hybrid Systems</span>
-          <span class="project-tag">BGB/VOB Legal</span>
+          <span class="project-tag">Co-Project Manager</span>
+          <span class="project-tag">Centralized Energy Grid</span>
+          <span class="project-tag">System Separation</span>
+          <span class="project-tag">Zero Downtime Operations</span>
         </div>
 
         <!-- Expandable details -->
         <div class="project-card-details">
           <div class="details-inner">
-            <h5>Key Contributions &amp; Scope:</h5>
-            <ul>
-              <li><strong>Operational Safeguards</strong>: Guaranteed uninterrupted heating and cooling functionality for emergency systems during mechanical construction phases.</li>
-              <li><strong>Preservation Code Compliance</strong>: Coordinated installations inside historical, heritage-protected building envelopes.</li>
-              <li><strong>Legal &amp; Claims Resolution</strong>: Managed supplier delay claims and verified material installations under strict contract law frameworks.</li>
-            </ul>
+            <h5 style="margin-bottom: 0.75rem;">STAR Case Study:</h5>
+            <div style="margin-bottom: 0.75rem;">
+              <strong style="color: var(--accent-emerald);">Situation:</strong> Outdated open heating and distribution networks caused frequent downtime across the massive operational police headquarters complex. If a single radiator broke, the entire building went cold, presenting severe security and comfort risks.
+            </div>
+            <div style="margin-bottom: 0.75rem;">
+              <strong style="color: var(--accent-emerald);">Task:</strong> Actively co-manage the complete design, centralized implementation, and system-separation modernizations to ensure full resilience and eliminate building-wide heating failures.
+            </div>
+            <div style="margin-bottom: 0.75rem;">
+              <strong style="color: var(--accent-emerald);">Action:</strong> 
+              <ul>
+                <li><strong>Technical Division:</strong> Personally directed the structural planning and physical construction of the new centralized main heating station on site, supporting my co-lead on the distribution networks and house station renewals with system separation.</li>
+                <li><strong>Operational Logistics:</strong> Aligned major street excavation pipelines with the police's 24/7 emergency response routes, ensuring emergency cars could always deploy without delay while opening streets for the distribution network.</li>
+                <li><strong>Stakeholder Alignment:</strong> Chaired all primary communications with the public client and supervised shared supplier contractors under VOB/B parameters.</li>
+              </ul>
+            </div>
+            <div style="margin-bottom: 0.5rem;">
+              <strong style="color: var(--accent-emerald);">Result:</strong> Delivered a fully modernized centralized heating grid with complete house system separations, yielding zero emergency dispatch delays, zero building-wide heat failures, and full operational security.
+            </div>
           </div>
         </div>
 
