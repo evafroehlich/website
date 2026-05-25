@@ -53,17 +53,38 @@ permalink: /about/
           </div>
           <div class="timeline-capabilities">
             <span class="capability-tag">Team Leadership</span>
-            <span class="capability-tag">Renewable Energy Systems</span>
-            <span class="capability-tag">Public-Sector Procurement (VOB)</span>
+            <span class="capability-tag">Infrastructure Delivery</span>
+            <span class="capability-tag">Public-Sector Projects</span>
+            <span class="capability-tag">Process Optimization</span>
             <span class="capability-tag">Stakeholder Coordination</span>
           </div>
           <div class="timeline-body">
             <p class="timeline-summary-text">
-              Directs a multidisciplinary engineering team focused on heating, cooling, and district network installations. Holds full administrative and strategic execution authority for large-scale municipal energy transformations.
+                  Leads a multidisciplinary project management team delivering complex renewable heating and cooling infrastructure projects across Berlin. Responsible for implementation governance, construction execution, commissioning coordination, operational transition, and cross-functional stakeholder alignment in highly regulated public-sector environments.
             </p>
             <div class="timeline-key-deliverables">
-              <div class="deliverables-title">Major Program Deliverables</div>
+              <div class="deliverables-title">Key Achievements</div>
               <ul class="deliverables-list">
+                <li>
+                  <strong>Infrastructure Leadership:</strong>
+                  Directs project delivery across public-sector infrastructure environments including police facilities, crematoriums, fire departments, schools, residential districts, and municipal properties ranging from kW-scale systems to multi-MW energy infrastructure.
+                </li>
+                <li>
+                  <strong>Team & Delivery Management:</strong>
+                  Leads a highly autonomous team of project managers overseeing construction supervision, commissioning, contractor coordination, operational handovers, procurement interfaces, and implementation governance across complex urban modernization projects.
+                </li>
+                <li>
+                  <strong>Process & Interface Optimization:</strong>
+                  Introduced standardized project reviews, lessons-learned formats, documentation structures, commissioning processes, and operational handover workflows to improve cross-departmental coordination and long-term project reliability.
+                </li>
+                <li>
+                  <strong>Operational Integration:</strong>
+                  Established and continuously improved transition structures between development, project execution, and technical operations teams to strengthen maintainability, operational readiness, and knowledge transfer.
+                </li>
+                <li>
+                  <strong>Strategic Stakeholder Coordination:</strong>
+                  Coordinates complex stakeholder environments involving public authorities, planners, grid operators, procurement, legal departments, contractors, and operational teams while balancing technical, commercial, and organizational requirements.
+                </li>
                 <li>
                   <strong>Crematory Modernisation:</strong> Successfully managed and executed the complete energy supply modernisation of two of Berlin's largest public utility crematorium facilities from initial planning to operational handover.
                 </li>
@@ -96,23 +117,36 @@ permalink: /about/
             </div>
           </div>
           <div class="timeline-capabilities">
-            <span class="capability-tag">Project Delivery</span>
-            <span class="capability-tag">Maintenance &amp; Operations</span>
-            <span class="capability-tag">Subsidy Management</span>
-            <span class="capability-tag">German Contracting</span>
+            <span class="capability-tag">Renewable Heating Systems</span>
+            <span class="capability-tag">Project Management</span>
+            <span class="capability-tag">Budget &amp; Schedule Control</span>
+            <span class="capability-tag">Stakeholder Management</span>
+            <span class="capability-tag">Operations Development</span>
           </div>
           <div class="timeline-body">
             <p class="timeline-summary-text">
-              Managed the development, construction and operations of renewable heating projects.
+              Independently managed complex heating and cooling infrastructure projects for public-sector and residential stakeholders, overseeing technical delivery, operational implementation, contractor coordination, and project governance.
             </p>
             <div class="timeline-key-deliverables highlight-gold">
-              <div class="deliverables-title">Major Program Deliverables</div>
+              <div class="deliverables-title">Key Achievements</div>
               <ul class="deliverables-list">
-                <li>
-                  <strong>Rollberg Quarter:</strong> Single-handedly managed the circular local energy grid for the <a href="{{ '/projects/' | relative_url }}#rollberg-quarter-berlin">Rollberg Quarter</a> from initial public tendering to final operational handover.
+            <li>
+              <strong>End-to-End Project Delivery:</strong>
+              Directed renewable heating and cooling projects independently across all project phases, including planning, implementation, stakeholder coordination, and operational handover.
+            </li>
+            <li>
+             <strong>Commercial & Schedule Management:</strong>
+            Maintained full responsibility for budget oversight, schedule control, contractor coordination, and communication with clients and external service providers.
+          </li>
+          <li>
+            <strong>Operations Infrastructure Development:</strong>
+            Established foundational structures for technical operations management and supported the implementation of project management software solutions for construction and infrastructure projects.
+          </li>
+          <li>
+                  <strong>Rollberg Quarter:</strong> Single-handedly managed the circular energy system for the <a href="{{ '/projects/' | relative_url }}#rollberg-quarter-berlin">Rollberg Quarter</a> from initial contract development to final operational handover.
                 </li>
                 <li>
-                  <strong>Police Headquarters:</strong> Optimized HVAC components and waste heat installations at the <a href="{{ '/projects/' | relative_url }}#friesenstrasse-police-headquarters">Friesenstraße Police Headquarters</a>.
+                  <strong>Police Headquarters:</strong> Implemented and centralized heating systems at the <a href="{{ '/projects/' | relative_url }}#friesenstrasse-police-headquarters">Friesenstraße Police Headquarters</a>.
                 </li>
               </ul>
             </div>
@@ -138,22 +172,25 @@ permalink: /about/
           </div>
           <div class="timeline-capabilities">
             <span class="capability-tag">Team Leadership</span>
-            <span class="capability-tag">CHP Plant Operations</span>
+            <span class="capability-tag">Project Management</span>
             <span class="capability-tag">Stakeholder Management</span>
-            <span class="capability-tag">Signatory Authority</span>
+            <span class="capability-tag">Energy Infrastructure</span>
+            <span class="capability-tag">Commercial Operations</span>
           </div>
           <div class="timeline-body">
             <p class="timeline-summary-text">
-              Led a multidisciplinary engineering and administrative team supplying housing complexes with heat and electrical power from decentralised CHP units.
+              Led the project department responsible for decentralized CHP infrastructure projects, combining technical project delivery, commercial oversight, customer management, and interdisciplinary team leadership.
             </p>
             <div class="timeline-key-deliverables">
               <div class="deliverables-title">Key Achievements</div>
               <ul class="deliverables-list">
                 <li>
-                  <strong>Process Optimization:</strong> Introduced modern management workflows and digital communication tools that optimized coordination and reduced overhead project costs.
+                  <strong>Department Leadership:</strong>
+                  Assumed disciplinary and technical leadership responsibility for the project department, coordinating engineering, commercial, and operational activities.
                 </li>
                 <li>
-                  <strong>Executive Mandate:</strong> Held sole project decision-making authority and project signatory authority (<em>Vertrauensvollmacht</em>).
+                  <strong>Commercial & Contract Management:</strong>
+                  Directed project cost control, economic assessments, customer contract negotiations, and supplier/service agreement procurement.
                 </li>
               </ul>
             </div>
@@ -178,23 +215,26 @@ permalink: /about/
             </div>
           </div>
           <div class="timeline-capabilities">
-            <span class="capability-tag">Energy Regulations</span>
-            <span class="capability-tag">Compliance Auditing</span>
-            <span class="capability-tag">Technical Maintenance</span>
             <span class="capability-tag">CHP Systems</span>
+            <span class="capability-tag">Technical Operations</span>
+            <span class="capability-tag">Regulatory Compliance</span>
+            <span class="capability-tag">Cost Control</span>
+            <span class="capability-tag">Contract Management</span>
           </div>
           <div class="timeline-body">
             <p class="timeline-summary-text">
-              Spearheaded technical maintenance optimisation and regulatory compliance for small to medium-scale Combined Heat and Power (CHP) plant projects.
+              Managed technical operations, modernization projects, and regulatory compliance activities for decentralized Combined Heat and Power (CHP) systems across residential and commercial portfolios.
             </p>
             <div class="timeline-key-deliverables highlight-gold">
               <div class="deliverables-title">Key Achievements</div>
               <ul class="deliverables-list">
                 <li>
-                  <strong>Regulatory Navigation:</strong> Managed complex German energy regulatory frameworks (EEG, KWKG, and EnEV) to ensure system operations remained compliant and financially optimised.
+                  <strong>Plant Modernisation:</strong>
+                  Planned and coordinated refurbishment and upgrade measures for CHP-based heating plants, including construction supervision and technical implementation support.
                 </li>
                 <li>
-                  <strong>Asset Reliability:</strong> Developed proactive technical maintenance frameworks that enhanced active CHP plant operations and reduced downtime.
+                  <strong>Operational Optimisation:</strong>
+                  Developed optimisation concepts for existing energy systems while monitoring operational costs, maintenance strategies, and technical performance.
                 </li>
               </ul>
             </div>
@@ -219,23 +259,25 @@ permalink: /about/
             </div>
           </div>
           <div class="timeline-capabilities">
-            <span class="capability-tag">Mechanical Design</span>
-            <span class="capability-tag">Stakeholder Management</span>
-            <span class="capability-tag">On-site Commissioning</span>
-            <span class="capability-tag">Manufacturer Coordination</span>
+            <span class="capability-tag">Project Coordination</span>
+            <span class="capability-tag">Cost Control</span>
+            <span class="capability-tag">Commissioning</span>
+            <span class="capability-tag">Supplier Management</span>
           </div>
           <div class="timeline-body">
             <p class="timeline-summary-text">
-              Designed and managed international, high-efficiency industrial drying machinery projects for the global chemical and food processing industries.
+                Contributed to the engineering and execution of industrial drying system projects for international chemical and food processing clients, combining technical coordination, supplier management, commissioning support, and project cost control.
             </p>
             <div class="timeline-key-deliverables highlight-gold">
               <div class="deliverables-title">Key Achievements</div>
               <ul class="deliverables-list">
                 <li>
-                  <strong>Systems Architecture:</strong> Championed mechanical system design, thermal modeling, fluid simulations, and precise cost estimations.
+                  <strong>System Engineering:</strong>
+                  Evaluated customer requirements and contributed to the technical design and sizing of industrial drying systems.
                 </li>
                 <li>
-                  <strong>Global Delivery:</strong> Coordinated manufacturer/supplier integrations and led on-site client commissioning for highly automated production lines.
+                  <strong>Commercial & Technical Coordination:</strong>
+                  Prepared quotations, supported cost calculations, and coordinated supplier inquiries between procurement and engineering teams.
                 </li>
               </ul>
             </div>
@@ -344,17 +386,24 @@ permalink: /about/
           <div class="timeline-capabilities">
             <span class="capability-tag">Data Analysis</span>
             <span class="capability-tag">Fuel Cell Cogeneration</span>
+            <span class="capability-tag">Energy System Evaluation</span>
+            <span class="capability-tag">Technical Reporting</span>
             <span class="capability-tag">National Innovation Program</span>
           </div>
           <div class="timeline-body">
             <p class="timeline-summary-text">
-              Contributed to the federal "Callux" project, a key part of Germany's National Innovation Program (NIP) for Hydrogen and Fuel Cell Technology.
+                  Supported Germany’s federally funded “Callux” demonstration project within the National Innovation Program (NIP) for Hydrogen and Fuel Cell Technology, focusing on operational data analysis, technical evaluation, and process documentation for residential fuel cell cogeneration systems.
             </p>
             <div class="timeline-key-deliverables highlight-gold">
               <div class="deliverables-title">Key Achievements</div>
               <ul class="deliverables-list">
                 <li>
-                  <strong>Performance Analytics:</strong> Processed, analysed, and synthesised long-term operational performance results from domestic fuel cell cogeneration heating systems.
+                  <strong>Performance Evaluation:</strong> 
+                  Collected, validated, and processed operational and energy performance data from field-tested fuel cell heating systems.
+                </li>
+                <li>
+                  <strong>Project Documentation:</strong> 
+                  Contributed to the final report for the first Callux demonstration phase and documented applied EWE field-test processes and methodologies.
                 </li>
               </ul>
             </div>
