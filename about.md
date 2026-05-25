@@ -52,14 +52,14 @@ permalink: /about/
             </div>
           </div>
           <div class="timeline-capabilities">
-            <span class="capability-tag">Department Leadership</span>
+            <span class="capability-tag">Team Leadership</span>
             <span class="capability-tag">Renewable Energy Systems</span>
             <span class="capability-tag">Public-Sector Procurement (VOB)</span>
             <span class="capability-tag">Stakeholder Coordination</span>
           </div>
           <div class="timeline-body">
             <p class="timeline-summary-text">
-              Directs a multidisciplinary engineering department focused on heating, cooling, and district network installations. Holds full administrative and strategic execution authority for large-scale municipal energy transformations.
+              Directs a multidisciplinary engineering team focused on heating, cooling, and district network installations. Holds full administrative and strategic execution authority for large-scale municipal energy transformations.
             </p>
             <div class="timeline-key-deliverables">
               <div class="deliverables-title">Major Program Deliverables</div>
@@ -97,13 +97,13 @@ permalink: /about/
           </div>
           <div class="timeline-capabilities">
             <span class="capability-tag">Project Delivery</span>
-            <span class="capability-tag">Industrial Maintenance</span>
+            <span class="capability-tag">Maintenance &amp; Operations</span>
             <span class="capability-tag">Subsidy Management</span>
-            <span class="capability-tag">German Contracting (VOB)</span>
+            <span class="capability-tag">German Contracting</span>
           </div>
           <div class="timeline-body">
             <p class="timeline-summary-text">
-              Managed the development, engineering, and construction of circular local energy grids, industrial waste heat recovery setups, and complex heating modernisations.
+              Managed the development, construction and operations of renewable heating projects.
             </p>
             <div class="timeline-key-deliverables highlight-gold">
               <div class="deliverables-title">Major Program Deliverables</div>
@@ -112,10 +112,7 @@ permalink: /about/
                   <strong>Rollberg Quarter:</strong> Single-handedly managed the circular local energy grid for the <a href="{{ '/projects/' | relative_url }}#rollberg-quarter-berlin">Rollberg Quarter</a> from initial public tendering to final operational handover.
                 </li>
                 <li>
-                  <strong>Subsidy Administration:</strong> Directed complex municipal environmental grant processes to secure state-funded subsidies, optimizing project viability.
-                </li>
-                <li>
-                  <strong>Police Headquarters:</strong> Optimized HVAC components and waste heat installations at the <a href="{{ '/projects/' | relative_url }}#friesenstrasse-police-headquarters">Friesenstraße Police Headquarters</a> under strict VOB guidelines.
+                  <strong>Police Headquarters:</strong> Optimized HVAC components and waste heat installations at the <a href="{{ '/projects/' | relative_url }}#friesenstrasse-police-headquarters">Friesenstraße Police Headquarters</a>.
                 </li>
               </ul>
             </div>
@@ -142,7 +139,7 @@ permalink: /about/
           <div class="timeline-capabilities">
             <span class="capability-tag">Team Leadership</span>
             <span class="capability-tag">CHP Plant Operations</span>
-            <span class="capability-tag">Process Digitisation</span>
+            <span class="capability-tag">Stakeholder Management</span>
             <span class="capability-tag">Signatory Authority</span>
           </div>
           <div class="timeline-body">
@@ -223,7 +220,7 @@ permalink: /about/
           </div>
           <div class="timeline-capabilities">
             <span class="capability-tag">Mechanical Design</span>
-            <span class="capability-tag">Thermal Modeling</span>
+            <span class="capability-tag">Stakeholder Management</span>
             <span class="capability-tag">On-site Commissioning</span>
             <span class="capability-tag">Manufacturer Coordination</span>
           </div>
@@ -263,8 +260,8 @@ permalink: /about/
             </div>
           </div>
           <div class="timeline-capabilities">
-            <span class="capability-tag">Wind Energy Systems</span>
-            <span class="capability-tag">Hydrogen Storage</span>
+            <span class="capability-tag">Renewable Energy Systems</span>
+            <span class="capability-tag">International Collaboration</span>
             <span class="capability-tag">Numerical Simulation</span>
             <span class="capability-tag">Energy Economics</span>
           </div>
@@ -345,9 +342,8 @@ permalink: /about/
             </div>
           </div>
           <div class="timeline-capabilities">
-            <span class="capability-tag">Data Synthesis</span>
+            <span class="capability-tag">Data Analysis</span>
             <span class="capability-tag">Fuel Cell Cogeneration</span>
-            <span class="capability-tag">Performance Analysis</span>
             <span class="capability-tag">National Innovation Program</span>
           </div>
           <div class="timeline-body">
@@ -384,7 +380,7 @@ permalink: /about/
           </div>
           <div class="timeline-capabilities">
             <span class="capability-tag">Mechanical Engineering</span>
-            <span class="capability-tag">HVAC Design</span>
+            <span class="capability-tag">HVAC</span>
             <span class="capability-tag">Solar Thermal Systems</span>
             <span class="capability-tag">Thermodynamics</span>
           </div>
@@ -424,20 +420,20 @@ permalink: /about/
             </div>
           </div>
           <div class="timeline-capabilities">
-            <span class="capability-tag">Geothermal Storage</span>
-            <span class="capability-tag">Prototype Assembly</span>
+            <span class="capability-tag">Seasonal Storage</span>
+            <span class="capability-tag">Prototype Installation</span>
             <span class="capability-tag">Sensor Calibration</span>
-            <span class="capability-tag">Data Log Analysis</span>
+            <span class="capability-tag">Data Analysis</span>
           </div>
           <div class="timeline-body">
             <p class="timeline-summary-text">
-              Contributed to the "KES" underground geothermal and solar seasonal energy storage project.
+              Contributed to the "KES" underground solar seasonal energy storage project.
             </p>
             <div class="timeline-key-deliverables highlight-gold">
               <div class="deliverables-title">Key Achievements</div>
               <ul class="deliverables-list">
                 <li>
-                  <strong>Prototype Integration:</strong> Supported assembly and sensor calibration of the geothermal prototype installed for residential heating, analysing operational test data patterns.
+                  <strong>Prototype Integration:</strong> Supported assembly and sensor calibration of the stoarge prototype installed for residential heating, analysing operational test data patterns.
                 </li>
               </ul>
             </div>
@@ -507,7 +503,7 @@ permalink: /about/
           </div>
           <div class="timeline-body">
             <p class="timeline-summary-text">
-              Spent nearly a year living, working, and traveling independently across New Zealand.
+              International work and travel experience across New Zealand.
             </p>
             <div class="timeline-key-deliverables">
               <div class="deliverables-title">Key Achievements</div>
