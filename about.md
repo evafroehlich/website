@@ -37,35 +37,43 @@ permalink: /about/
 
       <!-- Milestone 1: Team Leader Berliner Stadtwerke -->
       <div class="timeline-item reveal-on-scroll" data-categories="leadership pm">
-        <div class="timeline-dot"></div>
-        <div class="timeline-card glass-card">
-          <div class="timeline-header">
-            <div class="timeline-title-group">
+        <div class="timeline-axis-node"></div>
+        <div class="timeline-card">
+          <div class="timeline-card-header">
+            <div class="timeline-meta-left">
               <h3 class="timeline-position">Team Leader &amp; Project Manager</h3>
-              <div class="timeline-company">Berliner Stadtwerke KP GmbH, Berlin</div>
+              <div class="timeline-company-row">
+                <span class="company-name">Berliner Stadtwerke KP GmbH</span>
+                <span class="company-location">Berlin, Germany</span>
+              </div>
             </div>
-            <span class="timeline-timerange">01/2022 &ndash; Present</span>
+            <div class="timeline-meta-right">
+              <span class="timeline-date">01/2022 &ndash; Present</span>
+            </div>
+          </div>
+          <div class="timeline-capabilities">
+            <span class="capability-tag">Department Leadership</span>
+            <span class="capability-tag">Renewable Energy Systems</span>
+            <span class="capability-tag">Public-Sector Procurement (VOB)</span>
+            <span class="capability-tag">Stakeholder Coordination</span>
           </div>
           <div class="timeline-body">
-            <p style="margin-bottom: 0.75rem;">
-              <strong>Department Leadership:</strong> Leading a high-performing multidisciplinary department in "Implementation of Heating and Cooling Systems", fostering a progressive team culture built on trust, psychological safety, and self-organisation. Drawing on my extensive project management and subsidy administration experience, I continue to drive clean energy implementations, public contracting compliance, and executive decision-making for complex, team-led district networks.
+            <p class="timeline-summary-text">
+              Directs a multidisciplinary engineering department focused on heating, cooling, and district network installations. Holds full administrative and strategic execution authority for large-scale municipal energy transformations.
             </p>
-            <p style="margin-bottom: 1rem;">
-              <strong>Direct Individual Lead:</strong> Successfully designed, managed, and executed the complete energy supply modernisation of two of Berlin's largest public utility crematorium facilities from initial planning to operational handover.
-            </p>
-            <div class="timeline-highlight">
-              <div class="highlight-header">Key Department &amp; Team-Led Districts (Advisory):</div>
-              <div class="highlight-text">
-                • <a href="{{ '/projects/' | relative_url }}#quartier-buckower-felder-berlin">Quartier Buckower Felder, Berlin</a><br>
-                • <a href="{{ '/projects/' | relative_url }}#quartier-haus-der-statistik-berlin">Quartier Haus der Statistik, Berlin</a>
-              </div>
-            </div>
-            <div class="timeline-highlight highlight-gold" style="margin-top: 0.5rem;">
-              <div class="highlight-header">Major Individual Project Leads:</div>
-              <div class="highlight-text">
-                • <a href="{{ '/projects/' | relative_url }}#baumschulenweg-crematory-modernisation-berlin">Baumschulenweg Crematory Modernisation, Berlin</a><br>
-                • <a href="{{ '/projects/' | relative_url }}#ruhleben-crematory-modernisation-berlin">Ruhleben Crematory Modernisation, Berlin</a>
-              </div>
+            <div class="timeline-key-deliverables">
+              <div class="deliverables-title">Major Program Deliverables</div>
+              <ul class="deliverables-list">
+                <li>
+                  <strong>Crematory Modernisation:</strong> Successfully managed and executed the complete energy supply modernisation of two of Berlin's largest public utility crematorium facilities from initial planning to operational handover.
+                </li>
+                <li>
+                  <strong>District Infrastructure (Advisory):</strong> Overseeing clean energy implementation for major quarters: <a href="{{ '/projects/' | relative_url }}#quartier-buckower-felder-berlin">Quartier Buckower Felder</a> and <a href="{{ '/projects/' | relative_url }}#quartier-haus-der-statistik-berlin">Quartier Haus der Statistik</a>.
+                </li>
+                <li>
+                  <strong>Project Execution:</strong> Directing municipal modernisations at <a href="{{ '/projects/' | relative_url }}#baumschulenweg-crematory-modernisation-berlin">Baumschulenweg</a> and <a href="{{ '/projects/' | relative_url }}#ruhleben-crematory-modernisation-berlin">Ruhleben</a>.
+                </li>
+              </ul>
             </div>
           </div>
         </div>
@@ -73,30 +81,43 @@ permalink: /about/
 
       <!-- Milestone 2: PM Berliner Stadtwerke -->
       <div class="timeline-item reveal-on-scroll" data-categories="leadership pm mechanical">
-        <div class="timeline-dot"></div>
-        <div class="timeline-card glass-card card-gold">
-          <div class="timeline-header">
-            <div class="timeline-title-group">
+        <div class="timeline-axis-node"></div>
+        <div class="timeline-card card-gold">
+          <div class="timeline-card-header">
+            <div class="timeline-meta-left">
               <h3 class="timeline-position">Project Manager</h3>
-              <div class="timeline-company">Berliner Stadtwerke KP GmbH, Berlin</div>
+              <div class="timeline-company-row">
+                <span class="company-name">Berliner Stadtwerke KP GmbH</span>
+                <span class="company-location">Berlin, Germany</span>
+              </div>
             </div>
-            <span class="timeline-timerange">04/2019 &ndash; 12/2021</span>
+            <div class="timeline-meta-right">
+              <span class="timeline-date">04/2019 &ndash; 12/2021</span>
+            </div>
+          </div>
+          <div class="timeline-capabilities">
+            <span class="capability-tag">Project Delivery</span>
+            <span class="capability-tag">Industrial Maintenance</span>
+            <span class="capability-tag">Subsidy Management</span>
+            <span class="capability-tag">German Contracting (VOB)</span>
           </div>
           <div class="timeline-body">
-            <p style="margin-bottom: 0.75rem;">
-              <strong>Direct Individual Lead:</strong> Single-handedly managed the circular local energy grid for the <strong>Rollberg Quarter</strong> from initial contracting and public tendering, through engineering design and construction, to operational handover.
+            <p class="timeline-summary-text">
+              Managed the development, engineering, and construction of circular local energy grids, industrial waste heat recovery setups, and complex heating modernisations.
             </p>
-            <ul>
-              <li><strong>Subsidy Management:</strong> Directed complex municipal environmental grant applications and public funding processes to secure state-funded subsidies, ensuring project feasibility.</li>
-              <li><strong>Stakeholder Alignment:</strong> Managed cross-departmental coordination across public administrations, historic preservation departments, and industrial technical suppliers.</li>
-              <li><strong>Engineering Implementation:</strong> Modernised boilers, installed waste heat recovery systems, and optimised HVAC components, meeting strict German construction contracting guidelines (VOB).</li>
-            </ul>
-            <div class="timeline-highlight highlight-gold" style="margin-top: 0.5rem;">
-              <div class="highlight-header">Major Individual Project Leads:</div>
-              <div class="highlight-text">
-                • <a href="{{ '/projects/' | relative_url }}#rollberg-quarter-berlin">Rollberg Quarter, Berlin</a><br>
-                • <a href="{{ '/projects/' | relative_url }}#friesenstrasse-police-headquarters">Friesenstraße Police Headquarters</a>
-              </div>
+            <div class="timeline-key-deliverables highlight-gold">
+              <div class="deliverables-title">Major Program Deliverables</div>
+              <ul class="deliverables-list">
+                <li>
+                  <strong>Rollberg Quarter:</strong> Single-handedly managed the circular local energy grid for the <a href="{{ '/projects/' | relative_url }}#rollberg-quarter-berlin">Rollberg Quarter</a> from initial public tendering to final operational handover.
+                </li>
+                <li>
+                  <strong>Subsidy Administration:</strong> Directed complex municipal environmental grant processes to secure state-funded subsidies, optimizing project viability.
+                </li>
+                <li>
+                  <strong>Police Headquarters:</strong> Optimized HVAC components and waste heat installations at the <a href="{{ '/projects/' | relative_url }}#friesenstrasse-police-headquarters">Friesenstraße Police Headquarters</a> under strict VOB guidelines.
+                </li>
+              </ul>
             </div>
           </div>
         </div>
@@ -104,82 +125,163 @@ permalink: /about/
 
       <!-- Milestone 3: Project Leader beta GmbH -->
       <div class="timeline-item reveal-on-scroll" data-categories="leadership pm">
-        <div class="timeline-dot"></div>
-        <div class="timeline-card glass-card">
-          <div class="timeline-header">
-            <div class="timeline-title-group">
+        <div class="timeline-axis-node"></div>
+        <div class="timeline-card">
+          <div class="timeline-card-header">
+            <div class="timeline-meta-left">
               <h3 class="timeline-position">Project Leader</h3>
-              <div class="timeline-company">beta GmbH, Berlin</div>
+              <div class="timeline-company-row">
+                <span class="company-name">beta GmbH</span>
+                <span class="company-location">Berlin, Germany</span>
+              </div>
             </div>
-            <span class="timeline-timerange">11/2017 &ndash; 03/2019</span>
+            <div class="timeline-meta-right">
+              <span class="timeline-date">11/2017 &ndash; 03/2019</span>
+            </div>
+          </div>
+          <div class="timeline-capabilities">
+            <span class="capability-tag">Team Leadership</span>
+            <span class="capability-tag">CHP Plant Operations</span>
+            <span class="capability-tag">Process Digitisation</span>
+            <span class="capability-tag">Signatory Authority</span>
           </div>
           <div class="timeline-body">
-            <p>
-              Led a multidisciplinary engineering and administrative team supplying housing complexes with heat and electrical power from decentralised CHP units. Introduced modern management workflows and digital communication tools that optimised cross-departmental communication and significantly reduced overhead project costs. Held project decision-making authority and sole project signatory authority (<em>Vertrauensvollmacht</em>).
+            <p class="timeline-summary-text">
+              Led a multidisciplinary engineering and administrative team supplying housing complexes with heat and electrical power from decentralised CHP units.
             </p>
+            <div class="timeline-key-deliverables">
+              <div class="deliverables-title">Key Achievements</div>
+              <ul class="deliverables-list">
+                <li>
+                  <strong>Process Optimization:</strong> Introduced modern management workflows and digital communication tools that optimized coordination and reduced overhead project costs.
+                </li>
+                <li>
+                  <strong>Executive Mandate:</strong> Held sole project decision-making authority and project signatory authority (<em>Vertrauensvollmacht</em>).
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
 
       <!-- Milestone 4: Project Engineer beta GmbH -->
       <div class="timeline-item reveal-on-scroll" data-categories="mechanical">
-        <div class="timeline-dot"></div>
-        <div class="timeline-card glass-card card-gold">
-          <div class="timeline-header">
-            <div class="timeline-title-group">
+        <div class="timeline-axis-node"></div>
+        <div class="timeline-card card-gold">
+          <div class="timeline-card-header">
+            <div class="timeline-meta-left">
               <h3 class="timeline-position">Project Engineer</h3>
-              <div class="timeline-company">beta GmbH, Berlin</div>
+              <div class="timeline-company-row">
+                <span class="company-name">beta GmbH</span>
+                <span class="company-location">Berlin, Germany</span>
+              </div>
             </div>
-            <span class="timeline-timerange">12/2015 &ndash; 10/2017</span>
+            <div class="timeline-meta-right">
+              <span class="timeline-date">12/2015 &ndash; 10/2017</span>
+            </div>
+          </div>
+          <div class="timeline-capabilities">
+            <span class="capability-tag">Energy Regulations</span>
+            <span class="capability-tag">Compliance Auditing</span>
+            <span class="capability-tag">Technical Maintenance</span>
+            <span class="capability-tag">CHP Systems</span>
           </div>
           <div class="timeline-body">
-            <p>
-              Spearheaded technical maintenance optimisation and regulatory compliance for small to medium-scale CHP plant projects. Managed complex German energy regulatory frameworks (including German energy regulations such as the Renewable Energy Sources Act [EEG], Cogeneration Act [KWKG], and Energy Saving Ordinance [EnEV]) to ensure system operations remained fully compliant and financially optimised.
+            <p class="timeline-summary-text">
+              Spearheaded technical maintenance optimisation and regulatory compliance for small to medium-scale Combined Heat and Power (CHP) plant projects.
             </p>
+            <div class="timeline-key-deliverables highlight-gold">
+              <div class="deliverables-title">Key Achievements</div>
+              <ul class="deliverables-list">
+                <li>
+                  <strong>Regulatory Navigation:</strong> Managed complex German energy regulatory frameworks (EEG, KWKG, and EnEV) to ensure system operations remained compliant and financially optimised.
+                </li>
+                <li>
+                  <strong>Asset Reliability:</strong> Developed proactive technical maintenance frameworks that enhanced active CHP plant operations and reduced downtime.
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
 
       <!-- Milestone 5: Project Engineer Theilen -->
       <div class="timeline-item reveal-on-scroll" data-categories="mechanical">
-        <div class="timeline-dot"></div>
-        <div class="timeline-card glass-card card-gold">
-          <div class="timeline-header">
-            <div class="timeline-title-group">
+        <div class="timeline-axis-node"></div>
+        <div class="timeline-card card-gold">
+          <div class="timeline-card-header">
+            <div class="timeline-meta-left">
               <h3 class="timeline-position">Project Engineer</h3>
-              <div class="timeline-company">Theilen Maschinenbau, Varel</div>
+              <div class="timeline-company-row">
+                <span class="company-name">Theilen Maschinenbau</span>
+                <span class="company-location">Varel, Germany</span>
+              </div>
             </div>
-            <span class="timeline-timerange">05/2014 &ndash; 11/2015</span>
+            <div class="timeline-meta-right">
+              <span class="timeline-date">05/2014 &ndash; 11/2015</span>
+            </div>
+          </div>
+          <div class="timeline-capabilities">
+            <span class="capability-tag">Mechanical Design</span>
+            <span class="capability-tag">Thermal Modeling</span>
+            <span class="capability-tag">On-site Commissioning</span>
+            <span class="capability-tag">Manufacturer Coordination</span>
           </div>
           <div class="timeline-body">
-            <p>
-              Designed and managed international, high-efficiency industrial drying machinery projects for the global chemical and food processing industries. Championed mechanical system architecture, thermal modeling and simulations, cost estimation, manufacturer/supplier coordination, and on-site client commissioning. Applied energy efficiency methodologies directly into production lines.
+            <p class="timeline-summary-text">
+              Designed and managed international, high-efficiency industrial drying machinery projects for the global chemical and food processing industries.
             </p>
+            <div class="timeline-key-deliverables highlight-gold">
+              <div class="deliverables-title">Key Achievements</div>
+              <ul class="deliverables-list">
+                <li>
+                  <strong>Systems Architecture:</strong> Championed mechanical system design, thermal modeling, fluid simulations, and precise cost estimations.
+                </li>
+                <li>
+                  <strong>Global Delivery:</strong> Coordinated manufacturer/supplier integrations and led on-site client commissioning for highly automated production lines.
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
 
       <!-- Milestone 6: Master's Degree University of Oldenburg -->
       <div class="timeline-item reveal-on-scroll" data-categories="mechanical">
-        <div class="timeline-dot"></div>
-        <div class="timeline-card glass-card card-gold">
-          <div class="timeline-header">
-            <div class="timeline-title-group">
+        <div class="timeline-axis-node"></div>
+        <div class="timeline-card card-gold">
+          <div class="timeline-card-header">
+            <div class="timeline-meta-left">
               <h3 class="timeline-position">M.Sc. in Renewable Energy Systems</h3>
-              <div class="timeline-company">Carl von Ossietzky University of Oldenburg</div>
+              <div class="timeline-company-row">
+                <span class="company-name">Carl von Ossietzky University of Oldenburg</span>
+                <span class="company-location">Oldenburg, Germany</span>
+              </div>
             </div>
-            <span class="timeline-timerange">10/2012 &ndash; 03/2014</span>
+            <div class="timeline-meta-right">
+              <span class="timeline-date">10/2012 &ndash; 03/2014</span>
+            </div>
+          </div>
+          <div class="timeline-capabilities">
+            <span class="capability-tag">Wind Energy Systems</span>
+            <span class="capability-tag">Hydrogen Storage</span>
+            <span class="capability-tag">Numerical Simulation</span>
+            <span class="capability-tag">Energy Economics</span>
           </div>
           <div class="timeline-body">
-            <p>
-              Advanced postgraduate training specialising in wind systems, power forecasts, grid integrations, and energy economics. Graduated with a final M.Sc. grade of 1.70 (German scale, equivalent to "Very Good").
+            <p class="timeline-summary-text">
+              Completed advanced postgraduate training specialising in wind systems, power forecasts, grid integrations, and energy economics. Graduated with a final M.Sc. grade of 1.70 (equivalent to "Very Good").
             </p>
-            <div class="timeline-highlight highlight-gold">
-              <div class="highlight-header">Master's Thesis (M.Sc.):</div>
-              <div class="highlight-text">
-                <strong>Topic:</strong> “Study of a Wind-Hydrogen Storage System: Analysing Technological Configurations and Wind Power Predictions”<br>
-                Developed a dynamic predictive simulation model in MATLAB at overspeed GmbH. Modelled the operational behaviour of industrial-scale <strong>water electrolysis</strong> systems, hydrogen storage configurations, and fuel cells to match wind energy exceedance probabilities (P90, P50, and P10 forecasts) for grid integration in Victoria and New South Wales, Australia.
-              </div>
+            <div class="timeline-key-deliverables highlight-gold">
+              <div class="deliverables-title">Master's Thesis Research</div>
+              <ul class="deliverables-list">
+                <li>
+                  <strong>MATLAB Simulation:</strong> Developed a dynamic predictive simulation model of a wind-hydrogen storage system at overspeed GmbH, assessing the operational behaviour of industrial-scale water electrolysis systems.
+                </li>
+                <li>
+                  <strong>Grid Integration:</strong> Modelled hydrogen configurations and fuel cells to match wind power predictions (P90, P50, and P10 forecasts) for electrical grid integration in Victoria and New South Wales, Australia.
+                </li>
+              </ul>
             </div>
           </div>
         </div>
@@ -187,63 +289,119 @@ permalink: /about/
 
       <!-- Milestone 7: Canada Wave Stay -->
       <div class="timeline-item reveal-on-scroll" data-categories="mechanical international">
-        <div class="timeline-dot"></div>
-        <div class="timeline-card glass-card card-gold">
-          <div class="timeline-header">
-            <div class="timeline-title-group">
+        <div class="timeline-axis-node"></div>
+        <div class="timeline-card card-gold">
+          <div class="timeline-card-header">
+            <div class="timeline-meta-left">
               <h3 class="timeline-position">Trainee</h3>
-              <div class="timeline-company">University of Victoria, B.C., Canada</div>
+              <div class="timeline-company-row">
+                <span class="company-name">University of Victoria</span>
+                <span class="company-location">B.C., Canada</span>
+              </div>
             </div>
-            <span class="timeline-timerange">02/2013 &ndash; 03/2013</span>
+            <div class="timeline-meta-right">
+              <span class="timeline-date">02/2013 &ndash; 03/2013</span>
+            </div>
+          </div>
+          <div class="timeline-capabilities">
+            <span class="capability-tag">Wave Energy converters</span>
+            <span class="capability-tag">Simulink Modeling</span>
+            <span class="capability-tag">Offshore Operations</span>
+            <span class="capability-tag">Intercultural Collaboration</span>
           </div>
           <div class="timeline-body">
-            <p>
-              Collaborated with the <strong>West Coast Wave Initiative (WCWI)</strong> at the Institute for Integrated Energy Systems (IESVic). Developed a custom MATLAB/Simulink mathematical simulation model of a single-motion wave energy converter featuring a hydraulic power take-off (PTO) unit. Participated in the marine offshore deployment of the wave energy converter buoy off the coast of British Columbia.
+            <p class="timeline-summary-text">
+              Collaborated with the West Coast Wave Initiative (WCWI) at the Institute for Integrated Energy Systems (IESVic) on marine offshore renewable research.
             </p>
+            <div class="timeline-key-deliverables highlight-gold">
+              <div class="deliverables-title">Key Achievements</div>
+              <ul class="deliverables-list">
+                <li>
+                  <strong>PTO Modeling:</strong> Developed a custom mathematical simulation model of a wave energy converter featuring a hydraulic power take-off (PTO) unit.
+                </li>
+                <li>
+                  <strong>Offshore Deployment:</strong> Participated directly in the marine offshore deployment of the wave energy converter buoy off the Pacific coast of British Columbia.
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
 
       <!-- Milestone 8: Technical Assistant -->
       <div class="timeline-item reveal-on-scroll" data-categories="mechanical">
-        <div class="timeline-dot"></div>
-        <div class="timeline-card glass-card card-gold">
-          <div class="timeline-header">
-            <div class="timeline-title-group">
+        <div class="timeline-axis-node"></div>
+        <div class="timeline-card card-gold">
+          <div class="timeline-card-header">
+            <div class="timeline-meta-left">
               <h3 class="timeline-position">Technical Assistant</h3>
-              <div class="timeline-company">EWE AG, Oldenburg</div>
+              <div class="timeline-company-row">
+                <span class="company-name">EWE AG</span>
+                <span class="company-location">Oldenburg, Germany</span>
+              </div>
             </div>
-            <span class="timeline-timerange">06/2012 &ndash; 08/2012</span>
+            <div class="timeline-meta-right">
+              <span class="timeline-date">06/2012 &ndash; 08/2012</span>
+            </div>
+          </div>
+          <div class="timeline-capabilities">
+            <span class="capability-tag">Data Synthesis</span>
+            <span class="capability-tag">Fuel Cell Cogeneration</span>
+            <span class="capability-tag">Performance Analysis</span>
+            <span class="capability-tag">National Innovation Program</span>
           </div>
           <div class="timeline-body">
-            <p>
-              Contributed to the federal “Callux” project, a key part of Germany's National Innovation Program (NIP) for Hydrogen and Fuel Cell Technology. Focused on processing, analysing, and synthesising long-term operational performance results from domestic fuel cell cogeneration heating systems.
+            <p class="timeline-summary-text">
+              Contributed to the federal "Callux" project, a key part of Germany's National Innovation Program (NIP) for Hydrogen and Fuel Cell Technology.
             </p>
+            <div class="timeline-key-deliverables highlight-gold">
+              <div class="deliverables-title">Key Achievements</div>
+              <ul class="deliverables-list">
+                <li>
+                  <strong>Performance Analytics:</strong> Processed, analysed, and synthesised long-term operational performance results from domestic fuel cell cogeneration heating systems.
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
 
       <!-- Milestone 9: Bachelor's Degree -->
       <div class="timeline-item reveal-on-scroll" data-categories="mechanical">
-        <div class="timeline-dot"></div>
-        <div class="timeline-card glass-card card-gold">
-          <div class="timeline-header">
-            <div class="timeline-title-group">
+        <div class="timeline-axis-node"></div>
+        <div class="timeline-card card-gold">
+          <div class="timeline-card-header">
+            <div class="timeline-meta-left">
               <h3 class="timeline-position">B.Eng. in Mechanical Engineering</h3>
-              <div class="timeline-company">Jade University of Applied Sciences, Wilhelmshaven</div>
+              <div class="timeline-company-row">
+                <span class="company-name">Jade University of Applied Sciences</span>
+                <span class="company-location">Wilhelmshaven, Germany</span>
+              </div>
             </div>
-            <span class="timeline-timerange">09/2008 &ndash; 03/2012</span>
+            <div class="timeline-meta-right">
+              <span class="timeline-date">09/2008 &ndash; 03/2012</span>
+            </div>
+          </div>
+          <div class="timeline-capabilities">
+            <span class="capability-tag">Mechanical Engineering</span>
+            <span class="capability-tag">HVAC Design</span>
+            <span class="capability-tag">Solar Thermal Systems</span>
+            <span class="capability-tag">Thermodynamics</span>
           </div>
           <div class="timeline-body">
-            <p>
-              Acquired fundamental mechanical engineering principles, specialising in HVAC design, solar thermal structures, and thermodynamics. Graduated with a final B.Eng. grade of 1.83 (German scale, equivalent to "Very Good").
+            <p class="timeline-summary-text">
+              Acquired fundamental mechanical engineering principles, specialising in HVAC design, solar thermal structures, and thermodynamics. Graduated with a final B.Eng. grade of 1.83 (equivalent to "Very Good").
             </p>
-            <div class="timeline-highlight highlight-gold">
-              <div class="highlight-header">Bachelor's Thesis (B.Eng.):</div>
-              <div class="highlight-text">
-                <strong>Topic:</strong> “Temperature load and heat loss of highly efficient, insulated-glazed flat-plate collectors”<br>
-                Conducted durability and heat transmission research on solar collector edge seal materials at the Institute for Solar Energy Research (ISFH Hameln), and performed long-term thermal simulations using the <strong>Heat2</strong> thermal analysis engine to model European climate thermal stress durations.
-              </div>
+            <div class="timeline-key-deliverables highlight-gold">
+              <div class="deliverables-title">Bachelor's Thesis Research</div>
+              <ul class="deliverables-list">
+                <li>
+                  <strong>Solar Research:</strong> Conducted durability and heat transmission research on flat-plate collectors at the Institute for Solar Energy Research (ISFH Hameln).
+                </li>
+                <li>
+                  <strong>Finite-Element Simulation:</strong> Performed long-term thermal simulations using the Heat2 analysis engine to model European climate thermal stress durations.
+                </li>
+              </ul>
             </div>
           </div>
         </div>
@@ -251,57 +409,114 @@ permalink: /about/
 
       <!-- Milestone 10: Practical Term -->
       <div class="timeline-item reveal-on-scroll" data-categories="mechanical">
-        <div class="timeline-dot"></div>
-        <div class="timeline-card glass-card card-gold">
-          <div class="timeline-header">
-            <div class="timeline-title-group">
+        <div class="timeline-axis-node"></div>
+        <div class="timeline-card card-gold">
+          <div class="timeline-card-header">
+            <div class="timeline-meta-left">
               <h3 class="timeline-position">Trainee</h3>
-              <div class="timeline-company">Institut für Solarenergieforschung, Hameln</div>
+              <div class="timeline-company-row">
+                <span class="company-name">Institut für Solarenergieforschung</span>
+                <span class="company-location">Hameln, Germany</span>
+              </div>
             </div>
-            <span class="timeline-timerange">09/2010 &ndash; 02/2011</span>
+            <div class="timeline-meta-right">
+              <span class="timeline-date">09/2010 &ndash; 02/2011</span>
+            </div>
+          </div>
+          <div class="timeline-capabilities">
+            <span class="capability-tag">Geothermal Storage</span>
+            <span class="capability-tag">Prototype Assembly</span>
+            <span class="capability-tag">Sensor Calibration</span>
+            <span class="capability-tag">Data Log Analysis</span>
           </div>
           <div class="timeline-body">
-            <p>
-              Contributed to the "KES" underground geothermal and solar seasonal energy storage project. Analysed operational test data patterns and supported the assembly/calibration of the geothermal prototype installed for residential heating.
+            <p class="timeline-summary-text">
+              Contributed to the "KES" underground geothermal and solar seasonal energy storage project.
             </p>
+            <div class="timeline-key-deliverables highlight-gold">
+              <div class="deliverables-title">Key Achievements</div>
+              <ul class="deliverables-list">
+                <li>
+                  <strong>Prototype Integration:</strong> Supported assembly and sensor calibration of the geothermal prototype installed for residential heating, analysing operational test data patterns.
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
 
       <!-- Milestone 11: Trainee -->
       <div class="timeline-item reveal-on-scroll" data-categories="mechanical">
-        <div class="timeline-dot"></div>
-        <div class="timeline-card glass-card card-gold">
-          <div class="timeline-header">
-            <div class="timeline-title-group">
+        <div class="timeline-axis-node"></div>
+        <div class="timeline-card card-gold">
+          <div class="timeline-card-header">
+            <div class="timeline-meta-left">
               <h3 class="timeline-position">Mechanical and Electrical Trainee</h3>
-              <div class="timeline-company">Exxon Mobil Production Deutschland GmbH</div>
+              <div class="timeline-company-row">
+                <span class="company-name">Exxon Mobil Production Deutschland GmbH</span>
+                <span class="company-location">Germany</span>
+              </div>
             </div>
-            <span class="timeline-timerange">06/2008 &ndash; 08/2008</span>
+            <div class="timeline-meta-right">
+              <span class="timeline-date">06/2008 &ndash; 08/2008</span>
+            </div>
+          </div>
+          <div class="timeline-capabilities">
+            <span class="capability-tag">Machining</span>
+            <span class="capability-tag">Industrial Electronics</span>
+            <span class="capability-tag">Maintenance Operations</span>
+            <span class="capability-tag">Hands-on Apprenticeship</span>
           </div>
           <div class="timeline-body">
-            <p>
-              Acquired hands-on workshop experience in mechanical and electrical maintenance, precision machining, and industrial electronics alongside mechanical and electrical apprentices. This hands-on experience inspired me to pursue mechanical engineering at university.
+            <p class="timeline-summary-text">
+              Acquired hands-on workshop experience in mechanical and electrical maintenance, precision machining, and industrial electronics alongside professional apprentices.
             </p>
+            <div class="timeline-key-deliverables highlight-gold">
+              <div class="deliverables-title">Key Achievements</div>
+              <ul class="deliverables-list">
+                <li>
+                  <strong>Technical Grounding:</strong> Mastered fundamental maintenance workflows and precision workshop operations, directly inspiring my university path in mechanical engineering.
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
 
       <!-- Milestone 12: New Zealand Work & Travel -->
       <div class="timeline-item reveal-on-scroll" data-categories="international">
-        <div class="timeline-dot"></div>
-        <div class="timeline-card glass-card">
-          <div class="timeline-header">
-            <div class="timeline-title-group">
+        <div class="timeline-axis-node"></div>
+        <div class="timeline-card">
+          <div class="timeline-card-header">
+            <div class="timeline-meta-left">
               <h3 class="timeline-position">Work &amp; Travel Stay</h3>
-              <div class="timeline-company">New Zealand</div>
+              <div class="timeline-company-row">
+                <span class="company-name">New Zealand</span>
+                <span class="company-location">Oceania</span>
+              </div>
             </div>
-            <span class="timeline-timerange">07/2007 &ndash; 04/2008</span>
+            <div class="timeline-meta-right">
+              <span class="timeline-date">07/2007 &ndash; 04/2008</span>
+            </div>
+          </div>
+          <div class="timeline-capabilities">
+            <span class="capability-tag">Intercultural Communication</span>
+            <span class="capability-tag">Adaptability</span>
+            <span class="capability-tag">Global Perspectives</span>
+            <span class="capability-tag">Personal Autonomy</span>
           </div>
           <div class="timeline-body">
-            <p>
-              Spent nearly a year living, working, and traveling across New Zealand, developing adaptability, global perspectives, and intercultural communication skills.
+            <p class="timeline-summary-text">
+              Spent nearly a year living, working, and traveling independently across New Zealand.
             </p>
+            <div class="timeline-key-deliverables">
+              <div class="deliverables-title">Key Achievements</div>
+              <ul class="deliverables-list">
+                <li>
+                  <strong>Global Maturity:</strong> Developed strong adaptability, open global perspectives, and solid intercultural communication skills in dynamic, non-native environments.
+                </li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
