@@ -13,6 +13,26 @@
       <a href="{{ '/projects/' | relative_url }}" class="nav-item">Projects</a>
       <a href="{{ '/contact/' | relative_url }}" class="nav-item">Contact</a>
       
+      <span class="nav-spacer-line"></span>
+
+      <!-- Integrated CV EN/DE Pill -->
+      <div class="nav-cv-pill">
+        <span class="pill-label" title="Download CV">
+          <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="pill-icon"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+          <span>CV</span>
+        </span>
+        <a href="{{ '/assets/cv/eva-ernst-cv-en.pdf' | relative_url }}" class="pill-link" download aria-label="Download CV in English">EN</a>
+        <span class="pill-divider">|</span>
+        <a href="{{ '/assets/cv/eva-ernst-cv-de.pdf' | relative_url }}" class="pill-link" download aria-label="Download CV in German">DE</a>
+      </div>
+
+      <!-- LinkedIn Icon Link -->
+      <a class="nav-linkedin-link" href="https://www.linkedin.com/in/eva-christin-e-61598abb/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile">
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor">
+          <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.779-1.75-1.75s.784-1.75 1.75-1.75 1.75.779 1.75 1.75-.784 1.75-1.75 1.75zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+        </svg>
+      </a>
+      
       <!-- Theme Switcher Button -->
       <button id="theme-toggle-btn" aria-label="Toggle light/dark theme" title="Toggle theme">
         <!-- Moon Icon (Dark Mode Trigger) -->
@@ -67,6 +87,27 @@
       <a href="{{ '/about/' | relative_url }}" class="mobile-nav-item">About</a>
       <a href="{{ '/projects/' | relative_url }}" class="mobile-nav-item">Projects</a>
       <a href="{{ '/contact/' | relative_url }}" class="mobile-nav-item">Contact</a>
+      
+      <div class="mobile-nav-utilities">
+        <!-- Integrated CV EN/DE Pill -->
+        <div class="nav-cv-pill">
+          <span class="pill-label" title="Download CV">
+            <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" class="pill-icon"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+            <span>CV</span>
+          </span>
+          <a href="{{ '/assets/cv/eva-ernst-cv-en.pdf' | relative_url }}" class="pill-link" download aria-label="Download CV in English">EN</a>
+          <span class="pill-divider">|</span>
+          <a href="{{ '/assets/cv/eva-ernst-cv-de.pdf' | relative_url }}" class="pill-link" download aria-label="Download CV in German">DE</a>
+        </div>
+
+        <!-- LinkedIn Icon Link -->
+        <a class="nav-linkedin-link" href="https://www.linkedin.com/in/eva-christin-e-61598abb/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile">
+          <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor">
+            <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.779-1.75-1.75s.784-1.75 1.75-1.75 1.75.779 1.75 1.75-.784 1.75-1.75 1.75zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+          </svg>
+          <span>LinkedIn</span>
+        </a>
+      </div>
     </nav>
   </div>
 </header>

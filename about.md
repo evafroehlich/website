@@ -60,7 +60,7 @@ permalink: /about/
           </div>
           <div class="timeline-body">
             <p class="timeline-summary-text">
-                  Leads a multidisciplinary project management team delivering complex renewable heating and cooling infrastructure projects across Berlin. Responsible for implementation governance, construction execution, commissioning coordination, operational transition, and cross-functional stakeholder alignment in highly regulated public-sector environments.
+                  Leads a project management team delivering complex renewable heating and cooling infrastructure projects across Berlin. Responsible for implementation governance, construction execution, commissioning coordination, operational transition, and cross-functional stakeholder alignment in highly regulated public-sector environments.
             </p>
             <div class="timeline-key-deliverables">
               <div class="deliverables-title">Key Achievements</div>
@@ -326,13 +326,12 @@ permalink: /about/
         </div>
       </div>
 
-      <!-- Milestone 7: Canada Wave Stay -->
-      <div class="timeline-item reveal-on-scroll" data-categories="mechanical international">
+        <div class="timeline-item reveal-on-scroll" data-categories="mechanical international">
         <div class="timeline-axis-node"></div>
         <div class="timeline-card card-gold">
           <div class="timeline-card-header">
             <div class="timeline-meta-left">
-              <h3 class="timeline-position">Trainee</h3>
+              <h3 class="timeline-position">Visiting Research Trainee</h3>
               <div class="timeline-company-row">
                 <span class="company-name">University of Victoria</span>
                 <span class="company-location">B.C., Canada</span>
@@ -458,7 +457,7 @@ permalink: /about/
         <div class="timeline-card card-gold">
           <div class="timeline-card-header">
             <div class="timeline-meta-left">
-              <h3 class="timeline-position">Trainee</h3>
+              <h3 class="timeline-position">Practical Semester &mdash; Research Placement</h3>
               <div class="timeline-company-row">
                 <span class="company-name">Institut für Solarenergieforschung</span>
                 <span class="company-location">Hameln, Germany</span>
@@ -591,8 +590,8 @@ permalink: /about/
         </p>
       </div>
 
-      <!-- Credential: ChatGPT & AI in Project Management -->
-      <div class="credential-card reveal-on-scroll" data-categories="leadership pm">
+      <!-- Credential: ChatGPT & AI in Project Management (Gold Accent) -->
+      <div class="credential-card card-gold reveal-on-scroll" data-categories="leadership mechanical">
         <div class="credential-card-header">
           <div class="credential-icon-box">
             <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -617,8 +616,8 @@ permalink: /about/
         </p>
       </div>
 
-      <!-- Credential 1: Time, Self & Stress Management -->
-      <div class="credential-card reveal-on-scroll" data-categories="leadership pm">
+      <!-- Credential: Time, Self & Stress Management -->
+      <div class="credential-card reveal-on-scroll" data-categories="leadership">
         <div class="credential-card-header">
           <div class="credential-icon-box">
             <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -635,7 +634,7 @@ permalink: /about/
         </p>
       </div>
 
-      <!-- Credential 2: Leading with Values -->
+      <!-- Credential: Leading with Values -->
       <div class="credential-card reveal-on-scroll" data-categories="leadership">
         <div class="credential-card-header">
           <div class="credential-icon-box">
@@ -653,8 +652,8 @@ permalink: /about/
         </p>
       </div>
 
-      <!-- Credential: Developing, Implementing, and Measuring Target Processes -->
-      <div class="credential-card reveal-on-scroll" data-categories="leadership pm">
+      <!-- Credential: Developing, Implementing, and Measuring Target Processes (Gold Accent) -->
+      <div class="credential-card card-gold reveal-on-scroll" data-categories="leadership mechanical">
         <div class="credential-card-header">
           <div class="credential-icon-box">
             <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -673,8 +672,8 @@ permalink: /about/
         </p>
       </div>
 
-      <!-- Credential 3: Execution of Construction Projects VOB -->
-      <div class="credential-card card-gold reveal-on-scroll" data-categories="mechanical pm">
+      <!-- Credential: Execution of Construction Projects VOB (Gold Accent) -->
+      <div class="credential-card card-gold reveal-on-scroll" data-categories="leadership mechanical">
         <div class="credential-card-header">
           <div class="credential-icon-box">
             <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -691,7 +690,7 @@ permalink: /about/
         </p>
       </div>
 
-      <!-- Credential 4: Rhetoric for Managers -->
+      <!-- Credential: Rhetoric for Managers -->
       <div class="credential-card reveal-on-scroll" data-categories="leadership">
         <div class="credential-card-header">
           <div class="credential-icon-box">
@@ -708,7 +707,7 @@ permalink: /about/
         </p>
       </div>
 
-      <!-- Credential 5: Leading and Developing Teams -->
+      <!-- Credential: Leading and Developing Teams -->
       <div class="credential-card reveal-on-scroll" data-categories="leadership">
         <div class="credential-card-header">
           <div class="credential-icon-box">
@@ -728,8 +727,8 @@ permalink: /about/
         </p>
       </div>
 
-      <!-- Credential 6: Manager & PM Core Foundations -->
-      <div class="credential-card reveal-on-scroll" data-categories="leadership pm">
+      <!-- Credential: Manager & PM Core Foundations (Gold Accent) -->
+      <div class="credential-card card-gold reveal-on-scroll" data-categories="leadership">
         <div class="credential-card-header">
           <div class="credential-icon-box">
             <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -743,6 +742,26 @@ permalink: /about/
         <div class="credential-institution"><strong>Kommunales Bildungswerk</strong> &bull; 11/2018</div>
         <p class="credential-description">
           Comprehensive training in annual appraisal structures, Work 4.0 principles, risk management matrices, Gantt scheduling, and practical counterstrategy planning.
+        </p>
+      </div>
+
+      <!-- Languages Card (Moved to Last Card & All Filters Enabled) -->
+      <div class="credential-card reveal-on-scroll" data-categories="leadership mechanical international">
+        <div class="credential-card-header">
+          <div class="credential-icon-box">
+            <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"></circle>
+              <line x1="2" y1="12" x2="22" y2="12"></line>
+              <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+            </svg>
+          </div>
+          <span class="credential-badge">Languages</span>
+        </div>
+        <h3 class="credential-title">Language Skills</h3>
+        <div class="credential-institution"><strong>Professional Working Proficiency</strong></div>
+        <p class="credential-description">
+          <span class="lang-item">&#127465;&#127466;&ensp;<strong>German</strong> &mdash; Native</span><br>
+          <span class="lang-item">&#127468;&#127463;&ensp;<strong>English</strong> &mdash; Fluent (Professional)</span>
         </p>
       </div>
 
