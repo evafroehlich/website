@@ -56,7 +56,7 @@ permalink: /projects/
             <div style="margin-bottom: 0.75rem;">
               <strong style="color: var(--accent-emerald);">Action:</strong> 
               <ul>
-                <li><strong>Thermal Engineering:</strong> Integrated process waste heat recovery with a new absorption chiller (backed by a redundant compression chiller) and established a direct connection to the local district heating grid (BTB Berlin), cutting out the local boiler entirely and enabling excess heat feedback.</li>
+                <li><strong>Thermal Engineering:</strong> Integrated process waste heat recovery with a new absorption chiller (backed by a redundant compression chiller) and established a direct connection to the local district heating grid, cutting out the local boiler entirely and enabling excess heat feedback.</li>
                 <li><strong>Systems Renovation:</strong> Upgraded the HVAC systems, Instrumentation &amp; Control (I&amp;C), and cremation lighting.</li>
                 <li><strong>Subsidy &amp; Bureaucracy Management:</strong> Acted as the primary pragmatic contact for public funding bodies; compiled all reports and structured planning documentation ("Bauplanungsunterlagen") according to Berlin's public building guidelines (ABau), keeping the Senate and funding stakeholders in the loop regarding claims and variations.</li>
                 <li><strong>Tendering &amp; Lifecycle Management:</strong> Managed the entire public bidding, contracting, and tendering lifecycle under German construction contracting (VOB) guidelines.</li>
