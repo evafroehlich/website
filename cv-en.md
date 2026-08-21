@@ -118,6 +118,7 @@ Specialised in HVAC design, solar thermal structures, and thermodynamics. Bachel
 
 | Year | Course | Provider |
 |------|--------|----------|
+| 08/2026 | Oxford Artificial Intelligence Programme | Saïd Business School, University of Oxford |
 | 11/2025 | Foundations of Successful Personnel Development | Haufe Akademie |
 | 07/2025 | Effective Use of ChatGPT & AI in Project Management | Haufe Akademie |
 | 11/2024 | Effective Time, Self & Stress Management | Haufe Akademie |

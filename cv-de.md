@@ -118,6 +118,7 @@ Schwerpunkte: Anlagentechnik, HLK, Solarthermie, Thermodynamik. Bachelorarbeit a
 
 | Jahr | Kurs | Anbieter |
 |------|------|----------|
+| 08/2026 | Oxford Artificial Intelligence Programme | Saïd Business School, University of Oxford |
 | 11/2025 | Grundlagen einer erfolgreichen Personalentwicklung | Haufe Akademie |
 | 07/2025 | ChatGPT & KI im Projektmanagement effektiv nutzen | Haufe Akademie |
 | 11/2024 | Effektives Zeit-, Selbst- und Stressmanagement | Haufe Akademie |
