@@ -102,9 +102,9 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
-  nokogiri (< 1.20)
+  nokogiri
   wdm (>= 0.1.0)
   webrick
 
 BUNDLED WITH
-   2.3.10
+  2.3.10
